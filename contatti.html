@@ -90,7 +90,7 @@ http://www.skype.com/go/skypebuttons
     var errore= function(messaggio) {
       $('.error').remove();
       grecaptcha.reset() 
-      $('#contact-form').before('<div class="alert error">C\'è stato un errore nel invio della mail. <br/><blackquote>' + messaggio + '</blackquote></div>').fadeIn('fast');
+      $('#contact-form').before('<div class="alert error">C\'è stato un errore nel invio della mail.<br/> Se il problema persiste puoi inviare direttamente la tua mail ad <strong>info chiocciola progettoaustralia.it</strong> <br/><blackquote>' + messaggio + '</blackquote></div>').fadeIn('fast');
     };
 
     $.ajax({
