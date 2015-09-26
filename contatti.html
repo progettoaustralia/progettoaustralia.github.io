@@ -88,7 +88,9 @@ http://www.skype.com/go/skypebuttons
     event.preventDefault();
     $('.error').remove(); // Removes any existing error messages upon submit to avoid any duplicated elements
     var errore= function(messaggio) {
-      $('#contact-form').before('<div class="alert">C\'è stato un errore nel invio della mail. <br/><blackquote>' + messaggio + '</blackquote></div>').fadeIn('fast');
+      $('.error').remove();
+      grecaptcha.reset() 
+      $('#contact-form').before('<div class="alert error">C\'è stato un errore nel invio della mail. <br/><blackquote>' + messaggio + '</blackquote></div>').fadeIn('fast');
     };
 
     $.ajax({
@@ -101,7 +103,7 @@ http://www.skype.com/go/skypebuttons
       success: function(data) {
         if(data.success){
           ga('send', 'event', 'contact-form', 'inviato');
-
+          $('.error').remove();
           $('#contact-form').before('<div class="success">Messaggio inviato con successo</div>');
           $('#contact-form').fadeOut();
         }else{
@@ -111,14 +113,14 @@ http://www.skype.com/go/skypebuttons
       },      
       error: function( jqXHR,textStatus,errorThrown ){
         errore(errorThrown)
-        console.log(jqXHR)
-        console.log(textStatus)
-        console.log(errorThrown)
+        //console.log(jqXHR)
+        //console.log(textStatus)
+        //console.log(errorThrown)
       },
       
       complete: function(XMLHttpRequest, status) {
-        console.log(XMLHttpRequest)
-        console.log(status)
+        //console.log(XMLHttpRequest)
+        //console.log(status)
        // $('form')[0].reset();
       }
     });
