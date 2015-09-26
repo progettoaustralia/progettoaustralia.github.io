@@ -111,10 +111,14 @@ http://www.skype.com/go/skypebuttons
       },      
       error: function( jqXHR,textStatus,errorThrown ){
         errore(errorThrown)
+        console.log(jqXHR)
+        console.log(textStatus)
+        console.log(errorThrown)
       },
       
       complete: function(XMLHttpRequest, status) {
-
+        console.log(XMLHttpRequest)
+        console.log(status)
        // $('form')[0].reset();
       }
     });
