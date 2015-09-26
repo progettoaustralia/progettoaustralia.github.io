@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /trackback/
+Disallow: /comments/
+Disallow: */trackback/
+Disallow: */comments/
+Disallow: /*?*
+Disallow: /*?
+Disallow: /tag/
+Disallow: /category/
+Sitemap: http://www.progettoaustralia.it/sitemap.xml

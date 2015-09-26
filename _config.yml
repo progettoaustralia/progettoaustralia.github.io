@@ -1,0 +1,141 @@
+# Site settings
+title: Progetto Australia
+email: info@progettoaustralia.it
+description: "Australia & oceano pacifico: un blog di  viaggi mozzafiato in Australia e altri gioielli del pacifico da  sogno"
+baseurl: ""
+url: "http://progettoaustralia.it"
+twitter_username: ProgettoAu
+facebook_username: progettoaustralia
+#github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+#markdown_ext:  markdown,mkdown,mkdn,mkd,md
+gems: []
+permalink: pretty
+
+redcarpet:
+  extensions:
+    - autolink
+    - footnotes
+    - smart
+
+
+kramdown:
+  input: GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  use_coderay: false
+
+collections:
+  feedback:
+    output: true
+    permalink: /feedback/:path/
+
+
+menu:
+  -
+   title: "Chi siamo"
+   permalink: "/chi-siamo/"
+  -
+    title: "Destinazioni"
+    permalink: "/le-nostre-destinazioni/"
+  -
+    title: "Viaggi di nozze"
+    permalink: "/viaggi-di-nozze/"
+  -
+    title: "A tua misura"
+    permalink: "/viaggi-a-tua-misura/"
+  -
+    title: "Info utili"
+    permalink: "/informazioni-utili/"
+  -
+    title: "Galleria"
+    permalink: "/galleria/"
+  -
+    title: "Contatti"
+    permalink: "/contatti/"
+
+prose:
+  rooturl: '_posts'
+  media: 'images'
+  metadata:
+    _feedback:
+       - name: layout
+         field:
+           element: "hidden"
+           value: feedback           
+    _posts:
+      - name: layout
+        field:
+          element: select
+          label: "tipo di contenuto"
+          placeholder: "Scegli il tipo"
+          options:
+            - 
+              name: lista
+              value: lista
+            - 
+              name: viaggio
+              value: viaggio
+            - 
+              name: post
+              value: post
+      - name: categories
+        field:
+          element: multiselect
+          label: "categorie"
+          placeholder: "Seleziona uno o più categorie"
+          options:
+            -
+              name: post
+              value: post              
+            - 
+              name: Lista nozze
+              value: lista-nozze
+            - 
+              name: australia
+              value: australia
+            - 
+              name: itinerario
+              value: itinerario
+            -
+              name: backpacker
+              value: backpacker
+            - 
+              name: "Luna di miele"
+              value: luna-di-miele
+            -
+              name: lowcost
+              value: lowcost
+            -
+              name: isole cook
+              value: isole_cook
+            -
+              name: Nuova caledonia
+              value: nuova-caledonia
+            -
+              name: Nuova zelanda
+              value: new-zeland
+            -
+              name:  Isole Fiji
+              value: isole-fiji
+            -
+              name: Polinesia Francese
+              value: polinesia-francese
+
+# defaults:
+#   -
+#     scope:
+# 	  path: ""
+# 	values:
+# 	  layout: "default"
+#   -
+#     scope:
+# 	  path: "liste-nozze"
+# 	  type: "liste"
+# 	values:
+# 	  layout: "liste"

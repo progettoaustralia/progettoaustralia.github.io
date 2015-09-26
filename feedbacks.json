@@ -1,0 +1,11 @@
+---
+layout: none
+---
+[{% for feedback in site.feedback %}
+    {
+        "title": {{feedback.title|jsonify}},
+        "url": {{feedback.url|jsonify}},
+        "created" : {{feedback.created|jsonify}},
+        "body": {{feedback.content|strip_newlines|strip_html|truncatewords:20|jsonify }}
+    }{% if forloop.last %}{% else %},{% endif %}
+{% endfor%}]

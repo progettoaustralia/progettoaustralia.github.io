@@ -1,0 +1,85 @@
+
+<div class="block" >
+	<h2>Non aspettare!</h2>
+	<div class="content">
+		<p>..richiedi il tuo itinerario su misura!</p>
+		<p>Se hai ancora dubbi o sei alla ricerca di informazioni riguardo 
+			viaggi in Australia,  Nuova Zelanda, Isole del Pacifico e Nuova Caledonia
+			<a href="/contatti/">SCRIVICI!</a>
+		</p>               
+	</div>
+</div>
+<div id="feedback-affix" class="block" >
+	<h2><a style="color:white" href='/tutti-i-nostri-feedback/'>Cosa dicono i nostri clienti</a></h2>
+	<div class="content"></div>
+
+</div>
+<div class="block">
+	<h2>Gli ultimi viaggi organizzati</h2>
+	<div class="content">
+		<ul>
+		{% for l in site.categories['viaggio'] limit:10 %}
+	    	<li> <a href="{{ l.url | prepend: site.baseurl}}">{{ l.title |remove :"Viaggio di"|remove :"Viaggio in"|remove :"Nozze di"}} </a></li>
+    	{% endfor %}
+		<ul>
+		 <a href="/esempi-viaggi-organizzati/">Leggi tutti i nostri viaggi</a>
+    </div>
+</div>
+
+
+<div class="block">
+	<h2>I nostri ultimi post</h2>
+	<div class="content">
+		<ul>
+		{% for l in site.categories['post'] limit:10 %}
+			<li> <a href="{{ l.url | prepend: site.baseurl }}">{{ l.title }} </a></li>
+		{% endfor %}
+		<ul>
+		 <a href="/tutti-i-nostri-post/">Leggi tutti i nostri posts</a>
+    </div>
+</div>
+
+<div class="block fb-block">
+	<h2>La nostra pagina di Facebook</h2>
+	<div class="content fb-like-box" data-href="https://www.facebook.com/progetto.australia" data-colorscheme="light" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
+</div>
+<script type="text/javascript">
+	function shuffle(array) {
+	  var currentIndex = array.length, temporaryValue, randomIndex ;
+
+	  // While there remain elements to shuffle...
+	  while (0 !== currentIndex) {
+
+	    // Pick a remaining element...
+	    randomIndex = Math.floor(Math.random() * currentIndex);
+	    currentIndex -= 1;
+
+	    // And swap it with the current element.
+	    temporaryValue = array[currentIndex];
+	    array[currentIndex] = array[randomIndex];
+	    array[randomIndex] = temporaryValue;
+	  }
+
+	  return array;
+	}
+	function nextFeedback(){
+		var fb=window.feedbacks[window.feedbacks_index]
+		$("#feedback-affix .content > *").fadeOut()
+		$("#feedback-affix .content").html("<p>"+fb.body+"</p><a href='"+fb.url+"'>leggi</a></br><em>"
+			+fb.title+((fb.created)? ", "+fb.created:"")+"</em>")
+		$("#feedback-affix .content > *").fadeIn()
+		window.feedbacks_index=(window.feedbacks_index+1)%window.feedbacks.length
+
+	}
+	$(document).ready(function(){
+		$.getJSON("/feedbacks.json",function(data){
+			var d=shuffle(data);
+			window.feedbacks=d;
+			window.feedbacks_index=0;
+			nextFeedback()
+			setInterval(nextFeedback,15000);
+
+		})
+	  
+	})
+</script>

@@ -1,0 +1,133 @@
+---
+layout: page
+title: Mettiti in contatto con noi
+permalink: /contatti/
+---
+
+<p>
+  Dacci qualche dettaglio sul viaggio dei tuoi sogni e noi ti aiuteremo a realizzarlo!
+</p>
+
+<h2>Scrivici una mail</h2>
+
+
+<form id="contact-form"  method="POST" >
+
+  <div class="form-group">
+    <label for="name">Il tuo nome</label>
+    <input type="text" class="form-control"  required placeholder="Mario Rossi" id="name" name="name">
+  </div>
+  <div class="form-group">
+    <label for="email">La tua Email</label>
+    <input type="email" class="form-control" required placeholder="mario.rossi@fantasia.it" id="email" name="email">
+  </div>
+  <div class="form-group">
+    <label for="name">Soggetto</label>
+    <input type="subject" class="form-control"  required placeholder="Viaggio di gruppo/nozze..." id="subject" name="subject">
+  </div>  
+
+  <div class="form-group">
+   <label for="message">Descrivi il viaggio che vorresti</label>
+   <textarea class="form-control" rows="5"  required fireplaceholder="Ho sempre desiderato visitare ..." id="message" name="message"></textarea>
+  </div>
+ <!-- Antibot   -->
+    <div style="padding:30px 0">
+    <script type="text/javascript"    src="http://www.google.com/recaptcha/api/challenge?k=6LfvZ_kSAAAAAE44u78WBQjXtUkecX1Hj0at0W-a"></script>
+     <noscript>
+       <iframe src="http://www.google.com/recaptcha/api/noscript?k=6LfvZ_kSAAAAAE44u78WBQjXtUkecX1Hj0at0W-a"
+       height="300" width="500" frameborder="0"></iframe><br>
+       <textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
+       <input type="hidden" name="recaptcha_response_field" value="manual_challenge">
+     </noscript>
+  </div>
+<button value="Send Message" class="send btn btn-default" type="submit" id="submit" name="submit">
+  <i class="icon-mail"></i> Spedisci mail</button>
+
+
+</form>
+<h2>Contattaci su skype</h2>
+
+<table style="width:100%" class="corpo">
+  <tr>
+    <td>Paola secoli</td>
+    <td><strong style="font-weight:bold">skype</strong> paola.secoli1</td>
+        <td><!--
+Skype 'Il mio stato' button
+http://www.skype.com/go/skypebuttons
+-->
+<script type="text/javascript" src="http://download.skype.com/share/skypebuttons/js/skypeCheck.js"></script>
+
+<script type="text/javascript" src="http://www.skypeassets.com/i/scom/js/skype-uri.js"></script>
+<div class="skype" id="SkypeButton_Call_paola.secoli1_1">
+  <script type="text/javascript">
+    Skype.ui({
+      "name": "call",
+      "element": "SkypeButton_Call_paola.secoli1_1",
+      "participants": ["paola.secoli1"],
+      "imageSize": 24
+    });
+  </script>
+</div>
+</td>
+</tr>
+<tr>
+  <td>Alessandra Magi</td>
+  <td><strong style="font-weight:bold">skype</strong> alemagika69</td>
+  <td><script type="text/javascript" src="http://www.skypeassets.com/i/scom/js/skype-uri.js"></script>
+    <div class="skype" id="SkypeButton_Call_alemagika69_1">
+      <script type="text/javascript">
+        Skype.ui({
+          "name": "call",
+          "element": "SkypeButton_Call_alemagika69_1",
+          "participants": ["alemagika69"],
+          "imageSize": 24
+        });
+      </script>
+    </div>
+  </tr>
+</table>
+
+
+<script type="text/javascript">
+ $(document).ready(function(){
+   $('#contact-form').submit(function(event) {
+    event.preventDefault();
+    $('.error').remove(); // Removes any existing error messages upon submit to avoid any duplicated elements
+    var errore= function(messaggio) {
+      $('#contact-form').before('<div class="alert">C\'è stato un errore nel invio della mail. <br/><blackquote>' + messaggio + '</blackquote></div>').fadeIn('fast');
+    };
+
+    $.ajax({
+      type: 'POST',
+      url: 'http://send.progettoaustralia.it/spedisci.php',   
+      data: $('#contact-form').serialize(),
+      dataType: 'json',
+      cache: false,
+      timeout: 7000,
+      success: function(data) {
+        if(data.success){
+          ga('send', 'event', 'contact-form', 'inviato');
+
+          $('#contact-form').before('<div class="success">Messaggio inviato con successo</div>');
+          $('#contact-form').fadeOut();
+        }else{
+          ga('send', 'event', 'contact-form', 'errore');
+          errore(data.msg)
+        }
+      },      
+      error: function( jqXHR,textStatus,errorThrown ){
+        errore(errorThrown)
+      },
+      
+      complete: function(XMLHttpRequest, status) {
+
+       // $('form')[0].reset();
+      }
+    });
+    return false;
+
+  });
+});
+  // wait for the DOM to be loaded 
+  
+</script>

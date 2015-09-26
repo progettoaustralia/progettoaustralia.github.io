@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang=it>
+
+  {% include head.html %}
+
+  <body>
+    {% include scroller.html%}
+
+    <div class="container">
+    {% include header.html %}
+
+    <div class="page-content row">
+    	<div class=" col-sm-8">
+   		<div class="post">
+          <header class="post-header">
+          <a name="page-header"></a>
+            <h1>{{ page.title }}</h1>
+          </header>
+
+          <article class="post-content">
+            {{ content  }}
+          </article>
+
+        </div>
+		</div>
+		<aside class="col-sm-4">
+      <div class="block">
+         <h2>Le ultime liste di nozze</h2>
+          <ul class="content">
+          {% for l in site.categories['lista-nozze'] limit:10 %}
+          <li>
+            <a href="{{ l.url | prepend: site.baseurl}}">
+            {{ l.title |remove:"Lista nozze di"|remove:"Lista nozze" }}</a>
+          </li>
+          {% endfor %}
+          <ul>
+          <a href="/le-nostre-liste-di-nozze/">Leggi tutte le nostre liste di nozze</a>
+        </div>
+		    {% include side.html %}
+		</aside>
+    </div>
+
+
+   {% include footer.html %}
+</div>
+  </body>
+</html>

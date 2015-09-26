@@ -1,0 +1,26 @@
+---
+layout: index
+---
+
+<div class="home">
+
+  
+
+  <div class="posts">
+    {% for post in site.categories['post'] limit:1 %}
+      {% assign content = post.content %}
+      {% assign page = post %}
+      {% include post_home.html %}
+     {% endfor %}
+  </div>
+
+
+<h2>Altri posts che ti potrebbero interessare</h2>
+  <ul class="next-posts">
+  {% for post in site.categories['post'] limit:10 offset:1 %}
+    <li><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a></li>
+  {% endfor %}
+  </ul>
+  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+
+</div>

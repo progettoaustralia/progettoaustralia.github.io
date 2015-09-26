@@ -1,0 +1,4 @@
+#Ingoring the generated web site
+_site/
+Gemfile.lock
+

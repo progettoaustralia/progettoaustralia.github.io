@@ -1,0 +1,8 @@
+ <script type="text/javascript">
+   $(document).ready(function(){
+    if(window.location.href.indexOf("#")==-1 && $(document).scrollTop()<300){
+    	var target_top = $("a[name='page-header']");
+      	$("html, body").delay(500).animate({scrollTop: target_top.offset().top-20 }, 1000);
+      }
+   })
+</script>
