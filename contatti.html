@@ -3,6 +3,7 @@ layout: page
 title: Mettiti in contatto con noi
 permalink: /contatti/
 ---
+<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
 <p>
   Dacci qualche dettaglio sul viaggio dei tuoi sogni e noi ti aiuteremo a realizzarlo!
@@ -31,15 +32,8 @@ permalink: /contatti/
    <textarea class="form-control" rows="5"  required fireplaceholder="Ho sempre desiderato visitare ..." id="message" name="message"></textarea>
   </div>
  <!-- Antibot   -->
-    <div style="padding:30px 0">
-    <script type="text/javascript"    src="http://www.google.com/recaptcha/api/challenge?k=6LfvZ_kSAAAAAE44u78WBQjXtUkecX1Hj0at0W-a"></script>
-     <noscript>
-       <iframe src="http://www.google.com/recaptcha/api/noscript?k=6LfvZ_kSAAAAAE44u78WBQjXtUkecX1Hj0at0W-a"
-       height="300" width="500" frameborder="0"></iframe><br>
-       <textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
-       <input type="hidden" name="recaptcha_response_field" value="manual_challenge">
-     </noscript>
-  </div>
+    <div style="padding:30px 0" class="g-recaptcha" data-sitekey="6LfvZ_kSAAAAAE44u78WBQjXtUkecX1Hj0at0W-a"></div>
+
 <button value="Send Message" class="send btn btn-default" type="submit" id="submit" name="submit">
   <i class="icon-mail"></i> Spedisci mail</button>
 
