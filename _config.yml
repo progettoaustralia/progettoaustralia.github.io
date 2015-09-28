@@ -11,7 +11,9 @@ facebook_username: progettoaustralia
 # Build settings
 markdown: kramdown
 #markdown_ext:  markdown,mkdown,mkdn,mkd,md
-gems: []
+gems:
+  - jekyll-redirect-from
+  
 permalink: pretty
 
 redcarpet:
