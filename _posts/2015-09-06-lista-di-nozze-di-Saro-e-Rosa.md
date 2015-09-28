@@ -5,7 +5,7 @@ categories:
   - "lista-nozze"
   - viaggio
 published: true
-permalink:http://progettoaustralia.it/liste-nozze/viaggio/2015/09/06/lista-di-nozze-di-Saro-e-Rosa/
+permalink: "/liste-nozze/viaggio/2015/09/06/lista-di-nozze-di-Saro-e-Rosa/"
 ---
 
 
