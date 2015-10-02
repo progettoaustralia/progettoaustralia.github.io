@@ -8,6 +8,13 @@ published: false
 
 ![2135613IMG-20150929-WA0000.jpg]({{site.baseurl}}/images/2135613IMG-20150929-WA0000.jpg)
 
+_Grazie a tutti di cuore!_
+
+BANCA: FINECO
+IBAN: IT58Q0301503200000003370352
+CAUSALE: Viaggio di nozze
+
+ 
 **21/12** Partenza da Milano Linate 
 
 **22/12** Arrivo a Singapore 
