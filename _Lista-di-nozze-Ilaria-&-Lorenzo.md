@@ -34,30 +34,21 @@ Nel pomeriggio tour a Phillips Island + parata dei pinguini
 
 ![p campbell.jpg]({{site.baseurl}}/images/p campbell.jpg)
 
-
 **30/12** Port Campbell – Robe  (380 km circa)
 
 **31/12** Robe – Cape Jervis (420 km circa) 
 
 **01/01** Traghetto per Kangaroo Island 
 
-Emu Bay Superviews – Cottage con cucina attrezzata
+**02/01** Kangaroo Island 
 
-02/01 Kangaroo Island 
+**03/01** Kangaroo Island 
 
-Emu Bay Superviews – Cottage con cucina attrezzata
+**04/01** Kangaroo Island 
 
-03/01 Kangaroo Island 
+**05/01** Kangaroo Island 
 
-Emu Bay Superviews – Cottage con cucina attrezzata
 
-04/01 Kangaroo Island 
-
-Emu Bay Superviews – Cottage con cucina attrezzata
-
-05/01 Kangaroo Island 
-
-Emu Bay Superviews – Cottage con cucina attrezzata
 
 06/01 Traghetto da Kangaroo Island 
 
