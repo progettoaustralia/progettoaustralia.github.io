@@ -1,6 +1,8 @@
 ---
 layout: lista
-categories: null
+categories: 
+  - "lista-nozze"
+  - viaggio
 published: true
 ---
 
