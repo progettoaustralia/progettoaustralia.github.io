@@ -28,25 +28,18 @@ Nel pomeriggio tour a Phillips Island + parata dei pinguini
 
 ![pinguini.jpg]({{site.baseurl}}/images/pinguini.jpg)
 
-28/12 Giornata libera
+**28/12** Giornata libera
 
-29/12 Ritiro macchina a noleggio in citta’. Hyundai Elantra (Tariffa all-inclusive 
+**29/12** Melbourne – Port Campbell  (285 km circa)
 
-chilometraggio illimitato one-way fee inclusa) 
+![p campbell.jpg]({{site.baseurl}}/images/p campbell.jpg)
 
-Melbourne – Port Campbell  (285 km circa) 
 
-Best Western – Standard room 
+**30/12** Port Campbell – Robe  (380 km circa)
 
-30/12 Port Campbell – Robe  (380 km circa)
+**31/12** Robe – Cape Jervis (420 km circa) 
 
-Robe House  – Apartment (colazione inclusa) 
-
-31/12 Robe – Cape Jervis (420 km circa) 
-
-Cape Jervis Holidays Unit – Apartment (colazione inclusa) 
-
-01/01 Traghetto per Kangaroo Island 
+**01/01** Traghetto per Kangaroo Island 
 
 Emu Bay Superviews – Cottage con cucina attrezzata
 
