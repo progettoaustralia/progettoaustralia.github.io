@@ -100,4 +100,4 @@ Volo Noumea – Isola dei Pini
 
 **22/01** Volo Tokyo  – Amsterdam  
 		  Volo Amsterdam – Milano Linate 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
