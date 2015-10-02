@@ -105,9 +105,7 @@ Volo Noumea – Isola dei Pini
 
 **19/01** Volo Noumea - Tokyo   
 
-**22/01** Volo Tokyo  – Amsterdam 
-
-		  Volo Amsterdam – Milano Linate
+**22/01** Volo Tokyo – Milano Linate
 		  
 
 		  
