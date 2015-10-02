@@ -4,11 +4,8 @@ categories:
   - "lista-nozze"
   - viaggio
 published: true
+title: "Nozze Ilaria & Lorenzo (Linda & Mia)"
 ---
-
-
-
-## Nozze Ilaria & Lorenzo (Linda & Mia)
 
 ![2135613IMG-20150929-WA0000.jpg]({{site.baseurl}}/images/2135613IMG-20150929-WA0000.jpg)
 
