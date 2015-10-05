@@ -8,9 +8,8 @@ title: "Nozze Ilaria & Lorenzo (Linda & Mia)"
 ---
 
 
+
 ![2135613IMG-20150929-WA0000.jpg]({{site.baseurl}}/images/2135613IMG-20150929-WA0000.jpg)
-
-
 
 _Grazie a tutti di cuore!_
 
