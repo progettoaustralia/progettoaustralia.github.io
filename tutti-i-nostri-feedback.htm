@@ -6,7 +6,7 @@ permalink: /tutti-i-nostri-feedback/
 ---
 
 <ul>
-{% for post in site.feedback | sort: date |revert %}
+{% for post in site.feedback | sort: date  %}
     <li><a href="{{ post.url }}"><strong>{{ post.relative_path|replace:'_feedback/','' |truncate: 10,''}}</strong>{{ post.title }}</a></li>
 {% endfor %}
  </ul>
