@@ -3,10 +3,11 @@ published: true
 layout: lista
 categories: 
   - "lista-nozze"
-  - viaggio
   - australia
+  - viaggio
 permalink: "/lista-nozze/roberto-e-silvia/"
 ---
+
 
 ##Lista di nozze di Roberto & Silvia
 
@@ -16,16 +17,6 @@ permalink: "/lista-nozze/roberto-e-silvia/"
 ll vero viaggio di scoperta non consiste nel cercare nuove terre, ma nell’avere nuovi occhi
 <em>Marcel Proust</em>
 </div>
-
-
-<address>
-IBAN : IT66F0316901600CC0010212186<br/>
-Intestato a Roberto Vigani e Silvia Valenti banca ING Direct<br/>
-Causale: Viaggio di nozze in Australia<br/>
-</address>
-
-
-**Grazie per aver contribuito a realizzare il nostro viaggio dei sogni!**
 
 
 
