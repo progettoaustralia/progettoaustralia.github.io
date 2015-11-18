@@ -9,6 +9,7 @@ published: true
 
 
 
+
 ## Viaggio di nozze di Ambra & Alberto
 
 **Il matrimonio avrà luogo il giorno 1/08/2015**
@@ -20,13 +21,6 @@ published: true
 "Viaggiare, sognare, innamorarsi, tre inviti per la stessa cosa. Tre modi per andare in luoghi che non sempre riusciamo a capire."</br>
 <strong style="text-align:right;display:block">Angeles Mastretta</strong>
 </div>
-
-<address>
-Intestazione beneficiario: BELLUCO ALBERTO <br/>
-Conto di Accredito: IT86X0305801604100571343064 <br/>
-Banca e filiale: CHE BANCA! S.P.A <br/>
-</address>
-Grazie a tutti gli amici e i parenti che decideranno di partecipare alla realizzazione del nostro sogno!
 
 
 ###  19/09  Melbourne
