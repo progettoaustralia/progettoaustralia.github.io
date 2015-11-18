@@ -1,26 +1,18 @@
 ---
 published: true
 layout: lista
-categories:
+categories: 
   - "lista-nozze"
-  - "viaggio"
   - australia
+  - viaggio
 title: Lista di nozze Anna e Alessandro
 ---
+
 
 ![Anna e Alessandro]({{site.baseurl}}/images/DSCN3455.JPG)
 
 **"Grazie di cuore a tutti quelli che ci vogliono bene!
 Questo viaggio da sogno diventerà realtà grazie a voi."**
-
-
-<address>
-Banca Sella </br>
-IBAN:  IT77R0326801401052516629090</br>
-CODICE SWIFT: SELBIT2BXXX</br>
-Beneficiario: Alessandro Grasso</br>
-Causale: Matrimonio A&A"
-</address>
 
 
 <div class="citazione"> 
