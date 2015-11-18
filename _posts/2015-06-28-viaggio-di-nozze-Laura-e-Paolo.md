@@ -3,9 +3,10 @@ published: true
 layout: lista
 title: Viaggio di nozze di Laura e Paolo
 categories: 
-  - viaggi
   - "lista-nozze"
+  - viaggi
 ---
+
 
 
 
@@ -17,12 +18,6 @@ categories:
 
 _Grazie di cuore a tutti coloro che vorranno contribuire alla realizzazione di questo fantastico viaggio in Australia! Potete partecipare alla nostra Lista di Nozze con un bonifico bancario:_
 
-<address>
-ING DIRECT<br/>
-IBAN: IT17M0316901600CC0011055861<br/>
-Beneficiari: Laura Donna e Paolo Cugno<br/>
-CAUSALE: Viaggio di nozze Laura e Paolo
-</address>
 
 ![Cartina Australia.jpg]({{site.baseurl}}/images/Cartina Australia.jpg)
 
