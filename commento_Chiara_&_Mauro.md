@@ -1,8 +1,9 @@
 ---
 layout: lista
 categories: null
-published: false
+published: true
 ---
+
 
 
 ## Commento di Chiara & Mauro
