@@ -25,197 +25,102 @@ Vi faremo vedere le foto!!!"
 10/04  Milano – Dubai 
 
 11/04 Dubai  - Melbourne 
-
-Transfer libero in Hotel ( shuttle o taxi)
-
-Pernottamento Langham Hotel – Grand Classic
+Langham Hotel – Grand Classic
 
 12/04 Melbourne visita città
+Langham Hotel – Grand Classic
 
-Pernottamento Langham Hotel – Grand Classic
+13/04 Ritiro macchina a noleggio in città 
+Proseguimento per Port Campbell (280km)lungo la strada panoramica “ Great Ocean Road”
+Best Western Port Campbell – standard room
 
-13/04 Ritiro macchina a noleggio in città Toyota Corolla o similare ( assicurazione 
-
-all inclusive e kilometraggio illimitato, one way fee non inclusa) 
-
-Proseguimento per Port Campbell ( 280km) 
-
-Lungo la strada panoramica “ Great Ocean Road”
-
-Pernottamento Best Western Port Campbell – standard room
-
-14/04 Port Campbell – Halls Gap ( 230km) 
-
+14/04 Port Campbell – Halls Gap (230km) 
 Visita Grampians National park 
+D’Altons Resort – studio cottage
 
-Pernottamento D’Altons Resort – studio cottage
+15/04 Halls Gap - Victor Harbour (500km) 
+Mc Cracken Country Club  – Resort spa room 
 
-15/04 Halls Gap  - Victor Harbour ( 500km) 
-
-Pernottamento Mc Cracken Country Club  – Resort spa room 
-
-16/04 Victor Harbour – Cape Jervis ( 60km) 
-
-Traghetto per Kangaroo Island ( 45 minuti di navigazione) 
-
-Pernottamento Emu Bay Superviews  - Cottage ( con cucina)
+16/04 Victor Harbour – Cape Jervis (60km) 
+Traghetto per Kangaroo Island 
+Emu Bay Superviews  - Cottage
 
 17/04 Kangaroo Island 
+Emu Bay Superviews  - Cottage 
 
-Pernottamento Emu Bay Superviews  - Cottage ( con cucina)
+18/04 	Traghetto Kangaroo Island – Cape Jervis 
+		Proseguimento per Adelaide 
+		Breakfree Adelaide – studio apartment
 
-18/04 Traghetto Kangaroo Island – Cape Jervis 
+ 19/04 	Consegna auto in aeroporto 
+		Adelaide – Port Lincoln  
+		Port Lincoln Hotel  - Ocean View Balcony Room
 
-Proseguimento per Adelaide 
+20/04 	Giornata dedicata allo White Shark Cage – Adventure Bay Charter 
+ 		Port Lincoln Hotel  - Ocean View Balcony Room
 
-Pernottamento Breakfree Adelaide – studio apartment
+21/04 	Port Lincoln – Adelaide
+		Adelaide - Alice Springs 
+		Ritiro macchina a noleggio in aeroporto  4x4 Toyota Landcruiser 
+		Lasseters Hotel Casino – standard room (inclusa colazione)
 
- 19/04 Consegna auto in aeroporto 
+22/04 	Partenza per Kings Canyon (300 km di cui 200km di sterrato, 				attravero la Meerenie Loop, strada di proprietà degli  aborigeni)		
+		Visita Kings Canyon nel pomeriggio / tramonto 
+		Kings Canyon Resort – standard room
 
-Adelaide – Port Lincoln ( Volo QF 2273 17.00 – 17.50) 
+23/04 	Partenza per Ayers Rock ( 300km) 
+		Monti Olgas 
+		Cena Sound Of Silence 
 
-Pernottamento Port Lincoln Hotel  - Ocean View Balcony Room
+Un’ora prima del tramonto si parte in bus dal vostro hotel diretti in una apposita zona del parco di Ayers Rock. 
 
-20/04 Giornata dedicata allo White Shark Cage – Adventure Bay Charter 
+Dopo aver degustato l'aperitivo, ammirando il tramonto su Uluru, e ascoltando il suono del didgeridoo (il famoso strumento a fiato aborigeno), ci si accomoda ai tavoli posti nel deserto.
 
-N.B. La quota comprende la possibilità di osservare dalla barca. Se si vuole 
-
-entrare nella gabbia o immergersi sott’acqua occorre pagare 100aud a persona 
-
-direttamente in barca al momento
-
-  Pernottamento Port Lincoln Hotel  - Ocean View Balcony Room
-
-21/04 Port Lincoln – Adelaide ( Volo QF 2266 06.45 – 07.35)
-
-Adelaide - Alice Springs ( Volo QF 723 10.20 – 12.30) 
-
-Ritiro macchina a noleggio in aeroporto  4x4 Toyota Landcruiser o similare ( 
-
-kilometraggio illimitato e assicurazione all inclusive)
-
-Pernottamento Lasseters Hotel Casino – standard room (inclusa colazione)
-
-22/04 Partenza per Kings Canyon ( 300 km di cui 200km di sterrato, attravero la 
-
-Meerenie Loop, strada di proprietà degli  aborigeni per cui occorre pagare un 
-
-pedaggio di 5 aud circa da acquistare il giorno stesso presso ufficio del turismo di 
-
-Alice Springs o al Glenn Helen Resort lungo la strada) 
-
-Visita Kings Canyon nel pomeriggio / tramonto 
-
-Pernottamento Kings Canyon Resort – standard room
-
-23/04 Partenza per Ayers Rock ( 300km) 
-
-Monti Olgas 
-
-Cena Sound Of Silence 
-
-Un’ora prima del tramonto si parte in bus dal vostro hotel diretti in una apposita zona 
-
-del parco di Ayers Rock. 
-
-Dopo aver degustato l'aperitivo, ammirando il tramonto su Uluru, e ascoltando il suono 
-
-del didgeridoo (il famoso strumento a fiato aborigeno), ci si accomoda ai tavoli posti nel 
-
-deserto.
-
-L’atmosfera e’ davvero emozionante. E quando la cena inizia nel silenzio assoluto si ode 
-
-solo il suono del vento. Dopo cena quando il cielo e’ ammantato di stelle, queste 
-
-verranno mostrate agli ospiti. Il cielo australe e’ meraviglioso ed unico. Potere ammirare 
-
-la maestosa bellezza delle nubi magellaniche, della Croce del Sud e di moltissime altre 
-
+L’atmosfera e’ davvero emozionante. E quando la cena inizia nel silenzio assoluto si ode solo il suono del vento. Dopo cena quando il cielo e’ ammantato di stelle, queste verranno mostrate agli ospiti. Il cielo australe e’ meraviglioso ed unico. Potere ammirare la maestosa bellezza delle nubi magellaniche, della Croce del Sud e di moltissime altre 
 costellazioni
 
-Pernottamento Voyages Outback Pioneer lodge – budget  room con bagno
+		Voyages Outback Pioneer lodge – budget  room con bagno
 
-24/04 Visita di Uluru all’alba  e passeggiata intorno alla base 
+24/04 	Visita di Uluru all’alba  e passeggiata intorno alla base 
+		Ayers Rock  - Cairns 
+		Pacific Hotel Cairns – executive room
 
-Ayers Rock  - Cairns ( Volo QF 1854 15.25 – 18.20) 
+25/04 	Escursione organizzata Barriera Corallina esterna – Passion of 				Paradise 
+		Pacific Hotel Cairns – executive room 
 
-Trasferimento libero in Hotel
+26/04 	Escursione organizzata 4x4  Cape Tribulation & Daintree Forest – 			Billy Tea Bush Safari 
+		Pacific Hotel Cairns – executive room 
 
-Pernottamento Pacific Hotel Cairns – executive room
+27/04  	Cairns - Sydney 
+		Travelodge Phillip Street – standard room 
 
-25/04 Escursione organizzata Barriera Corallina esterna – Passion of Paradise 
+28/04   Sydney 
+		Travelodge Phillip Street – standard room
 
-Pernottamento Pacific Hotel Cairns – executive room 
+29/04 	Sydney 
+		Travelodge Phillip Street – standard room
 
-26/04 Escursione organizzata 4x4  Cape Tribulation & Daintree Forest – Billy Tea Bush 
+30/04   Sydney  - Noumea 
+		Noumea – Ile Des Pins ( Volo Air Caledonie TY413 15.50 – 16.20) 
+        Le Meridien Ile Des Pins – Panoramic Bungalow Suite 
+        
+01/05 	Ile Des Pins 
+		Pernottamento Le Meridien Ile Des Pins – Panoramic Bungalow Suite 
+        
+02/05 	Ile Des Pins
+		Le Meridien Ile Des Pins – Panoramic Bungalow Suite 
+        
+03/05 	Ile Des Pins 
+		Le Meridien Ile Des Pins – Panoramic Bungalow Suite 
 
-Safari 
+04/05 	Ile Des Pins – Noumea 
+		Le Merdien Noumea – Garden room 
+        
+05/05   Noumea – Brisbane ( Volo QF 364 17.15 – 19.00) 
+		Brisbane – Dubai ( Volo QF 8435 21.00 – 05.20 (06/05) )
 
-Pernottamento Pacific Hotel Cairns – executive room 
-
-27/04   Trasferimento libero in aeroporto ( shuttle o taxi) 
-
-Cairns - Sydney ( Volo QF 5957 10.15 – 13.10 ) 
-
-Trasferimento libero in Hotel ( shuttle o taxi) 
-
-  Pernottamento Travelodge Phillip Street – standard room 
-
-28/04     Sydney 
-
-Pernottamento Travelodge Phillip Street – standard room
-
-29/04 Sydney 
-
-Pernottamento Travelodge Phillip Street – standard room
-
-30/04       Sydney  - Noumea ( Volo QF 0091 07.40 – 11.30) 
-
-Transfer organizzato all’aeroporto domestico 
-
-Noumea – Ile Des Pins ( Volo Air Caledonie TY413 15.50 – 16.20) 
-
-     Trasferimento organizzato al Resort 
-
-                   Pernottamento Le Meridien Ile Des Pins – Panoramic Bungalow Suite ( mezza 
-
-pensione)
-
-01/05 Ile Des Pins 
-
-                   Pernottamento Le Meridien Ile Des Pins – Panoramic Bungalow Suite ( mezza 
-
-pensione)
-
-02/05 Ile Des Pins 
-
-                   Pernottamento Le Meridien Ile Des Pins – Panoramic Bungalow Suite ( mezza 
-
-pensione)
-
-03/05 Ile Des Pins 
-
-                   Pernottamento Le Meridien Ile Des Pins – Panoramic Bungalow Suite ( mezza 
-
-pensione)
-
-04/05 Trasferimento organizzato in aeroporto 
-
-Ile Des Pins – Noumea ( Volo Air Caledonie TY 408 11.50 – 12.20) 
-
-Trasferimento organizzato in Hotel 
-
-Pernottamento Le Merdien Noumea – Garden room ( con colazione a buffet)
-
-05/05        Trasferimento organizzato in aeroporto per rientro in Italia 
-
-Noumea – Brisbane ( Volo QF 364 17.15 – 19.00) 
-
-      Brisbane – Dubai ( Volo QF 8435 21.00 – 05.20 (06/05) )
-
- 06/05 Dubai – Milano ( Volo QF 8205 09.45 – 14.20)
+06/05 	Dubai – Milano ( Volo QF 8205 09.45 – 14.20)
 
 
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+
