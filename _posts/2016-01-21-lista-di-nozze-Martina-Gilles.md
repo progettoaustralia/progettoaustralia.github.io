@@ -18,7 +18,7 @@ intestato a Acquaroli Gilles e Martina Lorenzi<br/>
 Banco Popolare filiale di Calcinate (BG)
 </address>
 
-<div class="citazione">Grazie a tutti!!
+<div class="citazione">Grazie a tutti!!<br/>
 Vi faremo vedere le foto!!!"</div>
 
 
