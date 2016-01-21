@@ -18,8 +18,8 @@ intestato a Acquaroli Gilles e Martina Lorenzi<br/>
 Banco Popolare filiale di Calcinate (BG)
 </address>
 
-"Grazie a tutti!!
-Vi faremo vedere le foto!!!"
+<div class="citazione">Grazie a tutti!!
+Vi faremo vedere le foto!!!"</div>
 
 
 
@@ -80,7 +80,7 @@ Dopo aver degustato l'aperitivo, ammirando il tramonto su Uluru, e ascoltando il
 L’atmosfera e’ davvero emozionante. E quando la cena inizia nel silenzio assoluto si ode solo il suono del vento. Dopo cena quando il cielo e’ ammantato di stelle, queste verranno mostrate agli ospiti. Il cielo australe e’ meraviglioso ed unico. Potere ammirare la maestosa bellezza delle nubi magellaniche, della Croce del Sud e di moltissime altre 
 costellazioni
 
-			Voyages Outback Pioneer lodge – budget  room con bagno
+Voyages Outback Pioneer lodge – budget  room con bagno
 
 **24/04**	Visita di Uluru all’alba  e passeggiata intorno alla base 
 			Ayers Rock  - Cairns 
