@@ -1,8 +1,10 @@
 ---
 layout: lista
-categories: null
+categories: 
+  - "lista-nozze"
 published: true
 ---
+
 
 
 
