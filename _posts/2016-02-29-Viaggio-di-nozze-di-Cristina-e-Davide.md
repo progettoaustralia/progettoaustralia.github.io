@@ -1,7 +1,9 @@
 ---
 layout: lista
 categories: 
-  - "null"
+  - "lista-nozze"
+  - australia
+  - itinerario
 published: true
 ---
 
