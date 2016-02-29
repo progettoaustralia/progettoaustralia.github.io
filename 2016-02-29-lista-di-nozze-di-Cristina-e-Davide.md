@@ -7,6 +7,16 @@ published: false
 
 ## Lista di nozze di Cristina & Davide
 
+
+![Salento-701.JPG]({{site.baseurl}}/images/Salento-701.JPG)
+
+_**"Ci sono viaggi che si fanno con un unico bagaglio: il cuore. 
+Audrey Hepburn "**_
+
+ IBAN:
+IT09 R082 1432 8800 0000 0009 219
+
+
 **12/09** partenza da Milano 
 
 **13/09** in volo
