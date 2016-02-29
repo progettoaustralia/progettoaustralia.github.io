@@ -1,10 +1,9 @@
 ---
 layout: lista
-categories: null
+categories: 
+  - "null"
 published: true
 ---
-
-
 
 
 ## Viaggio di nozze di Cristina & Davide
