@@ -9,6 +9,7 @@ published: true
 
 
 
+
 ## Viaggio di nozze di Cristina & Davide
 
 
@@ -108,9 +109,8 @@ published: true
 - **05/10** Volo Sydney – Milano
 - **06/10** Arrivo a Milano
 
-
-CAUSALE: Viaggio di nozze Davide e Cristina
- 
- IBAN: IT09 R082 1432 8800 0000 0009 219
- 
+<address>
+CAUSALE: Viaggio di nozze Davide e Cristina <br/>
+IBAN: IT09 R082 1432 8800 0000 0009 219
+</address>
  GRAZIE!
