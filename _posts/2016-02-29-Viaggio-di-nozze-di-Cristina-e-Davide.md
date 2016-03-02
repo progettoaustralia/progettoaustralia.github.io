@@ -55,9 +55,9 @@ published: true
 - **21/09** Volo Adelaide – Alice Springs 
   Ritiro macchina a noleggio in aeroporto 4x4 
   Pernottamento Alice Springs - Aurora 
-  
-  ![]({{site.baseurl}}/images/Kings%20Canyon%202.JPG)
-  
+
+![Kings Canyon_Garden of Eden_Voyages.jpg]({{site.baseurl}}/images/Kings Canyon_Garden of Eden_Voyages.jpg)
+
 
 - **22/09** Alice Springs – Kings Canyon (attraverso la Mereenie Loop, 320 km circa di cui 200 non asfaltati) 
   Visita libera del Kings Canyon
