@@ -55,12 +55,13 @@ published: true
 - **21/09** Volo Adelaide – Alice Springs 
   Ritiro macchina a noleggio in aeroporto 4x4 
   Pernottamento Alice Springs - Aurora 
+  
+  ![]({{site.baseurl}}/images/Kings%20Canyon%202.JPG)
+  
+
 - **22/09** Alice Springs – Kings Canyon (attraverso la Mereenie Loop, 320 km circa di cui 200 non asfaltati) 
   Visita libera del Kings Canyon
   Pernottamento a Kings Canyon - Kings Canyon Resort
-  
-  ![]({{site.baseurl}}/images/KINGS%20CANYON.jpg)
-  
 - **23/09**Kings Canyon – Ayers Rock (320 km circa)
   Visita libera Uluru  e Monti Olgas al tramonto
   Pernottamento a Ayers Rock - Voyages Outback Resort 
