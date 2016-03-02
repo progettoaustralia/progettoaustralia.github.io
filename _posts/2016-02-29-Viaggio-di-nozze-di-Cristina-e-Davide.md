@@ -110,6 +110,7 @@ published: true
 
 
 CAUSALE: Viaggio di nozze Davide e Cristina
+ 
  IBAN: IT09 R082 1432 8800 0000 0009 219
  
  GRAZIE!
