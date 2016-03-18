@@ -1,12 +1,12 @@
 ---
-layout: lista
+layout: feedback
 categories: null
 published: true
+title: "Commento di Madda & Gigi"
 ---
 
 
-
-## Commento di Madda & Gigi
+# Commento di Madda & Gigi
 
 ![Gigi e Madda.jpg]({{site.baseurl}}/images/Gigi e Madda.jpg)
 
