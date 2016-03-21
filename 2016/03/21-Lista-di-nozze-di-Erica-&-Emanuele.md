@@ -1,8 +1,9 @@
 ---
 layout: lista
 categories: null
-published: false
+published: true
 ---
+
 
 ## Lista di nozze di Erica & Emanuele
 
@@ -92,4 +93,3 @@ Trasferimento via mare ad Airlie Beach e partenza per la crociera alle Whitsunda
 **20/10** Hamilton Island
 
 **21/10**Trasferimento organizzato in aeroporto e rientro con il volo per Londra
-
