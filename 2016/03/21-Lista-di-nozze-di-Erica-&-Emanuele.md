@@ -6,6 +6,10 @@ published: false
 
 ## Lista di nozze di Erica & Emanuele
 
+![Slide1.PNG]({{site.baseurl}}/images/Slide1.PNG)
+
+
+
 **01/10** Partenza con volo da Londra
 
 **02/10**  Arrivo a Melbourne in serata
