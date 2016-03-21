@@ -24,7 +24,8 @@ published: false
 
 Lungo la strada panoramica “ Great Ocean Road”
 
-![01-melbourne.jpg]({{site.baseurl}}/images/01-melbourne.jpg)
+![GOR.jpg]({{site.baseurl}}/images/GOR.jpg)
+
 
 **06/10**Port Campbell – Mount Gambier 
 
