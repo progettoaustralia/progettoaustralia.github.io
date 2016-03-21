@@ -6,9 +6,18 @@ categories:
 published: true
 ---
 
+
 # Lista di nozze di Erica & Emanuele
 
 ![Slide1.PNG]({{site.baseurl}}/images/Slide1.PNG)
+
+IBAN: IT04V0301503200000002527105
+Codice SWIFT: UNCRITMM
+Intestatario: Emanuele Rossotti 
+Causale: Viaggio di Nozze
+
+Grazie a tutti!
+
  
 - **01/10** Partenza con volo da Londra
  
