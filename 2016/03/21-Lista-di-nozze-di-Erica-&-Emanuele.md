@@ -46,7 +46,8 @@ Rientro in traghetto ad Adelaide
 
 Ritiro macchina a noleggio  in aeroporto e partenza per Kings Canyon 
 
-![]({{site.baseurl}}/images/KINGS%20CANYON.jpg)
+![]({{site.baseurl}}/images/Kings%20Canyon%202.JPG)
+
 
 **11/10** Visita Kings Canyon all’alba e primo mattino 
 
