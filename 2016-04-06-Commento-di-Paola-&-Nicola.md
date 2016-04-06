@@ -8,6 +8,7 @@ published: false
 
 ![]({{site.baseurl}}/images/SAM_3753.JPG)
 
+
 "Un sogno diventato realtà!!!!!
 Scoprire questo nuovo continente ci ha fatto vivere esperienze uniche e provare emozioni indescrivibili.
 Stare a contatto ogni giorno con la gente del posto ci ha fatto aprire gli occhi su una cultura ed un modo di vivere e pensare diverso dal nostro.
