@@ -1,8 +1,9 @@
 ---
 layout: lista
 categories: null
-published: false
+published: true
 ---
+
 
 ## Commento di Paola & Nicola
 
@@ -18,4 +19,4 @@ Un ringraziamento enorme a Paola per la sua disponibilità e prontezza nell'assi
 Un grazie anche ai serpenti per la loro latitanza sui sentieri di Paola.
 I 40 giorni più belli della nostra vita!!!!
 Siamo tornati ed abbiamo scoperto che esiste il mal d'Australia..."
-Paola & Nicola 
+Paola & Nicola
