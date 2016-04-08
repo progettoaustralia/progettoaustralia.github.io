@@ -26,4 +26,5 @@ Un grazie anche ai serpenti per la loro latitanza sui sentieri di Paola.
 
 **I 40 giorni più belli della nostra vita!!!!**
 Siamo tornati ed abbiamo scoperto che esiste il mal d'Australia..."
+
 _Paola & Nicola_
