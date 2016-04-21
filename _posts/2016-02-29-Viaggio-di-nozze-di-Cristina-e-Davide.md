@@ -8,9 +8,7 @@ published: true
 ---
 
 
-
-
-## Viaggio di nozze di Cristina & Davide
+# Viaggio di nozze di Cristina & Davide
 
 
 ![Salento-701.JPG]({{site.baseurl}}/images/Salento-701.JPG)
