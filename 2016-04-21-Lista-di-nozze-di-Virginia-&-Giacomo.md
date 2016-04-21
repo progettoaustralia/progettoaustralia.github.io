@@ -22,56 +22,60 @@ Causale: Viaggio di Nozze
 _Grazie di cuore a chi ci aiuterà a realizzare questo piccolo sogno!_****
 
 
-Il nostro viaggio di nozze: Australia e Nuova Caledonia
+**Il nostro viaggio di nozze: Australia e Nuova Caledonia**
 
 ![Mappa viaggio di nozze.png]({{site.baseurl}}/images/Mappa viaggio di nozze.png)
 
 
-12/12 - 14/12 	Sydney
 
-14/12 			Melbourne e Partenza per la Great Ocean Road
 
-15/12 			Port Campbell – Halls Gap (230 km circa) 
+**12/12 - 14/12** 	Arrivo a Sydney
 
-				Visita libera del Grampians National Park
+**14/12**			Melbourne e Partenza per la Great Ocean Road
 
-16/12 			Halls Gap – Victor Harbour  (500 km circa) 
+**15/12**			Port Campbell – Halls Gap (230 km circa) 
 
-17/12 			Victor Harbour – Cape Jervis (60 km circa)
+					Visita libera del Grampians National Park
 
-18-12 - 20/12	Kangaroo Island
+**16/12**			Halls Gap – Victor Harbour  (500 km circa) 
 
-20/12			Cape Jervis – Adelaide (110 km)
+**17/12** 			Victor Harbour – Cape Jervis (60 km circa)
 
-21/12 			Alice Springs  
+**18-12 - 20/12**	Kangaroo Island
 
-22/12 			Alice Springs – Kings Canyon attraverso la Mereenie Loop 
+**20/12**			Cape Jervis – Adelaide (110 km)
 
-				Visita libera del Kings Canyon 
+**21/12**			Alice Springs  
 
-23/12 			Kings Canyon – Ayers Rock  
+**22/12**			Alice Springs – Kings Canyon attraverso la Mereenie Loop 
 
-				Visita di Uluru e dei Monti Olgas 
+					Visita di Kings Canyon 
 
-24/12 			Visita di Uluru all’alba 
+**23/12**			Kings Canyon – Ayers Rock  
 
-25/12 			Cairns - Tour sulla barriera corallina  
+					Visita di Uluru e dei Monti Olgas 
 
-26/12 - 27/12 	Mossman 
+**24/12**			Visita di Uluru all’alba 
 
-28/12 			Cape Tribulation – Cairns 
+**25/12** 			Cairns - Tour sulla barriera corallina  
 
-29/12 			Brisbane 
+**26/12 - 27/12** 	Mossman 
 
-30/12 			Moreton Island o Gold Coast 
+**28/12**			Cape Tribulation – Cairns 
 
-31/12 - 01/01	Noumea 
+**29/12**			Brisbane 
 
-02/01 - 05/01	Isola dei Pini
+**30/12**			Moreton Island o Gold Coast 
 
-06/01			Noumea
+**31/12 - 01/01**	Noumea 
 
-07/01			Sydney
+**02/01 - 05/01**	Isola dei Pini
+
+**06/01**			Noumea
+
+**07/01**			Sydney
+					
+                    Ritorno a Milano
 
 
 
