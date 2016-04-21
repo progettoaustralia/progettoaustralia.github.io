@@ -13,11 +13,12 @@ _Viaggiare è come sognare,la differenza è che non tutti, al risveglio, ricorda
 ![FotorCreated 906x679.jpg]({{site.baseurl}}/images/FotorCreated 906x679.jpg)
 
 
-Banca Fineco 
-IBAN: IT60F0301503200000003532484 
-Beneficiario: Giacomo e Virginia
-Causale: Viaggio di Nozze
-
+<address>
+Banca Fineco  <br/>
+IBAN: IT60F0301503200000003532484 <br/>
+Beneficiario: Giacomo e Virginia<br/>
+Causale: Viaggio di Nozze<br/>
+</address>
 
 _Grazie di cuore a chi ci aiuterà a realizzare questo piccolo sogno!_****
 
