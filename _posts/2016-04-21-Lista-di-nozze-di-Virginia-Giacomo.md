@@ -5,8 +5,7 @@ categories:
   - "luna-di-miele"
 published: true
 ---
-
-## Lista di nozze di Virginia & Giacomo
+# Lista di nozze di Virginia & Giacomo
 
 
 <div class="citazione">
