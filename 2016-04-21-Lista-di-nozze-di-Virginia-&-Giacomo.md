@@ -24,7 +24,7 @@ _Grazie di cuore a chi ci aiuterà a realizzare questo piccolo sogno!_****
 
 Il nostro viaggio di nozze: Australia e Nuova Caledonia
 
-![]({{site.baseurl}}/images/Mappa%20viaggio%20di%20nozze.png)
+
 
 
 
@@ -37,105 +37,45 @@ Il nostro viaggio di nozze: Australia e Nuova Caledonia
 
 				Visita libera del Grampians National Park
 
-16-12 			Halls Gap – Victor Harbour  (500 km circa) 
+16/12 			Halls Gap – Victor Harbour  (500 km circa) 
 
-17-12 			Victor Harbour – Cape Jervis (60 km circa)
+17/12 			Victor Harbour – Cape Jervis (60 km circa)
 
 18-12 - 20/12	Kangaroo Island
 
 20/12			Cape Jervis – Adelaide (110 km)
 
-21-12 			Alice Springs  
+21/12 			Alice Springs  
 
-22-12 			Alice Springs – Kings Canyon attraverso la Mereenie Loop 
+22/12 			Alice Springs – Kings Canyon attraverso la Mereenie Loop 
 
 				Visita libera del Kings Canyon 
 
-23-12 			Kings Canyon – Ayers Rock  
+23/12 			Kings Canyon – Ayers Rock  
 
 				Visita di Uluru e dei Monti Olgas 
 
-24-12 			Visita di Uluru all’alba 
+24/12 			Visita di Uluru all’alba 
 
-25-12 			Cairns - Tour sulla barriera corallina  
+25/12 			Cairns - Tour sulla barriera corallina  
 
-26-12 Ritiro macchina a noleggio in citta’ e proseguimento per Mossman (100 km circa)
+26/12 - 27/12 	Mossman 
 
-Toyota Corolla Sedan (Tariffa all-inclusive, chilometraggio illimitato)
+28/12 			Cape Tribulation – Cairns 
 
-Silky Oaks Lodge - Studio Daintree Treehouse (colazione inclusa)
+29/12 			Brisbane 
 
-27-12 Giornata libera 
+30/12 			Moreton Island o Gold Coast 
 
-Silky Oaks Lodge - Studio Daintree Treehouse (colazione inclusa)
+31/12 - 01/01	Noumea 
 
-28-12 Cape Tribulation – Cairns 
+02/01 - 05/01	Isola dei Pini
 
-The Hotel Cairns – Plantation room (colazione inclusa)
+06/01			Noumea
 
-29-12 Consegna auto a noleggio all’aeroporto
+07/01			Sydney
 
-Volo Cairns – Brisbane 
-
-QF  709 O  29DEC CNSBNE HK2  1010   1220 
-
-Hotel Jen - Deluxe Room (colazione inclusa)
-
-30-12 Tour per visitare Moreton Island o visita della Gold Coast 
-
-Hotel Jen - Deluxe Room (colazione inclusa)
-
-31-12 Volo Brisbane – Noumea 
-
-QF   89 V  31DEC BNENOU HK2  1000   1310 
-
-Welcome all’aeroporto 
-
-Transfer aeroporto – Hotel Le Lagon 
-
-Hotel Le Lagon – Studio room (colazione inclusa) 
-
-1-1 Giornata libera per visitare Noumea
-
-Hotel Le Lagon – Studio room (colazione inclusa) 
-
-02-01 Transfer hotel - aeroporto
-
-Volo Noumea – Isola dei Pini 
-
-Oure Tera – Bungalow Tropical (colazione inclusa)
-
-03-01 Isola dei Pini 
-
-Oure Tera – Bungalow Tropical (colazione inclusa)
-
-04-01 Isola dei Pini 
-
-Oure Tera – Bungalow Tropical (colazione inclusa)
-
-05-01 Isola dei Pini 
-
-Oure Tera – Bungalow Tropical (colazione inclusa)
-
-06-01 Volo Isola dei Pini – Noumea
-
-Transfer aeroporto - hotel
-
-Hotel Le Lagon – Studio room (colazione inclusa) 
-
-07-01 Transfer hotel - aeroporto
-
-Volo Noumea – Sydney
-
-SB  158 K  07JAN NOUBNE HK2  1415   1540 
-
-Volo Brisbane - Dubai 
-
-QF 8435 K  07JAN BNEDXB HK2  2045  #0520
-
-08-01 Volo Dubai - Milano 
-
-QF 8205 K  08JAN DXBMXP HK2  0910   1310![Mappa viaggio di nozze.png]({{site.baseurl}}/images/Mappa viaggio di nozze.png)
+![Mappa viaggio di nozze.png]({{site.baseurl}}/images/Mappa viaggio di nozze.png)
 
 
 
