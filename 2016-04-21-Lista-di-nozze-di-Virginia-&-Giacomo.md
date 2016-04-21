@@ -1,7 +1,7 @@
 ---
 layout: lista
 categories: null
-published: false
+published: true
 ---
 
 ## Lista di nozze di Virginia & Giacomo
@@ -76,6 +76,3 @@ _Grazie di cuore a chi ci aiuterà a realizzare questo piccolo sogno!_****
 **07/01**			Sydney
 					
                     Ritorno a Milano
-
-
-
