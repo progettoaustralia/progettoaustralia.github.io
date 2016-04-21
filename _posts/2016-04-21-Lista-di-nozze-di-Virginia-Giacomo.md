@@ -56,5 +56,7 @@ _Grazie di cuore a chi ci aiuterà a realizzare questo piccolo sogno!_****
 - **31/12 - 01/01**	Noumea 
 - **02/01 - 05/01**	Isola dei Pini
 - **06/01**			Noumea
-- **07/01**			Sydney	
+- **07/01**			Sydney
 	Ritorno a Milano
+    
+    
