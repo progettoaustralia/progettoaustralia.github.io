@@ -37,16 +37,16 @@ _Grazie di cuore a chi ci aiuterà a realizzare questo piccolo sogno!_****
 - **12/12 - 14/12** 	Arrivo a Sydney
 - **14/12**			Melbourne e Partenza per la Great Ocean Road
 - **15/12**			Port Campbell – Halls Gap (230 km circa) 
-   Visita libera del Grampians National Park
+	Visita libera del Grampians National Park
 - **16/12**			Halls Gap – Victor Harbour  (500 km circa) 
 - **17/12** 		Victor Harbour – Cape Jervis (60 km circa)
 - **18-12 - 20/12**	Kangaroo Island
 - **20/12**			Cape Jervis – Adelaide (110 km)
 - **21/12**			Alice Springs  
 - **22/12**			Alice Springs – Kings Canyon attraverso la Mereenie Loop 
-   Visita di Kings Canyon 
+	Visita di Kings Canyon 
 - **23/12**			Kings Canyon – Ayers Rock  
-   Visita di Uluru e dei Monti Olgas 
+	Visita di Uluru e dei Monti Olgas 
 - **24/12**			Visita di Uluru all’alba 
 - **25/12** 			Cairns - Tour sulla barriera corallina  
 - **26/12 - 27/12** 	Mossman 
@@ -57,4 +57,4 @@ _Grazie di cuore a chi ci aiuterà a realizzare questo piccolo sogno!_****
 - **02/01 - 05/01**	Isola dei Pini
 - **06/01**			Noumea
 - **07/01**			Sydney	
-  Ritorno a Milano
+	Ritorno a Milano
