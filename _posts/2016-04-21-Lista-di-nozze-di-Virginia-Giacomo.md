@@ -39,7 +39,6 @@ _Grazie di cuore a chi ci aiuterà a realizzare questo piccolo sogno!_****
 **14/12**			Melbourne e Partenza per la Great Ocean Road
 
 **15/12**			Port Campbell – Halls Gap (230 km circa) 
-
 					Visita libera del Grampians National Park
 
 **16/12**			Halls Gap – Victor Harbour  (500 km circa) 
@@ -53,11 +52,9 @@ _Grazie di cuore a chi ci aiuterà a realizzare questo piccolo sogno!_****
 **21/12**			Alice Springs  
 
 **22/12**			Alice Springs – Kings Canyon attraverso la Mereenie Loop 
-
 					Visita di Kings Canyon 
 
 **23/12**			Kings Canyon – Ayers Rock  
-
 					Visita di Uluru e dei Monti Olgas 
 
 **24/12**			Visita di Uluru all’alba 
@@ -78,6 +75,5 @@ _Grazie di cuore a chi ci aiuterà a realizzare questo piccolo sogno!_****
 
 **06/01**			Noumea
 
-**07/01**			Sydney
-					
+**07/01**			Sydney					
                     Ritorno a Milano
