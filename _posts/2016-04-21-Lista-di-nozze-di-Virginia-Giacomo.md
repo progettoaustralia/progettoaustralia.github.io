@@ -1,13 +1,18 @@
 ---
 layout: lista
-categories: null
+categories: 
+  - "lista-nozze"
+  - "luna-di-miele"
 published: true
 ---
 
 ## Lista di nozze di Virginia & Giacomo
 
 
-_Viaggiare è come sognare,la differenza è che non tutti, al risveglio, ricordano qualcosa, mentre ognuno conserva calda la memoria della meta da cui è tornato. Edgar Allan Poe_
+<div class="citazione">
+Viaggiare è come sognare,la differenza è che non tutti, al risveglio, ricordano qualcosa, mentre ognuno conserva calda la memoria della meta da cui è tornato. 
+<span style="text-align:rigt">Edgar Allan Poe</span>
+</div>
 
 
 ![FotorCreated 906x679.jpg]({{site.baseurl}}/images/FotorCreated 906x679.jpg)
