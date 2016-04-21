@@ -24,9 +24,7 @@ _Grazie di cuore a chi ci aiuterà a realizzare questo piccolo sogno!_****
 
 Il nostro viaggio di nozze: Australia e Nuova Caledonia
 
-
-
-
+![Mappa viaggio di nozze.png]({{site.baseurl}}/images/Mappa viaggio di nozze.png)
 
 
 12/12 - 14/12 	Sydney
@@ -74,8 +72,6 @@ Il nostro viaggio di nozze: Australia e Nuova Caledonia
 06/01			Noumea
 
 07/01			Sydney
-
-![Mappa viaggio di nozze.png]({{site.baseurl}}/images/Mappa viaggio di nozze.png)
 
 
 
