@@ -4,6 +4,7 @@ categories:
   - "lista-nozze"
   - "luna-di-miele"
 published: true
+permalink: /giacomoevirginia
 ---
 # Lista di nozze di Virginia & Giacomo
 
@@ -58,5 +59,3 @@ _Grazie di cuore a chi ci aiuterà a realizzare questo piccolo sogno!_****
 - **06/01**			Noumea
 - **07/01**			Sydney
 	Ritorno a Milano
-    
-    
