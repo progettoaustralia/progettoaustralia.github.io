@@ -25,7 +25,7 @@ Beneficiario: Giacomo e Virginia<br/>
 Causale: Viaggio di Nozze<br/>
 </address>
 
-_Grazie di cuore a chi ci aiuterà a realizzare questo piccolo sogno!_**
+_Grazie di cuore a chi ci aiuterà a realizzare questo piccolo sogno!_
 
 
 **Il nostro viaggio di nozze: Australia e Nuova Caledonia**
