@@ -10,7 +10,7 @@ permalink: /giacomoevirginia
 
 
 <div class="citazione">
-Viaggiare è come sognare,la differenza è che non tutti, al risveglio, ricordano qualcosa, mentre ognuno conserva calda la memoria della meta da cui è tornato. 
+Viaggiare è come sognare, la differenza è che non tutti, al risveglio, ricordano qualcosa, mentre ognuno conserva calda la memoria della meta da cui è tornato. 
 <span style="text-align:rigt">Edgar Allan Poe</span>
 </div>
 
