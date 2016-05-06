@@ -134,6 +134,9 @@ _Whiehaven Beach, una delle spiaggie più belle e pluripremiate dell’Australia
 
 ![]({{site.baseurl}}/images/hamilton%202.jpg)
 
+_Gli ultimi giorni di vacanza da passare in pieno relax sull'isola più grande delle Whitsundays. Con tempo meraviglioso, spiagge bianche e mare cristallino, la scelta tra le attività è unica: snorkelling nella barriera corallina o trekking tra i 20 km di percorsi segnalati?_
+
+
 25/08	Hamilton Island	
 
 ![hamilton 2.jpg]({{site.baseurl}}/images/hamilton 2.jpg)
