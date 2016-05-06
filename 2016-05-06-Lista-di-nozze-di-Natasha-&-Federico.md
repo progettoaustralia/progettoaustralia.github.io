@@ -82,13 +82,13 @@ _La nostra favola inizia qui.. grazie a tutti coloro che vorranno contribuire a 
 ![cairns.jpg]({{site.baseurl}}/images/cairns.jpg)
 
 
-20/08		Tour in barca – Visita della barriera corallina – Passion of Paradise (con colazione e 		pranzo incluso)
-		Pick – up alle ore 07.25 e drop – off al vostro hotel
-		Bay Village Tropical Retreat – Standard Room (con colazione e wi-fi inclusi)
+20/08	Tour in barca – Visita della barriera corallina
 
-21/08		Tour organizzato – Visita di Cape Tribulation – Full Day Go Wild Tour – Jungle Tours 		(con pranzo incluso)
-		Pick – up alle ore 07.15 e drop – off al vostro hotel
-		Bay Village Tropical Retreat – Standard Room (con colazione e wi-fi inclusi)
+![]({{site.baseurl}}/images/DSCN0026a1.jpg)
+
+21/08	Tour organizzato – Visita di Cape Tribulation 
+
+![]({{site.baseurl}}/images/index.jpg)
 
 22/08		Volo EK 5894 Cairns – Hamilton Island 08.00 – 09.10
 		Hamilton Island
