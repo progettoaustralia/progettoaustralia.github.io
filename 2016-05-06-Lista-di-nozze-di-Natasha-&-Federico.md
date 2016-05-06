@@ -15,12 +15,11 @@ _"...Verso l'infinito e Oltre..."  (Buzz Lightyear da Toys’ Story)_
 _La nostra favola inizia qui.. grazie a tutti coloro che vorranno contribuire a realizzare il nostro sogno_
 
 
-
-
-
 09/08	Arrivo ad Adelaide in serata
 
 ![]({{site.baseurl}}/images/Adelaide1.jpg)
+
+_Primo giorno in Australia da passare tra le vie del centro di questa città dall'eleganza coloniale, nei grandi parchi, i vivaci mercati centrali e i musei e le biblioteche di North Terrace._
 
 		
 10/08	Adelaide – Cape Jervis (circa 110 km)	
@@ -29,10 +28,16 @@ _La nostra favola inizia qui.. grazie a tutti coloro che vorranno contribuire a 
 ![seal bay.jpg]({{site.baseurl}}/images/seal bay.jpg)
 
 
+_Kangaroo Island è la terza isola più grande dell'Australia, famosa per i suoi parchi nazionali che occupano la maggior parte del territorio.
+
+La particolarità dell'isola? Gli animali tipici australiani raggruppati in pochi kilometri! Qui troverete koala, canguri, wallabies, emu, delfini, foche, echidna e moltri altri ancora_
+
+
 11/08	Visita di Kangaroo Island
 
 ![Kangaroo-Island-1.jpg]({{site.baseurl}}/images/Kangaroo-Island-1.jpg)
 
+_Visitate il Flinder Chase National Park dove troverete le famose Remarkable Rocks e l'Admiral Arch, formazioni rocciose che il vento pe migliaia di anni ha modellato ad opera d'arte_
 
 
 12/08	Traghetto da Kangaroo Island 
@@ -40,20 +45,29 @@ _La nostra favola inizia qui.. grazie a tutti coloro che vorranno contribuire a 
         
 ![]({{site.baseurl}}/images/admiral-s-arch-at-sunset.jpg)
 
+_Andate a trovare i pigri e simpatici leoni marini che sonnecchiano sulle rive del Seal Bay Conservation Park_
+
+
 13/08		Volo Adelaide - Sydney
 			Visita della città
             
 ![]({{site.baseurl}}/images/sydney-banner.jpg)
 
+_La città simbolo di tutta l'Australia. Tutti conosciamo il Sydney Harbour Bridge e l'Opera House, ma Sydney offre molto di più come Darling Harbour, il molo del divertimento costellato di ristoranti e locali e le meravigliose spiagge di Bondi, Bronte e Coogee_
+
 14/08	Sydney – Visita opzionale Blue Mountains senza guida
 		
 ![bluemt.jpg]({{site.baseurl}}/images/bluemt.jpg)
+
+_Passeggiate tra le vie del centro fino ad arrivare al mare. Non solo vedrete l'imponente Harbour Bridge, ma vi troverete anche a The Rocks, il quartiere più antico della città dove rilassarvi con un'ottima birra gelata_
 
 15/08	Sydney 
 		Visita della città
         Cena in barca nella baia di Sydney
         
 ![]({{site.baseurl}}/images/sydney.jpg)
+
+_A circa 20 minuti in autobus dalla città scoprirete un percorso costiero che unisce alcune delle spiagge più belle della città. Da Bondi a Coogee o viceversa, il percorso vi permetterà di godervi uno dei migliori tramonti della vostra vita!_
 
 
 16/08	Volo Sydney – Ayers Rock 
