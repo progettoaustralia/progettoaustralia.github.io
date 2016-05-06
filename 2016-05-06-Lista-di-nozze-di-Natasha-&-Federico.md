@@ -19,6 +19,9 @@ _La nostra favola inizia qui.. grazie a tutti coloro che vorranno contribuire a 
 
 
 09/08	Arrivo ad Adelaide in serata
+
+![]({{site.baseurl}}/images/Adelaide1.jpg)
+
 		
 10/08	Adelaide – Cape Jervis (circa 110 km)	
 		Traghetto per Kangaroo Island 
@@ -40,7 +43,8 @@ _La nostra favola inizia qui.. grazie a tutti coloro che vorranno contribuire a 
 13/08		Volo Adelaide - Sydney
 			Visita della città
             
-          ![sydney_04_681x298.jpg]({{site.baseurl}}/images/sydney_04_681x298.jpg)
+![]({{site.baseurl}}/images/sydney-banner.jpg)![sydney-banner.jpg]({{site.baseurl}}/images/sydney-banner.jpg)
+
 
 
 
