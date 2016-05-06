@@ -28,9 +28,9 @@ _Primo giorno in Australia da passare tra le vie del centro di questa città dal
 ![seal bay.jpg]({{site.baseurl}}/images/seal bay.jpg)
 
 
-_Kangaroo Island è la terza isola più grande dell'Australia, famosa per i suoi parchi nazionali che occupano la maggior parte del territorio.
+_Kangaroo Island è la terza isola più grande dell'Australia, famosa per i suoi parchi nazionali che occupano la maggior parte del territorio._
 
-La particolarità dell'isola? Gli animali tipici australiani raggruppati in pochi kilometri! Qui troverete koala, canguri, wallabies, emu, delfini, foche, echidna e moltri altri ancora_
+_La particolarità dell'isola? Gli animali tipici australiani raggruppati in pochi kilometri! Qui troverete koala, canguri, wallabies, emu, delfini, foche, echidna e moltri altri ancora_
 
 
 **11/08**	Visita di Kangaroo Island
