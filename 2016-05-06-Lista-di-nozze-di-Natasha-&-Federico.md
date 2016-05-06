@@ -60,22 +60,27 @@ _La nostra favola inizia qui.. grazie a tutti coloro che vorranno contribuire a 
 		Visita di Uluru e dei Monti Olgas
         Sound of Silence Dinner
         
-      ![]({{site.baseurl}}/images/MONTI%20OLGAS%201.jpg)  
+ ![]({{site.baseurl}}/images/MONTI%20OLGAS%201.jpg)
 
-17/08		Visita di Uluru all'alba e passeggiata intorno alla base
-		Ayers Rock – Kings Canyon (circa 320 km)
-		Kings Canyon Resort – Budget Room (con bagno esterno condiviso)
+17/08	Visita di Uluru all'alba e passeggiata intorno alla base
+		Ayers Rock – Kings Canyon 
+        
+![]({{site.baseurl}}/images/Ayers-Rock01.jpg)
 
-18/08		Visita di Kings Canyon in mattinata
-		Kings Canyon – Alice Springs (circa 320 km attraverso la Mereenie Loop)
+		
+18/08	Visita di Kings Canyon in mattinata
+		Kings Canyon – Alice Springs 
 		Visita di Alice Springs
-		Aurora Alice Springs – Standard Room
 
-19/08		Riconsegna auto noleggiata presso l'aeroporto fino alle ore 17.30
 
-		Volo EK 5398 Alice Springs – Cairns 17.55 – 20.30
+![]({{site.baseurl}}/images/Kings%20Canyon%202.JPG)
+
+19/08	Volo Alice Springs – Cairns 
 		Resto della giornata libera per visitare la città
-		Bay Village Tropical Retreat – Standard Room (con colazione e wi-fi inclusi)
+
+
+![cairns.jpg]({{site.baseurl}}/images/cairns.jpg)
+
 
 20/08		Tour in barca – Visita della barriera corallina – Passion of Paradise (con colazione e 		pranzo incluso)
 		Pick – up alle ore 07.25 e drop – off al vostro hotel
