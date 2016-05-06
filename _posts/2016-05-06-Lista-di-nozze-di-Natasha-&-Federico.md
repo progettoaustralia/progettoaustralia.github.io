@@ -1,6 +1,7 @@
 ---
-layout: ""
-categories: ""
+layout: lista
+categories: 
+  - "lista-nozze"
 published: true
 ---
 
