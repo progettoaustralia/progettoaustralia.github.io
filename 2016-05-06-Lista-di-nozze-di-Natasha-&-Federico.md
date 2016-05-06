@@ -90,27 +90,25 @@ _La nostra favola inizia qui.. grazie a tutti coloro che vorranno contribuire a 
 
 ![]({{site.baseurl}}/images/index.jpg)
 
-22/08		Volo EK 5894 Cairns – Hamilton Island 08.00 – 09.10
-		Hamilton Island
-		Palm Bungalow – Double Bungalow (con colazione e transfer da/a aeroporto inclusi)
+22/08	Volo Cairns – Hamilton Island 
+		Relax a Hamilton Island
+        
+![hamilton island.jpg]({{site.baseurl}}/images/hamilton island.jpg)
 
+23/08	Tour in barca – Visita della Whitehaven Beach 
 
+![]({{site.baseurl}}/images/whitehaven%20beach.jpg)
 
+24/08	Hamilton Island
 
+![]({{site.baseurl}}/images/hamilton%202.jpg)
 
+25/08	Hamilton Island	
 
-23/08		Tour in barca – Visita della Whitehaven Beach – Full Day Whitehaven Beach -
-		Cruise Whitsundays (con pranzo e tea pomeridiano inclusi) 
-		Dovete farvi trovare alla Hamilton Island Marina alle ore 07.50 per effettuare il 			check- in prima della partenza del tour
-		Palm Bungalow – Double Bungalow (con colazione e transfer da/a aeroporto inclusi)
+![hamilton 2.jpg]({{site.baseurl}}/images/hamilton 2.jpg)
 
-24/08		Hamilton Island
-		Palm Bungalow – Double Bungalow (con colazione e transfer da/a aeroporto inclusi)
+26/08	Voli di ritorno a casa
 
-25/08		Hamilton Island
-		Palm Bungalow – Double Bungalow (con colazione e transfer da/a aeroporto inclusi)
+![ritorno.jpg]({{site.baseurl}}/images/ritorno.jpg)
 
-26/08		Volo EK 7515 Hamilton Island – Sydney 13.25 – 15.45
-		Volo EK 419 Sydney – Dubai 18.45 – 05.45 con scalo tecnico a Bangkok
-
-27/08		Volo EK 97 Dubai – Roma 09.10 – 13.25
+27/08	Rientro a Roma
