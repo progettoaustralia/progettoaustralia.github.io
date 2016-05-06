@@ -75,7 +75,7 @@ _A circa 20 minuti in autobus dalla città scoprirete un percorso costiero che u
 			Visita di Uluru e dei Monti Olgas
        		Sound of Silence Dinner
         
- ![]({{site.baseurl}}/images/MONTI%20OLGAS%201.jpg)
+![]({{site.baseurl}}/images/monti%20olgas.jpg)
  
  
 _Uluru e i Monti Olgas, Patrimonio dell'Umanità, sono formazioni rocciose che si trovano nel Parco Nazionale Uluru – Kata Tjuta, nel bel mezzo dell'Outback australiano.
