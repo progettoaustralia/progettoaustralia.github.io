@@ -75,8 +75,7 @@ _A circa 20 minuti in autobus dalla città scoprirete un percorso costiero che u
 			Visita di Uluru e dei Monti Olgas
        		Sound of Silence Dinner
         
-![]({{site.baseurl}}/images/monti%20olgas.jpg)
- 
+![]({{site.baseurl}}/images/monti%20olgas.jpg) 
  
 _Uluru e i Monti Olgas, Patrimonio dell'Umanità, sono formazioni rocciose che si trovano nel Parco Nazionale Uluru – Kata Tjuta, nel bel mezzo dell'Outback australiano.
 Ammirate come questi monoliti, tanto importanti per la cultura aborigena, cambiano colore in base alla posizione del sole nei vari momenti della giornata!_
@@ -115,7 +114,7 @@ _Farete snorkelling due volte durante il tour in barca e scoprirete non solo cor
 
 **21/08**	Tour organizzato – Visita di Cape Tribulation 
 
-![]({{site.baseurl}}/images/gallery-cape-tribulation.jpg)![gallery-cape-tribulation.jpg]({{site.baseurl}}/images/gallery-cape-tribulation.jpg)
+![]({{site.baseurl}}/images/gallery-cape-tribulation.jpg)
 
 _Scoprite la foresta pluviale che si perde nell'oceano. Una giornata tra liane e spiagge bianchissime a pochi chilometri da Cairns_
 
