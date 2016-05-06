@@ -75,34 +75,48 @@ _A circa 20 minuti in autobus dalla città scoprirete un percorso costiero che u
         Sound of Silence Dinner
         
  ![]({{site.baseurl}}/images/MONTI%20OLGAS%201.jpg)
+ 
+ 
+_Uluru e i Monti Olgas, Patrimonio dell'Umanità, sono formazioni rocciose che si trovano nel Parco Nazionale Uluru – Kata Tjuta, nel bel mezzo dell'Outback australiano.
+Ammirate come questi monoliti, tanto importanti per la cultura aborigena, cambiano colore in base alla posizione del sole nei vari momenti della giornata!_
+
 
 17/08	Visita di Uluru all'alba e passeggiata intorno alla base
 		Ayers Rock – Kings Canyon 
         
 ![]({{site.baseurl}}/images/Ayers-Rock01.jpg)
 
-		
+_Passeggiate lungo la base del monolite mentre nasce il sole. Ci sono diversi percorsi che si possono intraprendere, di cui il più lungo e completo è di 10 km_
+
 18/08	Visita di Kings Canyon in mattinata
 		Kings Canyon – Alice Springs 
 		Visita di Alice Springs
 
-
 ![]({{site.baseurl}}/images/Kings%20Canyon%202.JPG)
+
+_Il Kings Canyon è un insieme di pareti rocciose arroccate al di sopra di una foresta pluviale.
+ Le parti più suggestive sono il Giardino dell'Eden, un nome una certezza, una piscina naturale circondata da rigogliosa vegetazione e la Città Perduta, un labirinto di formazioni rocciose con forme inusuali_
+
 
 19/08	Volo Alice Springs – Cairns 
 		Resto della giornata libera per visitare la città
 
-
 ![cairns.jpg]({{site.baseurl}}/images/cairns.jpg)
+
+_La città australiana a metà tra la barriera corallina più grande del mondo e la foresta pluviale. Cairns è la classica cittadina di mare, dove una passeggiata sul lungomare, the Esplanade e un tuffo nella Lagoon, la sua piscina salata all'aria aperta sono i must_
 
 
 20/08	Tour in barca – Visita della barriera corallina
 
 ![]({{site.baseurl}}/images/DSCN0026a1.jpg)
 
+_Farete snorkelling due volte durante il tour in barca e scoprirete non solo coralli di mille colori, ma anche tantissimi pesci tropicali e calamari giganti_
+
 21/08	Tour organizzato – Visita di Cape Tribulation 
 
 ![]({{site.baseurl}}/images/gallery-cape-tribulation.jpg)![gallery-cape-tribulation.jpg]({{site.baseurl}}/images/gallery-cape-tribulation.jpg)
+
+_Scoprite la foresta pluviale che si perde nell'oceano. Una giornata tra liane e spiagge bianchissime a pochi chilometri da Cairns_
 
 
 22/08	Volo Cairns – Hamilton Island 
@@ -113,6 +127,8 @@ _A circa 20 minuti in autobus dalla città scoprirete un percorso costiero che u
 23/08	Tour in barca – Visita della Whitehaven Beach 
 
 ![]({{site.baseurl}}/images/whitehaven%20beach.jpg)
+
+_Whiehaven Beach, una delle spiaggie più belle e pluripremiate dell’Australia. Con i suoi 7 km di lunghezza, potrete trovare questo paradiso alle Whitsundays,nel Queensland_
 
 24/08	Hamilton Island
 
