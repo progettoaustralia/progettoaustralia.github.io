@@ -60,7 +60,7 @@ _La nostra favola inizia qui.. grazie a tutti coloro che vorranno contribuire a 
 		Visita di Uluru e dei Monti Olgas
         Sound of Silence Dinner
         
-        
+      ![]({{site.baseurl}}/images/MONTI%20OLGAS%201.jpg)  
 
 17/08		Visita di Uluru all'alba e passeggiata intorno alla base
 		Ayers Rock – Kings Canyon (circa 320 km)
