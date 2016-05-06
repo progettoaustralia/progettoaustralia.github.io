@@ -1,7 +1,7 @@
 ---
 layout: ""
 categories: ""
-published: false
+published: true
 ---
 
 ## Lista di nozze di Natasha & Federico
