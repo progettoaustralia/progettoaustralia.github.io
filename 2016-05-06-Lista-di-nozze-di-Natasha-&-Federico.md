@@ -43,15 +43,11 @@ _La nostra favola inizia qui.. grazie a tutti coloro che vorranno contribuire a 
 13/08		Volo Adelaide - Sydney
 			Visita della città
             
-![]({{site.baseurl}}/images/sydney-banner.jpg)![sydney-banner.jpg]({{site.baseurl}}/images/sydney-banner.jpg)
-
-
-
+![]({{site.baseurl}}/images/sydney-banner.jpg)
 
 14/08	Sydney – Visita opzionale Blue Mountains senza guida
 		
-        
-        
+![bluemt.jpg]({{site.baseurl}}/images/bluemt.jpg)
 
 15/08	Sydney 
 		Visita della città
@@ -92,7 +88,8 @@ _La nostra favola inizia qui.. grazie a tutti coloro che vorranno contribuire a 
 
 21/08	Tour organizzato – Visita di Cape Tribulation 
 
-![]({{site.baseurl}}/images/index.jpg)
+![]({{site.baseurl}}/images/gallery-cape-tribulation.jpg)![gallery-cape-tribulation.jpg]({{site.baseurl}}/images/gallery-cape-tribulation.jpg)
+
 
 22/08	Volo Cairns – Hamilton Island 
 		Relax a Hamilton Island
