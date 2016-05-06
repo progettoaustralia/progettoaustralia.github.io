@@ -12,7 +12,7 @@ published: true
 
 
 <div class="citazione">...Verso l'infinito e Oltre...
-<span style="text-align:right"> Buzz Lightyear da Toys’ Story_</span></div>
+<span style="text-align:right"> Buzz Lightyear da Toys’ Story</span></div>
 
 _La nostra favola inizia qui.. grazie a tutti coloro che vorranno contribuire a realizzare il nostro sogno_
 
