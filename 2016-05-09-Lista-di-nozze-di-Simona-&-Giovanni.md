@@ -56,17 +56,26 @@ _"E non c’è niente di più bello dell’istante che precede il viaggio, l’i
 **08/07** 	Kings Canyon – Ayers Rock (300 km circa)
 			Visita libera di Uluru e Monti Olgas all'alba
 			Cena Sound of Silence Dinner
+            
+![wg001_uluru_1.jpg]({{site.baseurl}}/images/wg001_uluru_1.jpg)
+
 	
 **09/07** 	Visita libera di Uluru all’alba
 			Volo Ayers Rock - Cairns 
 
 **10/07** 	Tour organizzato nella Daintree Forest
 
+![cairns-escursioni-cape-tribulation-11.jpg]({{site.baseurl}}/images/cairns-escursioni-cape-tribulation-11.jpg)
+
 **11/07**	Tour sulla barriera corallina 
+
+![cairns.jpg]({{site.baseurl}}/images/cairns.jpg)
 
 **12-07** 	Volo Cairns – Darwin 
 
 **13/07** 	Partenza per tour organizzato visita del Kakadu 2gg/1notte 
+
+![Kakadu-National-Park-1-620x413.jpg]({{site.baseurl}}/images/Kakadu-National-Park-1-620x413.jpg)
 
 **14/07** 	Rientro dal tour e pernottamento a Darwin
 
@@ -75,6 +84,8 @@ _"E non c’è niente di più bello dell’istante che precede il viaggio, l’i
 **16/07** 	Volo Sydney – Rarotonga 
 			Arrivo a Rarotonga
             Welcome all'aeroporto
+            
+![]({{site.baseurl}}/images/cook%20island.jpg)
 
 **17/07** 	Rarotonga
 
