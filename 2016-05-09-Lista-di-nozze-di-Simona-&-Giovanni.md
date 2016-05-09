@@ -36,18 +36,14 @@ _"E non c’è niente di più bello dell’istante che precede il viaggio, l’i
 
 **07/07** 	Alice Springs – Kings Canyon (attraverso la Mereenie Loop, 320 km circa di cui 200 non
 			asfaltati)
-
-			Visita libera del Kings Canyon
+           	Visita libera di Kings Canyon
 
 **08/07** 	Kings Canyon – Ayers Rock (300 km circa)
-
-			Visita lbera di Uluru e Monti Olgas all’alba
-
-			Cena Sound of silence
-
+			Visita libera di Uluru e Monti Olgas all'alba
+			Cena Sound of Silence Dinner
+	
 **09/07** 	Visita libera di Uluru all’alba
-
-			Volo Ayers Rock – Cairns 
+			Volo Ayers Rock - Cairns 
 
 **10/07** 	Tour organizzato nella Daintree Forest
 
@@ -62,9 +58,8 @@ _"E non c’è niente di più bello dell’istante che precede il viaggio, l’i
 **15/07** 	Volo Darwin – Sydney 
 
 **16/07** 	Volo Sydney – Rarotonga 
-
-			Arrivo a Rarotonga 
-			Welcome all’aeroporto
+			Arrivo a Rarotonga
+            Welcome all'aeroporto
 
 **17/07** 	Rarotonga
 
@@ -77,8 +72,7 @@ _"E non c’è niente di più bello dell’istante che precede il viaggio, l’i
 **21/07** 	Aitutaki
 
 **22/07** 	Volo Aitutaki – Rarotonga 
-
-			Volo Rarotonga – Sydney 
+			Volo Rarotonga - Sydney
 
 **23/07** 	Sydney
 
