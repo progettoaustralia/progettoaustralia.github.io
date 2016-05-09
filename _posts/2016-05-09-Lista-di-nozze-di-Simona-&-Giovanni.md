@@ -14,9 +14,12 @@ categories:
 <span style="float:right">(Milan Kundera)</span>
 </div>
 
-_**Visitate la nostra pagina al:_
+
+_Visitate la nostra pagina al:_
+
 www.given2.us/gioesimo
-Password: 25062016**
+
+_Password:_ 25062016
 
 
 - **27/06** 	Partenza da Roma 
