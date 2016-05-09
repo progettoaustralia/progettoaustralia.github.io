@@ -19,18 +19,27 @@ _"E non c’è niente di più bello dell’istante che precede il viaggio, l’i
 **29/06** 	Visita della città
 		  	Tour Parata dei pinguini
             
-            ![]({{site.baseurl}}/images/phillip%20island.jpg)
+![pinguini.jpg]({{site.baseurl}}/images/pinguini.jpg)
 
 **30/06**	Melbourne – Apollo Bay (210 km circa)
 
+![]({{site.baseurl}}/images/12ApostlesGreatOceanRoad.jpg)
+
 **01/07** 	Apollo Bay – Mount Gambier (350 km circa)
+
+![MOUN GAMBIER.jpg]({{site.baseurl}}/images/MOUN GAMBIER.jpg)
+
 
 **02/07**	Mount Gambier – Victor Harbour (450 km circa)
 
 **03/07** 	Victor Harbour – Cape Jervis (60 km circa)
 			Traghetto per Kangaroo Island
+            
+![admiral-s-arch-at-sunset.jpg]({{site.baseurl}}/images/admiral-s-arch-at-sunset.jpg)
 
 **04/07** 	Kangaroo Island
+
+![Kangaroo-Island-1.jpg]({{site.baseurl}}/images/Kangaroo-Island-1.jpg)
 
 **05/07** 	Traghetto da Kangaroo Island
 			Cape Jervis – Adelaide (110 km)
@@ -41,6 +50,8 @@ _"E non c’è niente di più bello dell’istante che precede il viaggio, l’i
 **07/07** 	Alice Springs – Kings Canyon (attraverso la Mereenie Loop, 320 km circa di cui 200 non
 			asfaltati)
            	Visita libera di Kings Canyon
+            
+![]({{site.baseurl}}/images/Kings%20Canyon%202.JPG)
 
 **08/07** 	Kings Canyon – Ayers Rock (300 km circa)
 			Visita libera di Uluru e Monti Olgas all'alba
