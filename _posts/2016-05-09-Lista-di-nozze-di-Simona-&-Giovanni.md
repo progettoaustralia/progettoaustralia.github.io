@@ -15,7 +15,7 @@ categories:
 </div>
 
 
-_Visitate la nostra pagina al:_  [www.given2.us/gioesimo](www.given2.us/gioesimo)
+_Visitate la nostra pagina al:_  [www.given2.us/gioesimo](http://www.given2.us/gioesimo)
 
 _Password:_ 25062016
 
