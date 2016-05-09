@@ -95,12 +95,16 @@ _"E non c’è niente di più bello dell’istante che precede il viaggio, l’i
 
 **20/07** 	Tour organizzato a One Foot Island
 
+![one oot island.jpg]({{site.baseurl}}/images/one oot island.jpg)
+
 **21/07** 	Aitutaki
 
 **22/07** 	Volo Aitutaki – Rarotonga 
 			Volo Rarotonga - Sydney
 
 **23/07** 	Sydney
+
+
 
 **24/07**	Sydney
 
