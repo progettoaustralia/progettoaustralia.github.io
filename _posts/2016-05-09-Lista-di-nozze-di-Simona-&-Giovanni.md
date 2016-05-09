@@ -1,7 +1,11 @@
 ---
 published: true
+layout: lista
+categories: 
+  - "lista-nozze"
+  - "luna-di-miele"
 ---
--## Lista di nozze di Simona & Giovanni
+## Lista di nozze di Simona & Giovanni
 
 
 ![Tanzania 165.JPG]({{site.baseurl}}/images/Tanzania 165.JPG)
@@ -117,4 +121,3 @@ published: true
 - **27/07**	Volo Sydney – Dubai 
  
 - **28/07**	 Volo Dubai – Roma
-
