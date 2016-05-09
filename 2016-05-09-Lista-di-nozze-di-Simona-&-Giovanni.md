@@ -104,11 +104,15 @@ _"E non c’è niente di più bello dell’istante che precede il viaggio, l’i
 
 **23/07** 	Sydney
 
+![sydney.jpg]({{site.baseurl}}/images/sydney.jpg)
 
 
 **24/07**	Sydney
 
 **25/07**	Sydney
+
+![tramonto-sidney-australia.jpg]({{site.baseurl}}/images/tramonto-sidney-australia.jpg)
+
 
 **26/07**	Sydney
 
