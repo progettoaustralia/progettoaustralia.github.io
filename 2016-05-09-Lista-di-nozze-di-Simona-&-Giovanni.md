@@ -51,7 +51,7 @@ _"E non c’è niente di più bello dell’istante che precede il viaggio, l’i
 			asfaltati)
            	Visita libera di Kings Canyon
             
-
+![]({{site.baseurl}}/images/KINGS%20CANYON.jpg)
 
 **08/07** 	Kings Canyon – Ayers Rock (300 km circa)
 			Visita libera di Uluru e Monti Olgas all'alba
