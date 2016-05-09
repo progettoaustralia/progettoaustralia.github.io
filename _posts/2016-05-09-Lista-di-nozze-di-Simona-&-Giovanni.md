@@ -10,7 +10,7 @@ categories:
 
 ![Tanzania 165.JPG]({{site.baseurl}}/images/Tanzania 165.JPG)
 
-<div class="citazione">E non c’è niente di più bello dell’istante che precede il viaggio, l’istante in cui l’orizzonte del domani viene a renderci visita e a raccontarci le sue promesse.
+<div class="citazione">E non c’è niente di più bello dell’istante che precede il viaggio, l’istante in cui l’orizzonte del domani viene a renderci visita e a raccontarci le sue promesse.<br/>
 <span style="text-align:right">(Milan Kundera)</span>
 </div>
 
