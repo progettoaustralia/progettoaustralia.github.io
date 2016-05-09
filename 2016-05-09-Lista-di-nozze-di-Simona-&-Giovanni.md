@@ -10,21 +10,12 @@ _"E non c’è niente di più bello dell’istante che precede il viaggio, l’i
 (Milan Kundera)"_
 
 
-27-06 Partenza da Roma alle ore 1525
+**27/06** Partenza da Roma 
 
-Volo Roma – Dubai QF8098 1525 2325
+**28/06** Arrivo a Melbourne
 
-28-06 Volo Dubai – Melbourne QF10 0135 2055
-
-Travelodge Southbank – Standard room
-
-29-06 Giornata libera
-
-Travelodge Southbank – Standard
-
-Tour Parata dei pinguini. Grey Line Afternoon/evening Penguin Parade (Penguin plus)
-
-Pick-up e drop-off la vostro hotel
+**29/06** Visita della città
+		  Tour Parata dei pinguini
 
 30-06 Ritiro macchina a noleggio in citta’. Toyota Corolla Sedan (Tariffa all-inclusive,
 
