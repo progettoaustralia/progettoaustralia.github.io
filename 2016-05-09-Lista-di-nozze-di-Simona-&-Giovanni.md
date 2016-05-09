@@ -85,7 +85,6 @@ _"E non c’è niente di più bello dell’istante che precede il viaggio, l’i
 			Arrivo a Rarotonga
             Welcome all'aeroporto
             
-![]({{site.baseurl}}/images/cook%20island.jpg)
 
 **17/07** 	Rarotonga
 
@@ -112,7 +111,6 @@ _"E non c’è niente di più bello dell’istante che precede il viaggio, l’i
 **25/07**	Sydney
 
 ![tramonto-sidney-australia.jpg]({{site.baseurl}}/images/tramonto-sidney-australia.jpg)
-
 
 **26/07**	Sydney
 
