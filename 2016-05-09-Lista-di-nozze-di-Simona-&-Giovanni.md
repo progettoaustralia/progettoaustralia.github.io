@@ -14,8 +14,12 @@ _"E non c’è niente di più bello dell’istante che precede il viaggio, l’i
 
 **28/06** 	Arrivo a Melbourne
 
+![melbourne-skyline_2599296a.jpg]({{site.baseurl}}/images/melbourne-skyline_2599296a.jpg)
+
 **29/06** 	Visita della città
 		  	Tour Parata dei pinguini
+            
+            ![]({{site.baseurl}}/images/phillip%20island.jpg)
 
 **30/06**	Melbourne – Apollo Bay (210 km circa)
 
