@@ -10,165 +10,84 @@ _"E non c’è niente di più bello dell’istante che precede il viaggio, l’i
 (Milan Kundera)"_
 
 
-**27/06** Partenza da Roma 
+**27/06** 	Partenza da Roma 
 
-**28/06** Arrivo a Melbourne
+**28/06** 	Arrivo a Melbourne
 
-**29/06** Visita della città
-		  Tour Parata dei pinguini
+**29/06** 	Visita della città
+		  	Tour Parata dei pinguini
 
-30-06 Ritiro macchina a noleggio in citta’. Toyota Corolla Sedan (Tariffa all-inclusive,
+**30/06**	Melbourne – Apollo Bay (210 km circa)
 
-chilometraggio illimitato)
+**01/07** 	Apollo Bay – Mount Gambier (350 km circa)
 
-Melbourne – Apollo Bay (210 km circa)
+**02/07**	Mount Gambier – Victor Harbour (450 km circa)
 
-Comfort Inn – Standard room
+**03/07** 	Victor Harbour – Cape Jervis (60 km circa)
+			Traghetto per Kangaroo Island
 
-01-07 Apollo Bay – Mount Gambier (350 km circa)
+**04/07** 	Kangaroo Island
 
-The Barn – Garden room
+**05/07** 	Traghetto da Kangaroo Island
+			Cape Jervis – Adelaide (110 km)
 
-02-07 Mount Gambier – Victor Harbour (450 km circa)
+**06/07** 	Volo Adelaide – Alice Springs 
+			Visita di Alice Springs
 
-Comfort Inn – Standard room
+**07/07** 	Alice Springs – Kings Canyon (attraverso la Mereenie Loop, 320 km circa di cui 200 non
+			asfaltati)
 
-03-07 Victor Harbour – Cape Jervis (60 km circa)
+			Visita libera del Kings Canyon
 
-Traghetto per Kangaroo Island (45 minuti circa)
+**08/07** 	Kings Canyon – Ayers Rock (300 km circa)
 
-Aurora Ozone – Executive room (colazione inclusa)
+			Visita lbera di Uluru e Monti Olgas all’alba
 
-04-07 Kangaroo Island
+			Cena Sound of silence
 
-Aurora Ozone – Executive room (colazione inclusa)
+**09/07** 	Visita libera di Uluru all’alba
 
-05-07 Traghetto da Kangaroo Island
+			Volo Ayers Rock – Cairns 
 
-Cape Jervis – Adelaide (110 km)
+**10/07** 	Tour organizzato nella Daintree Forest
 
-Breakfree Directors - Studio
+**11/07**	Tour sulla barriera corallina 
 
-06-07 Consegna auto a noleggio all’aeroporto
+**12-07** 	Volo Cairns – Darwin 
 
-Volo Adelaide – Alice Springs QF723 1035 1245
+**13/07** 	Partenza per tour organizzato visita del Kakadu 2gg/1notte 
 
-Ritiro macchina a noleggio all’aeroporto 4x4. Toyota Rav4 (Tariffa all-inclusive,
+**14/07** 	Rientro dal tour e pernottamento a Darwin
 
-chilometraggio illimitato, one-way fee da pagare in loco) 4gg
+**15/07** 	Volo Darwin – Sydney 
 
-Chifley – Standard room
+**16/07** 	Volo Sydney – Rarotonga 
 
-07-07 Alice Springs – Kings Canyon (attraverso la Mereenie Loop, 320 km circa di cui 200 non
+			Arrivo a Rarotonga 
+			Welcome all’aeroporto
 
-asfaltati)
+**17/07** 	Rarotonga
 
-Visita libera del Kings Canyon
+**18/07**	Rarotonga
 
-Kings Canyon Wilderness (Cena e colazione inclusa)
+**19/07** 	Volo Rarotonga – Aitutaki 
 
-08-07 Kings Canyon – Ayers Rock (300 km circa)
+**20/07** 	Tour organizzato a One Foot Island
 
-Visita lbera di Uluru e Monti Olgas all’alba
+**21/07** 	Aitutaki
 
-Outback Pioneer – Standard room
+**22/07** 	Volo Aitutaki – Rarotonga 
 
-Cena of silence
+			Volo Rarotonga – Sydney 
 
-09-07 Visita libera di Uluru all’alba
+**23/07** 	Sydney
 
-Consegna auto a noleggio all’aeroporto
+**24/07**	Sydney
 
-Volo Ayers Rock – Cairns QF1854 1515 1810
+**25/07**	Sydney
 
-The Reef Retreat – Studio
+**26/07**	Sydney
 
-10-07 Tour organizzato Billy Tea Safari da aggiungere al costo totale
+**27/07**	Volo Sydney – Dubai 
 
-Pick-up e drop-off al vostro hotel
-
-The Reef Retreat – Studio
-
-11-07 Tour sulla barriera corallina (pranzo incluso). Ocean Spirit
-
-Pick-up e drop-off al vostro hotel
-
-The Reef Retreat – Studio
-
-12-07 Volo Cairns – Darwin QF1874 1850 2055
-
-Travelodge Mirambeena – Standard room
-
-13-07 Partenza per tour organizzato visita del Kakadu 2gg/1notte ATTKINGS
-
-Pick-up e drop-off al vostro hotel
-
-Pernottamento al Mercure Crocodile
-
-14-07 Rientro dal tour e pernottamento a Darwin
-
-Pick-up e drop-off al vostro hotel
-
-Travelodge Mirambeena – Standard room
-
-15-07 Volo Darwin – Sydney QF843 1345 1830
-
-Travelodge Phillips Street – Standard room
-
-16-07 Sydney – Rarotonga NZ60 2125 0720
-
-16-07 Arrivo a Rarotonga alle 0720
-
-Welcome all’aeroporto
-
-Transfer aeroporto – Royal Takitumu
-
-ROYAL Takitumu - Beachfront villa
-
-17-07 Rarotonga
-
-ROYAL Takitumu - Beachfront villa
-
-18-07 Rarotonga
-
-ROYAL Takitumu - Beachfront villa
-
-19-07 Transfer in aeroporto
-
-Volo Rarotonga – Aitutaki GZ614 1030 1120
-
-Transfer aeroporto – Aitutaki Lagoon
-
-Aitutaki Lagoon – Overwater Bungalow (colazione inclusa)
-
-20-07 Tour organizzato a One Foot Island
-
-Aitutaki Lagoon – Overwater Bungalow (colazione inclusa)
-
-21-07 Aitutaki
-
-Aitutaki Lagoon – Overwater Bungalow (colazione inclusa)
-
-22-07 Volo Aitutaki – Rarotonga GZ615 1140 1230
-
-Volo Rarotonga – Sydney NZ61 1650 2015 (+1)
-
-23-07 Sydney
-
-Travelodge Phillips Street – Standard room
-
-24-07 Sydney
-
-Travelodge Phillips Street – Standard room
-
-25-07 Sydney
-
-Travelodge Phillips Street – Standard room
-
-26-07 Sydney
-
-Travelodge Phillips Street – Standard room
-
-27-07 Volo Sydney – Dubai QF1 1550 0025 (+1)
-
-28-07 Volo Dubai – Roma QF8099 0320 0725
+**28/07**	 Volo Dubai – Roma 
