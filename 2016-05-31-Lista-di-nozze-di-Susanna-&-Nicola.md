@@ -55,7 +55,7 @@ _**Voi siete il regalo più bello! Per chi lo desidera è possibile partecipare 
 **17/09** 	Tour organizzato “ Phillip Island &amp; Penguin Parade” guida in Italiano - 				Oceania Tour
 			Pernottamento Travelodge Southbank – Standard room
             
-            
+            ![]({{site.baseurl}}/images/phillip%20island.jpg)
 
 
 **18/09**	Trasferimento libero in Aeroporto
@@ -63,6 +63,9 @@ _**Voi siete il regalo più bello! Per chi lo desidera è possibile partecipare 
 			Partenza per Tour “ 3 Day Goanna Dreaming Red Center 4WD” – Wayoutback safari
 			Giorno 1 – Partenza da Ayers Rock Aeroporto per Uluru e tramonto (con pranzo e 				cena inclusi)
 			Pernottamento incluso nel tour in Safari Tent - tende attrezzate con letti e 				lenzuola
+            
+            ![Ayers-Rock01.jpg]({{site.baseurl}}/images/Ayers-Rock01.jpg)
+
 
 **19/09** 	Giorno 2 – Uluru all’alba e visita ai Monti Olgas (con colazione, pranzo e cena 			inclusi)
 			Proseguimento per Kings Canyon
@@ -70,6 +73,8 @@ _**Voi siete il regalo più bello! Per chi lo desidera è possibile partecipare 
 
 **20/09** 	Giorno 3 – Kings Canyon e rientro ad Alice Springs nel tardo pomeriggio (con 				colazione e pranzo inclusi)
 			Pernottamento Chifley Resort Alice Springs - standard room
+            
+            
 
 **21/09** 	Trasferimento libero in aeroporto
 			Volo Alice Springs – Cairns
