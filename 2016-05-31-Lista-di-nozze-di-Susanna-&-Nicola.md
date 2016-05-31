@@ -98,7 +98,7 @@ colazione e pranzo inclusi)
 
 Pernottamento Chifley Resort Alice Springs - standard room
             
-
+![]({{site.baseurl}}/images/Kings%20Canyon%202.JPG)
 
 **21/09** 	Trasferimento libero in aeroporto
 
@@ -114,7 +114,8 @@ Passion of Paradise
 
 Pernottamento Reef retreat – studio
             
-            ![cairns.jpg]({{site.baseurl}}/images/cairns.jpg)
+![cairns.jpg]({{site.baseurl}}/images/cairns.jpg)
+
 
 **23/09** 	Escursione organizzata 4x4 Cape Tribulation &amp; Daintree Forest (con pranzo 
 
@@ -122,7 +123,7 @@ incluso)– Billy Tea Bush Safari
 
 Pernottamento Reef retreat – studio
             
-            ![cairns-escursioni-cape-tribulation-11.jpg]({{site.baseurl}}/images/cairns-escursioni-cape-tribulation-11.jpg)
+![cairns-escursioni-cape-tribulation-11.jpg]({{site.baseurl}}/images/cairns-escursioni-cape-tribulation-11.jpg)
 
 **24/09** 	Palm Cove - giornata libera
 
@@ -136,7 +137,7 @@ Trasferimento libero in hotel
 
 Pernottamento Travelodge Phillip Street – standard room
             
-            ![sydney.jpg]({{site.baseurl}}/images/sydney.jpg)
+![tramonto-sidney-australia.jpg]({{site.baseurl}}/images/tramonto-sidney-australia.jpg)
 
 **26/09**	Sydney - Pranzo nella baia di Sydney – Captain Cook Cruise
 
@@ -146,7 +147,7 @@ Pernottamento Travelodge Phillip Street – standard room
 
 Pernottamento Travelodge Phillip Street – standard room
             
-            ![sydney-banner.jpg]({{site.baseurl}}/images/sydney-banner.jpg)
+![sydney.jpg]({{site.baseurl}}/images/sydney.jpg)
 
 **28/09** 	Sydney
 
