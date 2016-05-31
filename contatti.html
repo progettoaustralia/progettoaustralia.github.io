@@ -99,7 +99,7 @@ http://www.skype.com/go/skypebuttons
       data: $('#contact-form').serialize(),
       dataType: 'json',
       cache: false,
-      timeout: 7000,
+      timeout: 30000,
       success: function(data) {
         if(data.success){
           ga('send', 'event', 'contact-form', 'inviato');
