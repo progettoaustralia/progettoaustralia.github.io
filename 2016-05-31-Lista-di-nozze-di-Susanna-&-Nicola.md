@@ -99,7 +99,7 @@ colazione e pranzo inclusi)
 
 Pernottamento Chifley Resort Alice Springs - standard room
             
-
+![]({{site.baseurl}}/images/images%20kings%20canyon.jpg)
 
 **21/09** 	Trasferimento libero in aeroporto
 
