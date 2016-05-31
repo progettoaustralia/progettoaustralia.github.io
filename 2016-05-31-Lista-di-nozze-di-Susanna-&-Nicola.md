@@ -93,13 +93,13 @@ Proseguimento per Kings Canyon
 			
 Pernottamento Kings Creek Station in Safari Tent - tende attrezzate con letti e 			lenzuola
 
-![]({{site.baseurl}}/images/Kings%20Canyon_Garden%20of%20Eden_Voyages.jpg)
-
 **20/09** 	Giorno 3 – Kings Canyon e rientro ad Alice Springs nel tardo pomeriggio (con 	
 
 colazione e pranzo inclusi)
 
 Pernottamento Chifley Resort Alice Springs - standard room
+
+![]({{site.baseurl}}/images/images%20kings%20canyon.jpg)
 
 **21/09** 	Trasferimento libero in aeroporto
 
