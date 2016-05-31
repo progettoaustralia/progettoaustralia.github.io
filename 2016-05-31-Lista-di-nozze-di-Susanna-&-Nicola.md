@@ -25,14 +25,16 @@ _**Voi siete il regalo più bello! Per chi lo desidera è possibile partecipare 
 			
   Pernottamento Majestic Garden roof – superior room
             
-           ![Adelaide1.jpg]({{site.baseurl}}/images/Adelaide1.jpg)
+ ![Adelaide1.jpg]({{site.baseurl}}/images/Adelaide1.jpg)
+
 
 **13/09** 	Partenza per Tour organizzato “2gg e 1 notte Kangaroo Island Highlights”  				
 Odysseys Tour(guida in inglese e pranzo incluso)
 			
 Pernottamento in Hotel standard incluso nel Tour (con colazione inclusa)
             
-            ![KI.jpg]({{site.baseurl}}/images/KI.jpg)
+![admiral-s-arch-at-sunset.jpg]({{site.baseurl}}/images/admiral-s-arch-at-sunset.jpg)
+
 
 1**4/09**	Giorno 2 – Continuazione Tour di Kangaroo Island (con pranzo incluso)
 
@@ -40,7 +42,6 @@ Fine tour con previsto arrivo in tarda serata ad Adelaide
 
 Pernottamento Majestic Garden roof – classic room
             
-            ![]({{site.baseurl}}/images/ki%202.jpg)
 
 **15/09**	Trasferimento libero in aeroporto
 
@@ -112,7 +113,7 @@ Pernottamento Reef retreat – studio
             
             ![cairns.jpg]({{site.baseurl}}/images/cairns.jpg)
 
-**23/09** 	Escursione organizzata 4x4 Cape Tribulation &amp; Daintree Forest (con pranzo 	
+**23/09** 	Escursione organizzata 4x4 Cape Tribulation &amp; Daintree Forest (con pranzo 
 
 incluso)– Billy Tea Bush Safari
 
