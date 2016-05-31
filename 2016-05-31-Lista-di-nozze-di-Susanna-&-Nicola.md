@@ -71,9 +71,9 @@ Oceania Tour
 
 Pernottamento Travelodge Southbank – Standard room
 
+![]({{site.baseurl}}/images/phillip%20island.jpg)
 
 **18/09**	Trasferimento libero in Aeroporto
-
 
 Volo Melbourne - Ayers Rock 
 
@@ -83,7 +83,8 @@ Giorno 1 – Partenza da Ayers Rock Aeroporto per Uluru e tramonto (con pranzo e
 
 Pernottamento incluso nel tour in Safari Tent - tende attrezzate con letti e 				lenzuola
             
-            ![Ayers-Rock01.jpg]({{site.baseurl}}/images/Ayers-Rock01.jpg)
+![Ayers-Rock01.jpg]({{site.baseurl}}/images/Ayers-Rock01.jpg)
+
 
 **19/09** 	Giorno 2 – Uluru all’alba e visita ai Monti Olgas (con colazione, pranzo e cena inclusi)
 			
@@ -97,7 +98,7 @@ colazione e pranzo inclusi)
 
 Pernottamento Chifley Resort Alice Springs - standard room
             
-            ![]({{site.baseurl}}/images/Kings%20Canyon%202.JPG)
+
 
 **21/09** 	Trasferimento libero in aeroporto
 
