@@ -1,5 +1,10 @@
 ---
 published: true
+layout: lista
+categories: 
+  - "lista-nozze"
+  - australia
+  - "luna-di-miele"
 ---
 ## Lista di nozze di Susanna & Nicola
 
