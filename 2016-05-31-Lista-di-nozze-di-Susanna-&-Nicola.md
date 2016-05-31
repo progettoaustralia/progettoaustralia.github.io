@@ -50,62 +50,43 @@ _**Voi siete il regalo più bello! Per chi lo desidera è possibile partecipare 
 			Pernottamento incluso nel tour in Safari Tent - tende attrezzate con letti e 				lenzuola
 
 **19/09** 	Giorno 2 – Uluru all’alba e visita ai Monti Olgas (con colazione, pranzo e cena 			inclusi)
+			Proseguimento per Kings Canyon
+			Pernottamento Kings Creek Station in Safari Tent - tende attrezzate con letti e 			lenzuola
 
-Proseguimento per Kings Canyon
+**20/09** 	Giorno 3 – Kings Canyon e rientro ad Alice Springs nel tardo pomeriggio (con 				colazione e pranzo inclusi)
+			Pernottamento Chifley Resort Alice Springs - standard room
 
-Pernottamento Kings Creek Station in Safari Tent - tende attrezzate con letti e lenzuola
+**21/09** 	Trasferimento libero in aeroporto
+			Volo Alice Springs – Cairns
+			Trasferimento libero a Palm Cove
+			Pernottamento Reef retreat – studio
 
-20/09 Giorno 3 – Kings Canyon e rientro ad Alice Springs nel tardo pomeriggio
+**22/09** 	Escursione organizzata Barriera Corallina esterna (con pranzo incluso) – 
+			Passion of Paradise
+			Pernottamento Reef retreat – studio
 
-Colazione e pranzo inclusi
+**23/09** 	Escursione organizzata 4x4 Cape Tribulation &amp; Daintree Forest (con pranzo 				incluso)– Billy Tea Bush Safari
+			Pernottamento Reef retreat – studio
 
-Pernottamento Chifley Resort Alice Springs - standard room
+**24/09** 	Palm Cove - giornata libera
+			Pernottamento Reef retreat – studio
 
-21/09 Trasferimento libero in aeroporto
+**25/09**	Trasferimento libero in aeroporto
+			Volo Cairns – Sydney
+			Trasferimento libero in hotel
+			Pernottamento Travelodge Phillip Street – standard room
 
-Volo Alice Springs – Cairns
+**26/09**	Sydney - Pranzo nella baia di Sydney – Captain Cook Cruise
+			Pernottamento Travelodge Phillip Street – standard room
 
-Trasferimento libero a Palm Cove
+**27/09**	Sydney
+			Pernottamento Travelodge Phillip Street – standard room
 
-Pernottamento Reef retreat – studio
+**28/09** 	Sydney
+			Pernottamento Travelodge Phillip Street – standard room
 
-22/09 Escursione organizzata Barriera Corallina esterna ( pranzo incluso) – Passion of Paradise
+**29/09** 	Trasferimento libero in aeroporto
+			Volo Sydney – Dubai
 
-Pernottamento Reef retreat – studio
-
-23/09 Escursione organizzata 4x4 Cape Tribulation &amp; Daintree Forest ( pranzo incluso)– Billy Tea
-
-Bush Safari
-
-Pernottamento Reef retreat – studio
-
-24/09 Palm Cove - giornata libera
-
-Pernottamento Reef retreat – studio
-
-25/09 Trasferimento libero in aeroporto
-
-Volo Cairns – Sydney
-
-Trasferimento libero in hotel
-
-Pernottamento Travelodge Phillip Street – standard room
-
-26/09 Sydney - Pranzo nella baia di Sydney – Captain Cook Cruise
-
-Pernottamento Travelodge Phillip Street – standard room
-
-27/09 Sydney
-
-Pernottamento Travelodge Phillip Street – standard room
-
-28/09 Sydney
-
-Pernottamento Travelodge Phillip Street – standard room
-
-29/09 Trasferimento libero in aeroporto
-
-Volo Sydney – Dubai
-
-30/09 Volo Dubai – Roma
+**30/09** 	Volo Dubai – Roma
 
