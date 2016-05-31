@@ -54,6 +54,9 @@ _**Voi siete il regalo più bello! Per chi lo desidera è possibile partecipare 
 
 **17/09** 	Tour organizzato “ Phillip Island &amp; Penguin Parade” guida in Italiano - 				Oceania Tour
 			Pernottamento Travelodge Southbank – Standard room
+            
+            
+
 
 **18/09**	Trasferimento libero in Aeroporto
 			Volo Melbourne - Ayers Rock 
