@@ -79,7 +79,8 @@ Volo Melbourne - Ayers Rock
 
 Partenza per Tour “ 3 Day Goanna Dreaming Red Center 4WD” – Wayoutback safari
 
-Giorno 1 – Partenza da Ayers Rock Aeroporto per Uluru e tramonto (con pranzo e 				cena inclusi)
+Giorno 1 – Partenza da Ayers Rock Aeroporto per Uluru e tramonto (con pranzo e 
+cena inclusi)
 
 Pernottamento incluso nel tour in Safari Tent - tende attrezzate con letti e 				lenzuola
             
@@ -98,7 +99,7 @@ colazione e pranzo inclusi)
 
 Pernottamento Chifley Resort Alice Springs - standard room
             
-![]({{site.baseurl}}/images/Kings%20Canyon%202.JPG)
+
 
 **21/09** 	Trasferimento libero in aeroporto
 
