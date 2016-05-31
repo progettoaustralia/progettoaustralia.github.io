@@ -35,17 +35,22 @@ _**Voi siete il regalo più bello! Per chi lo desidera è possibile partecipare 
 			Fine tour con previsto arrivo in tarda serata ad Adelaide
 			Pernottamento Majestic Garden roof – classic room
             
-            
+            ![]({{site.baseurl}}/images/ki%202.jpg)
 
 **15/09**	Trasferimento libero in aeroporto
 			Volo Adelaide - Melbourne
 			Trasferimento libero in Hotel
 			Melbourne - visita città nel pomeriggio
 			Pernottamento Travelodge Southbank – standard room
+            
+            ![01-melbourne.jpg]({{site.baseurl}}/images/01-melbourne.jpg)
+
 
 **16/09**	Tour organizzato “Great Ocean Road ” con pranzo incluso e guida in Italian
 			Oceania Tour
 			Pernottamento Travelodge Southbank – Standard room
+            
+            ![]({{site.baseurl}}/images/12ApostlesGreatOceanRoad.jpg)
 
 **17/09** 	Tour organizzato “ Phillip Island &amp; Penguin Parade” guida in Italiano - 				Oceania Tour
 			Pernottamento Travelodge Southbank – Standard room
