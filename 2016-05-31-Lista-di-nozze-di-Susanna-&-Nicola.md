@@ -70,8 +70,7 @@ Pernottamento Travelodge Southbank – Standard room
 Oceania Tour
 
 Pernottamento Travelodge Southbank – Standard room
-            
-            ![]({{site.baseurl}}/images/phillip%20island.jpg)
+
 
 **18/09**	Trasferimento libero in Aeroporto
 
