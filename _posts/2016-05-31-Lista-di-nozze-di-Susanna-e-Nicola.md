@@ -33,7 +33,7 @@ Pernottamento Majestic Garden roof – superior room
 Pernottamento in Hotel standard incluso nel Tour (con colazione inclusa)
 ![admiral-s-arch-at-sunset.jpg]({{site.baseurl}}/images/admiral-s-arch-at-sunset.jpg)
 
--**14/09**	Giorno 2 – Continuazione Tour di Kangaroo Island (con pranzo incluso)
+- **14/09**	Giorno 2 – Continuazione Tour di Kangaroo Island (con pranzo incluso)
 Fine tour con previsto arrivo in tarda serata ad Adelaide
 Pernottamento Majestic Garden roof – classic room            
 ![]({{site.baseurl}}/images/seal%20bay.jpg)
