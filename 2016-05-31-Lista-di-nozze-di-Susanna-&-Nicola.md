@@ -13,7 +13,6 @@ INTESTATO A:De Luca Nicola,Baldi Susanna
 _**Voi siete il regalo più bello! Per chi lo desidera è possibile partecipare alla nostra lista nozze**_
 
 
-
 **10/09**	Partenza da Roma per Dubai
 
 **11/09**	Volo Dubai – Adelaiede
@@ -22,13 +21,21 @@ _**Voi siete il regalo più bello! Per chi lo desidera è possibile partecipare 
 
 **12/09** 	Adelaide
 			Pernottamento Majestic Garden roof – superior room
+            
+            ![Adelaide1.jpg]({{site.baseurl}}/images/Adelaide1.jpg)
+
 
 **13/09** 	Partenza per Tour organizzato “2gg e 1 notte Kangaroo Island Highlights”  					Odysseys Tour(guida in inglese e pranzo incluso)
 			Pernottamento in Hotel standard incluso nel Tour (con colazione inclusa)
+            
+            ![KI.jpg]({{site.baseurl}}/images/KI.jpg)
+
 
 1**4/09**	Giorno 2 – Continuazione Tour di Kangaroo Island (con pranzo incluso)
 			Fine tour con previsto arrivo in tarda serata ad Adelaide
 			Pernottamento Majestic Garden roof – classic room
+            
+            
 
 **15/09**	Trasferimento libero in aeroporto
 			Volo Adelaide - Melbourne
