@@ -74,7 +74,7 @@ _**Voi siete il regalo più bello! Per chi lo desidera è possibile partecipare 
 **20/09** 	Giorno 3 – Kings Canyon e rientro ad Alice Springs nel tardo pomeriggio (con 				colazione e pranzo inclusi)
 			Pernottamento Chifley Resort Alice Springs - standard room
             
-            
+            ![]({{site.baseurl}}/images/Kings%20Canyon%202.JPG)
 
 **21/09** 	Trasferimento libero in aeroporto
 			Volo Alice Springs – Cairns
@@ -84,9 +84,15 @@ _**Voi siete il regalo più bello! Per chi lo desidera è possibile partecipare 
 **22/09** 	Escursione organizzata Barriera Corallina esterna (con pranzo incluso) – 
 			Passion of Paradise
 			Pernottamento Reef retreat – studio
+            
+            ![cairns.jpg]({{site.baseurl}}/images/cairns.jpg)
+
 
 **23/09** 	Escursione organizzata 4x4 Cape Tribulation &amp; Daintree Forest (con pranzo 				incluso)– Billy Tea Bush Safari
 			Pernottamento Reef retreat – studio
+            
+            ![cairns-escursioni-cape-tribulation-11.jpg]({{site.baseurl}}/images/cairns-escursioni-cape-tribulation-11.jpg)
+
 
 **24/09** 	Palm Cove - giornata libera
 			Pernottamento Reef retreat – studio
@@ -95,12 +101,18 @@ _**Voi siete il regalo più bello! Per chi lo desidera è possibile partecipare 
 			Volo Cairns – Sydney
 			Trasferimento libero in hotel
 			Pernottamento Travelodge Phillip Street – standard room
+            
+            ![sydney.jpg]({{site.baseurl}}/images/sydney.jpg)
+
 
 **26/09**	Sydney - Pranzo nella baia di Sydney – Captain Cook Cruise
 			Pernottamento Travelodge Phillip Street – standard room
 
 **27/09**	Sydney
 			Pernottamento Travelodge Phillip Street – standard room
+            
+            ![sydney-banner.jpg]({{site.baseurl}}/images/sydney-banner.jpg)
+
 
 **28/09** 	Sydney
 			Pernottamento Travelodge Phillip Street – standard room
