@@ -42,6 +42,7 @@ Fine tour con previsto arrivo in tarda serata ad Adelaide
 
 Pernottamento Majestic Garden roof – classic room
             
+![]({{site.baseurl}}/images/seal%20bay.jpg)
 
 **15/09**	Trasferimento libero in aeroporto
 
@@ -53,7 +54,8 @@ Melbourne - visita città nel pomeriggio
 
 Pernottamento Travelodge Southbank – standard room
             
-            ![01-melbourne.jpg]({{site.baseurl}}/images/01-melbourne.jpg)
+![01-melbourne.jpg]({{site.baseurl}}/images/01-melbourne.jpg)
+
 
 **16/09**	Tour organizzato “Great Ocean Road ” con pranzo incluso e guida in Italian
 
@@ -61,7 +63,7 @@ Oceania Tour
 
 Pernottamento Travelodge Southbank – Standard room
             
-            ![]({{site.baseurl}}/images/12ApostlesGreatOceanRoad.jpg)
+![12ApostlesGreatOceanRoad.jpg]({{site.baseurl}}/images/12ApostlesGreatOceanRoad.jpg)
 
 **17/09** 	Tour organizzato “ Phillip Island &amp; Penguin Parade” guida in Italiano - 	
 
@@ -72,6 +74,7 @@ Pernottamento Travelodge Southbank – Standard room
             ![]({{site.baseurl}}/images/phillip%20island.jpg)
 
 **18/09**	Trasferimento libero in Aeroporto
+
 
 Volo Melbourne - Ayers Rock 
 
