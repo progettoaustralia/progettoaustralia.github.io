@@ -1,5 +1,10 @@
 ---
 published: true
+layout: lista
+categories:
+  - lista-nozze
+  - australia
+  - itinerario
 ---
 ## Lista di nozze Gianluca & Giovanna
 
