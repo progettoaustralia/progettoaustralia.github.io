@@ -25,7 +25,7 @@ _**Rottnest Island**_
 
 _**Kangaroo Island**_
 
-![]({{site.baseurl}}/images/ki%202.jpg)
+![admiral-s-arch-at-sunset.jpg]({{site.baseurl}}/images/admiral-s-arch-at-sunset.jpg)
 
 _**Great Ocean Road**_
 
@@ -45,7 +45,7 @@ _**Kakadu National Park**_
 
 _**Daintree Forest**_
 
-![]({{site.baseurl}}/images/cape%20trib.jpg)
+![cairns-escursioni-cape-tribulation-11.jpg]({{site.baseurl}}/images/cairns-escursioni-cape-tribulation-11.jpg)
 
 _**Barriera corallina**_
 
