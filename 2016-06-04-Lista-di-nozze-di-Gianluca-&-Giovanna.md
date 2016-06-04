@@ -22,7 +22,7 @@ _**Rottnest Island**_
 
 _**Kangaroo Island**_
 
-![12ApostlesGreatOceanRoad.jpg]({{site.baseurl}}/images/12ApostlesGreatOceanRoad.jpg)
+
 
 _**Great Ocean Road**_
 
@@ -36,8 +36,19 @@ _**Uluru**_
 
 ![Ayers-Rock01.jpg]({{site.baseurl}}/images/Ayers-Rock01.jpg)
 
-Kakadu National Park
-Daintree Forest
-Barriera corallina
-Sydney
+_**Kakadu National Park**_
+
+![kakadu.jpg]({{site.baseurl}}/images/kakadu.jpg)
+
+_**Daintree Forest**_
+
+![index.jpg]({{site.baseurl}}/images/index.jpg)
+
+_**Barriera corallina**_
+
+![grande-barriera.jpeg]({{site.baseurl}}/images/grande-barriera.jpeg)
+
+_**Sydney**_
+
+![]({{site.baseurl}}/images/sydney%203.jpg)
 
