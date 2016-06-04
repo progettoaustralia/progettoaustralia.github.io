@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Lista di nozze Gianluca & Giovanna
 
