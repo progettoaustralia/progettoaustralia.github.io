@@ -16,7 +16,28 @@ Causale: Viaggio di nozze Gianluca e Giovanna
 
 _**Thank You!!!**_
 
+_**Rottnest Island**_
 
+![1. ROTTNEST ISLAND.jpg]({{site.baseurl}}/images/1. ROTTNEST ISLAND.jpg)
 
+_**Kangaroo Island**_
 
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
+![12ApostlesGreatOceanRoad.jpg]({{site.baseurl}}/images/12ApostlesGreatOceanRoad.jpg)
+
+_**Great Ocean Road**_
+
+![12ApostlesGreatOceanRoad.jpg]({{site.baseurl}}/images/12ApostlesGreatOceanRoad.jpg)
+
+_**Melbourne**_
+
+![melbourne-skyline_2599296a.jpg]({{site.baseurl}}/images/melbourne-skyline_2599296a.jpg)
+
+_**Uluru**_
+
+![Ayers-Rock01.jpg]({{site.baseurl}}/images/Ayers-Rock01.jpg)
+
+Kakadu National Park
+Daintree Forest
+Barriera corallina
+Sydney
+
