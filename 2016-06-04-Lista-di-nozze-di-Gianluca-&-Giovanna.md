@@ -22,7 +22,7 @@ _**Rottnest Island**_
 
 _**Kangaroo Island**_
 
-
+![]({{site.baseurl}}/images/ki%202.jpg)
 
 _**Great Ocean Road**_
 
@@ -42,7 +42,7 @@ _**Kakadu National Park**_
 
 _**Daintree Forest**_
 
-![index.jpg]({{site.baseurl}}/images/index.jpg)
+![]({{site.baseurl}}/images/cape%20trib.jpg)
 
 _**Barriera corallina**_
 
@@ -50,5 +50,6 @@ _**Barriera corallina**_
 
 _**Sydney**_
 
-![]({{site.baseurl}}/images/sydney%203.jpg)
+![sydney.jpg]({{site.baseurl}}/images/sydney.jpg)
+
 
