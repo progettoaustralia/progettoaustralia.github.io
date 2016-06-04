@@ -4,55 +4,53 @@ published: true
 ## Lista di nozze Gianluca & Giovanna
 
 ![]({{site.baseurl}}/images/3008683201308131748431.jpg)
-
-_**"...quando sono con te chiudo gli occhi e già volo..."**_
-
+<div class="citazione">
+"...quando sono con te chiudo gli occhi e già volo..."
+</div>
 ![3008684infinito.png]({{site.baseurl}}/images/3008684infinito.png)
-
-Banca Cariparma
-
-Iban: IT95L0623003541000063948226
-
-Cod.B.I.C. CRPPIT2P588
-
+<address>
+Banca Cariparma <br/>
+Iban: IT95L0623003541000063948226 <br/>
+Cod.B.I.C. CRPPIT2P588 <br/>
 Causale: Viaggio di nozze Gianluca e Giovanna
+</address>
 
 _**Thank You!!!**_
 
-_**Rottnest Island**_
+
+
+- **Rottnest Island**
 
 ![1. ROTTNEST ISLAND.jpg]({{site.baseurl}}/images/1. ROTTNEST ISLAND.jpg)
 
-_**Kangaroo Island**_
+- **Kangaroo Island**
 
 ![admiral-s-arch-at-sunset.jpg]({{site.baseurl}}/images/admiral-s-arch-at-sunset.jpg)
 
-_**Great Ocean Road**_
+- **Great Ocean Road**
 
 ![12ApostlesGreatOceanRoad.jpg]({{site.baseurl}}/images/12ApostlesGreatOceanRoad.jpg)
 
-_**Melbourne**_
+- **Melbourne**
 
 ![melbourne-skyline_2599296a.jpg]({{site.baseurl}}/images/melbourne-skyline_2599296a.jpg)
 
-_**Uluru**_
+- **Uluru**
 
 ![Ayers-Rock01.jpg]({{site.baseurl}}/images/Ayers-Rock01.jpg)
 
-_**Kakadu National Park**_
+- **Kakadu National Park**
 
 ![kakadu.jpg]({{site.baseurl}}/images/kakadu.jpg)
 
-_**Daintree Forest**_
+- **Daintree Forest**
 
 ![cairns-escursioni-cape-tribulation-11.jpg]({{site.baseurl}}/images/cairns-escursioni-cape-tribulation-11.jpg)
 
-_**Barriera corallina**_
+- **Barriera corallina**
 
 ![grande-barriera.jpeg]({{site.baseurl}}/images/grande-barriera.jpeg)
 
-_**Sydney**_
+- **Sydney**
 
 ![sydney.jpg]({{site.baseurl}}/images/sydney.jpg)
-
-
