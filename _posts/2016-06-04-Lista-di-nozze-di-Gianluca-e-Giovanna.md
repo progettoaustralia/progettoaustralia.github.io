@@ -12,9 +12,9 @@ categories:
 <div class="citazione">
 "...quando sono con te chiudo gli occhi e già volo..."
 </div>
-![3008684infinito.png]({{site.baseurl}}/images/3008684infinito.png)
 <address>
 Banca Cariparma <br/>
+Gianluca Di Chiara <br/>
 Iban: IT95L0623003541000063948226 <br/>
 Cod.B.I.C. CRPPIT2P588 <br/>
 Causale: Viaggio di nozze Gianluca e Giovanna
