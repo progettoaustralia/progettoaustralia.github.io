@@ -186,9 +186,3 @@ Learmouth - Perth
 Perth - Dubai
 
 **21/08** Dubai – Venezia
-
-
-
-
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
