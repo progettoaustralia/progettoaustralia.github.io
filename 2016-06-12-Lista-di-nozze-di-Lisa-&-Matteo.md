@@ -97,9 +97,7 @@ Devils Marbles ( Karlu Karlu)
 
 Pernottamento in Camping a Banka Banka Cattle station
 
-
 ![devil marbels.jpg]({{site.baseurl}}/images/devil marbels.jpg)
-
 
 **10/08** _Day 6_ - ( colazione, pranzo e cena inclusi)
 
@@ -116,7 +114,6 @@ Darwin per la notte
 Pernottamento in albergo incluso
 
 ![australia-katherine-gorge-waterfall.jpg]({{site.baseurl}}/images/australia-katherine-gorge-waterfall.jpg)
-
 
 **12/08** _Day 8_ – (pranzo e cena inclusi)
 
@@ -184,13 +181,13 @@ Pernottamento Best Western Sea Breeze Resort
 
 ![Cape Range National Park,  Western Australia..jpg]({{site.baseurl}}/images/Cape Range National Park,  Western Australia..jpg)
 
-20/08 Consegna auto in aeroporto
+**20/08** Consegna auto in aeroporto
 
 Learmouth - Perth
 
 Perth - Dubai
 
-21/08 Dubai – Venezia
+**21/08** Dubai – Venezia
 
 
 
