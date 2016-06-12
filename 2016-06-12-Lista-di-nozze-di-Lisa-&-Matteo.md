@@ -44,7 +44,7 @@ Pernottamento Travelodge SouthBank
 
 Pernottamento Best Western Great Ocean Road Motor Inn
 
-![12ApostlesGreatOceanRoad.jpg]({{site.baseurl}}/images/12ApostlesGreatOceanRoad.jpg)![12ApostlesGreatOceanRoad.jpg]({{site.baseurl}}/images/12ApostlesGreatOceanRoad.jpg)
+![12ApostlesGreatOceanRoad.jpg]({{site.baseurl}}/images/12ApostlesGreatOceanRoad.jpg)
 
 
 **04/08** Rientro su Melbourne passando da Sovereign Hill
@@ -57,7 +57,7 @@ Volo Melbourne – Alice Springs - Ayers Rock
 
 Partenza Tour “ 10 days Alice Springs ( Ayers Rock) to Darwin Crocodile Rock Adventure” – Way Outback Safari
 
-Day 1 – ( cena inclusa)
+_Day 1_ – ( cena inclusa)
 
 Pick Up all’Aeroporto di Ayers Rock e partenza per Uluru e passeggiata intorno alla base.
 
@@ -65,25 +65,31 @@ Tramonto ad Uluru
 
 Pernottamento in camping presso Ayers Rock
 
-06/08 Day 2 - ( colazione, pranzo e cena inclusi)
+![Ayers-Rock01.jpg]({{site.baseurl}}/images/Ayers-Rock01.jpg)
+
+**06/08**_Day 2_ - ( colazione, pranzo e cena inclusi)
 
 Visita di Uluru all’alba , Monti Olgas e partenza per Kings Canyon
 
 Pernottamento in camping presso Kings Creek Station
 
-07/08 Day 3 - ( colazione, pranzo inclusi)
+![Kings Canyon 2.JPG]({{site.baseurl}}/images/Kings%20Canyon%202.JPG)
+
+**07/08** _Day 3_ - ( colazione, pranzo inclusi)
 
 Kings Canyon e poi partenza per Alice Springs
 
 Pernottamento in albergo incluso
 
-08/08 Day 4
+**08/08** _Day 4_
 
 Giornata libera ad Alice Springs
 
 Pernottamento in albergo incluso
 
-09/08 Day 5 - ( pranzo e cena inclusi)
+![alice springs_qeh93.T0.jpg]({{site.baseurl}}/images/alice springs_qeh93.T0.jpg)
+
+**09/08**_Day 5_ - ( pranzo e cena inclusi)
 
 Partenza verso Nord destinazione Darwin. Lungo la strada Tropico del Capricorno e
 
@@ -91,13 +97,17 @@ Devils Marbles ( Karlu Karlu)
 
 Pernottamento in Camping a Banka Banka Cattle station
 
-10/08 Day 6 - ( colazione, pranzo e cena inclusi)
+
+![devil marbels.jpg]({{site.baseurl}}/images/devil marbels.jpg)
+
+
+**10/08** _Day 6_ - ( colazione, pranzo e cena inclusi)
 
 Proseeguendo si passa dal Daly Waters Pub e le piscine termali di Mataranka
 
 Pernottamento in camping ( vicino a Mataranka)
 
-11/08 Day 7 - ( colazione, pranzo inclusi)
+**11/08** _Day 7_ - ( colazione, pranzo inclusi)
 
 Oggi giornata dedicate a Katherine Gorge e il Nitmluk National Park prima di arrivare a
 
@@ -105,7 +115,10 @@ Darwin per la notte
 
 Pernottamento in albergo incluso
 
-12/08 Day 8 – (pranzo e cena inclusi)
+![australia-katherine-gorge-waterfall.jpg]({{site.baseurl}}/images/australia-katherine-gorge-waterfall.jpg)
+
+
+**12/08** _Day 8_ – (pranzo e cena inclusi)
 
 Partenza dalla vostra accommodation a Darwin destinazione Kakadu National Park
 
@@ -115,7 +128,9 @@ coccodrilli), Ubirr e Bowali cultural centre
 
 Pernottamento in Camping al Kakadu National Park
 
-13/08 Day 9 – ( colazione, pranzo e cena inclusi)
+![Foto Kakadu + Litchfield.jpg]({{site.baseurl}}/images/Foto%20Kakadu%20%2B%20Litchfield.jpg)
+
+**13/08** _Day 9_ – ( colazione, pranzo e cena inclusi)
 
 Giornata dedicata alle cascate Gunlom al confine con l’Arnhemland
 
@@ -123,7 +138,9 @@ Proseguimento per il Litchifield National Park
 
 Pernottamento in Camping al Litchfield National Park
 
-14/08 Day 10 – ( colazione e pranzo inclusi)
+![jim_jim_falls_kakadu_np_kak_arn_u_1063564_540x304.jpg]({{site.baseurl}}/images/jim_jim_falls_kakadu_np_kak_arn_u_1063564_540x304.jpg)
+
+**14/08**_Day 10_ – ( colazione e pranzo inclusi)
 
 Litchfield National Park e Termite mounds, Florence Falls, Wangi Falls, Buley Rockhole
 
@@ -131,7 +148,9 @@ Rientro a Darwin in serata e FINE TOUR
 
 Pernottamento Travelodge Mirambeena
 
-15/08 Trasferimento libero in aeroporto ( shuttle o taxi)
+![florence-falls.jpg]({{site.baseurl}}/images/florence-falls.jpg)
+
+**15/08**Trasferimento libero in aeroporto ( shuttle o taxi)
 
 Darwin – Perth ( Volo QF 793 14.20 – 16.50)
 
@@ -139,9 +158,15 @@ Trasferimento libero in Hotel ( taxi o shuttle)
 
 Pernottamento Travelodge Perth – standard room
 
-16/08 Trasferimento libero in aeroporto ( taxi o shuttle)
+![perth.jpg]({{site.baseurl}}/images/perth.jpg)
+
+**16/08** Trasferimento libero in aeroporto ( taxi o shuttle)
 
 Volo Perth – Learmouth ( aeroporto di Exmouth)
+
+
+
+
 
 
 
