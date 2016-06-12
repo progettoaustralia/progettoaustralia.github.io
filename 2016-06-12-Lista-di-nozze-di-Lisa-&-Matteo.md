@@ -5,9 +5,7 @@ published: false
 
 
 
-_**Non smetteremo di esplorare e alla fine di tutto il nostro andare ritorneremo al punto di partenza per conoscerlo per la prima volta 
-
-Thomas Stearns Eliot**_
+_**"Non smetteremo di esplorare e alla fine di tutto il nostro andare ritorneremo al punto di partenza per conoscerlo per la prima volta." Thomas Stearns Eliot**_
 
 
 INTESTATARIO	Lisa Martello
