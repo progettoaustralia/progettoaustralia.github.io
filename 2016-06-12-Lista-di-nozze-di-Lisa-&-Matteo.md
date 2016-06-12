@@ -67,21 +67,21 @@ Pernottamento in camping presso Ayers Rock
 
 ![Ayers-Rock01.jpg]({{site.baseurl}}/images/Ayers-Rock01.jpg)
 
-**06/08**_Day 2_ - ( colazione, pranzo e cena inclusi)
+**06/08** _Day 2_ - ( colazione, pranzo e cena inclusi)
 
 Visita di Uluru all’alba , Monti Olgas e partenza per Kings Canyon
 
 Pernottamento in camping presso Kings Creek Station
 
-![Kings Canyon 2.JPG]({{site.baseurl}}/images/Kings%20Canyon%202.JPG)
+![KINGS CANYON.jpg]({{site.baseurl}}/images/liste/KINGS%20CANYON.jpg)
 
-**07/08** _Day 3_ - ( colazione, pranzo inclusi)
+**07/08**  _Day 3_ - ( colazione, pranzo inclusi)
 
 Kings Canyon e poi partenza per Alice Springs
 
 Pernottamento in albergo incluso
 
-**08/08** _Day 4_
+**08/08**  _Day 4_
 
 Giornata libera ad Alice Springs
 
@@ -89,7 +89,7 @@ Pernottamento in albergo incluso
 
 ![alice springs_qeh93.T0.jpg]({{site.baseurl}}/images/alice springs_qeh93.T0.jpg)
 
-**09/08**_Day 5_ - ( pranzo e cena inclusi)
+**09/08** _Day 5_ - ( pranzo e cena inclusi)
 
 Partenza verso Nord destinazione Darwin. Lungo la strada Tropico del Capricorno e
 
@@ -99,13 +99,13 @@ Pernottamento in Camping a Banka Banka Cattle station
 
 ![devil marbels.jpg]({{site.baseurl}}/images/devil marbels.jpg)
 
-**10/08** _Day 6_ - ( colazione, pranzo e cena inclusi)
+**10/08**  _Day 6_ - ( colazione, pranzo e cena inclusi)
 
 Proseeguendo si passa dal Daly Waters Pub e le piscine termali di Mataranka
 
 Pernottamento in camping ( vicino a Mataranka)
 
-**11/08** _Day 7_ - ( colazione, pranzo inclusi)
+**11/08**  _Day 7_ - ( colazione, pranzo inclusi)
 
 Oggi giornata dedicate a Katherine Gorge e il Nitmluk National Park prima di arrivare a
 
@@ -115,7 +115,7 @@ Pernottamento in albergo incluso
 
 ![australia-katherine-gorge-waterfall.jpg]({{site.baseurl}}/images/australia-katherine-gorge-waterfall.jpg)
 
-**12/08** _Day 8_ – (pranzo e cena inclusi)
+**12/08**  _Day 8_ – (pranzo e cena inclusi)
 
 Partenza dalla vostra accommodation a Darwin destinazione Kakadu National Park
 
@@ -125,9 +125,9 @@ coccodrilli), Ubirr e Bowali cultural centre
 
 Pernottamento in Camping al Kakadu National Park
 
-![Foto Kakadu + Litchfield.jpg]({{site.baseurl}}/images/Foto%20Kakadu%20%2B%20Litchfield.jpg)
+![kakadu-national-park-32783-crop.jpg]({{site.baseurl}}/images/kakadu-national-park-32783-crop.jpg)
 
-**13/08** _Day 9_ – ( colazione, pranzo e cena inclusi)
+**13/08**  _Day 9_ – ( colazione, pranzo e cena inclusi)
 
 Giornata dedicata alle cascate Gunlom al confine con l’Arnhemland
 
@@ -137,7 +137,7 @@ Pernottamento in Camping al Litchfield National Park
 
 ![jim_jim_falls_kakadu_np_kak_arn_u_1063564_540x304.jpg]({{site.baseurl}}/images/jim_jim_falls_kakadu_np_kak_arn_u_1063564_540x304.jpg)
 
-**14/08**_Day 10_ – ( colazione e pranzo inclusi)
+**14/08** _Day 10_ – ( colazione e pranzo inclusi)
 
 Litchfield National Park e Termite mounds, Florence Falls, Wangi Falls, Buley Rockhole
 
