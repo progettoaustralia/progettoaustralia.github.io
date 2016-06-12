@@ -29,29 +29,33 @@ INDIRIZZO BANCA	Via Francesco Sforza
 20080 Basiglio - Milano 3 (MI)
 
 
-01/08 Venezia – Dubai
+**01/08** Venezia – Dubai
 
-02/08 Dubai - Melbourne
+**02/08** Dubai - Melbourne
 
 Ritiro macchina a noleggio
 
 Pernottamento Travelodge SouthBank
 
-03/08 Partenza per Port Campbell ( 280km) lungo la Great Ocean Road
+![melbourne-skyline_2599296a.jpg]({{site.baseurl}}/images/melbourne-skyline_2599296a.jpg)
+
+
+**03/08** Partenza per Port Campbell ( 280km) lungo la Great Ocean Road
 
 Pernottamento Best Western Great Ocean Road Motor Inn
 
-04/08 Rientro su Melbourne passando da Sovereign Hill
+![12ApostlesGreatOceanRoad.jpg]({{site.baseurl}}/images/12ApostlesGreatOceanRoad.jpg)![12ApostlesGreatOceanRoad.jpg]({{site.baseurl}}/images/12ApostlesGreatOceanRoad.jpg)
+
+
+**04/08** Rientro su Melbourne passando da Sovereign Hill
 
 Pernottamento Travelodge SouthBank
 
-05/08 Consegna auto in aeroporto
+**05/08** Consegna auto in aeroporto
 
 Volo Melbourne – Alice Springs - Ayers Rock
 
-Partenza Tour “ 10 days Alice Springs ( Ayers Rock) to Darwin Crocodile Rock Adventure”
-
-– Way Outback Safari
+Partenza Tour “ 10 days Alice Springs ( Ayers Rock) to Darwin Crocodile Rock Adventure” – Way Outback Safari
 
 Day 1 – ( cena inclusa)
 
