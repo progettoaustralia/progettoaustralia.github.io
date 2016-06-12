@@ -164,7 +164,33 @@ Pernottamento Travelodge Perth – standard room
 
 Volo Perth – Learmouth ( aeroporto di Exmouth)
 
+Ritiro macchina a noleggio
 
+Pernottamento Bayview Coral Bay – Coral Bay Lodge
+
+**17/0**8 Coral bay
+
+Pernottamento Bayview Coral Bay – Coral Bay Lodge
+
+![coral bay.jpg]({{site.baseurl}}/images/coral bay.jpg)
+
+**18/08** Coral bay
+
+Pernottamento Bayview Coral Bay – Coral Bay Lodge
+
+**19/08** Partenza per Exmouth ( 130km) e visita al Cape Range National Park
+
+Pernottamento Best Western Sea Breeze Resort
+
+![Cape Range National Park,  Western Australia..jpg]({{site.baseurl}}/images/Cape Range National Park,  Western Australia..jpg)
+
+20/08 Consegna auto in aeroporto
+
+Learmouth - Perth
+
+Perth - Dubai
+
+21/08 Dubai – Venezia
 
 
 
