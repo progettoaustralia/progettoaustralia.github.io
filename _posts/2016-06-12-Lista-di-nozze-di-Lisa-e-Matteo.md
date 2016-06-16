@@ -1,5 +1,8 @@
 ---
 published: true
+layout: lista
+categories:
+  - lista-nozze
 ---
 ## Lista di nozze di Lisa & Matteo
 
