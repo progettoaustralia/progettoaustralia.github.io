@@ -6,6 +6,7 @@ categories:
 ---
 ## Lista di nozze di Lisa & Matteo
 
+![Foto Lista nozze.JPG]({{site.baseurl}}/images/Foto Lista nozze.JPG)
 
 
 <div class="citazione">"Non smetteremo di esplorare e alla fine di tutto il nostro andare ritorneremo al punto di partenza per conoscerlo per la prima volta." 
