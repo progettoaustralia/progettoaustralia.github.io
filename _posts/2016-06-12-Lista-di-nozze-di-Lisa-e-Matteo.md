@@ -13,6 +13,9 @@ categories:
 <span style="text-align:right">Thomas Stearns Eliot</span>
 </div>
 
+_Grazie a tutti voi per regalarci il nostro **SOGNO*..._
+
+
 <address>
 INTESTATARIO	Lisa Martello <br/>
 IBAN	IT18E0306234210000001291697 <br/>
