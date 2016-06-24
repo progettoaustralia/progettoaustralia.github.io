@@ -8,8 +8,8 @@ categories:
 ![3037582Foto.JPG]({{site.baseurl}}/images/3037582Foto.JPG)
 
 <div class="citazione">
-"Il modo migliore per cercare di capire il mondo è vederlo dal maggior numero possibile di angolazioni"** 
-<span style="text-align:left">Ari Kiev</span>
+"Il modo migliore per cercare di capire il mondo è vederlo dal maggior numero possibile di angolazioni"
+<span style="text-align:right">Ari Kiev</span>
 </div>
 
 
