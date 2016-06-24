@@ -9,7 +9,7 @@ categories:
 
 <div class="citazione">
 "Il modo migliore per cercare di capire il mondo è vederlo dal maggior numero possibile di angolazioni"<br/>
-<span style="text-align:right">Ari Kiev</span>
+<span style="float:right"><strong>Ari Kiev</strong></span>
 </div>
 
 
