@@ -22,11 +22,11 @@ _Laura e Luca_
 ![3037583Rev-col-map.jpeg]({{site.baseurl}}/images/3037583Rev-col-map.jpeg)
 
 <address>
-**Intestazione:** LUCA ROTTA, LAURA BARAZZETTA <br/>
-**Iban:** IT54A0316901600CC0011266876<br/>
-**Conto n°:** 1266876<br/>
-**ABI:** 03169<br/>
-**CAB:**01600<br/>
-**BIC:**INGDITM1<br/>
-**CAUSALE:** Viaggio di nozze Laura e Luca<br/>
+<strong>Intestazione:</strong> LUCA ROTTA, LAURA BARAZZETTA <br/>
+<strong>Iban:</strong> IT54A0316901600CC0011266876<br/>
+<strong>Conto n°:</strong> 1266876<br/>
+<strong>ABI:</strong> 03169<br/>
+<strong>CAB:</strong> 01600<br/>
+<strong>BIC:</strong> INGDITM1<br/>
+<strong>CAUSALE:</strong> Viaggio di nozze Laura e Luca<br/>
 </address>
