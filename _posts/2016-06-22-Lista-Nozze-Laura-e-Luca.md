@@ -1,5 +1,9 @@
 ---
 published: true
+layout: lista
+categories:
+  - lista-nozze
+  - itinerario
 ---
 ![3037582Foto.JPG]({{site.baseurl}}/images/3037582Foto.JPG)
 
