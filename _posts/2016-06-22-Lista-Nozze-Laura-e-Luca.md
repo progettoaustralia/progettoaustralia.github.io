@@ -30,3 +30,5 @@ _Laura e Luca_
 <strong>BIC:</strong> INGDITM1<br/>
 <strong>CAUSALE:</strong> Viaggio di nozze Laura e Luca<br/>
 </address>
+
+![]({{site.baseurl}}/images/3097401Collage.jpg)
