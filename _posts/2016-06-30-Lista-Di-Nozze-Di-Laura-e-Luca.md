@@ -32,4 +32,3 @@ _Laura e Luca_
 </address>
 
 ![3097401Collage.jpg]({{site.baseurl}}/images/3097401Collage.jpg)
-
