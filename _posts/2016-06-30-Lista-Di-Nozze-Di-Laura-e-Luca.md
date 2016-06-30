@@ -31,4 +31,5 @@ _Laura e Luca_
 <strong>CAUSALE:</strong> Viaggio di nozze Laura e Luca<br/>
 </address>
 
-![3097401Collage.JPG]({{site.baseurl}}/images/3097401Collage.JPG)
+![3097401Collage.jpg]({{site.baseurl}}/images/3097401Collage.jpg)
+
