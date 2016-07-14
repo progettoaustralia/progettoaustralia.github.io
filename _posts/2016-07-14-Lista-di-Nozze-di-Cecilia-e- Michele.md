@@ -1,5 +1,10 @@
 ---
 published: true
+layout: lista
+categories:
+  - lista-nozze
+  - australia
+  - itinerario
 ---
 ![01.png]({{site.baseurl}}/images/01.png)
 
