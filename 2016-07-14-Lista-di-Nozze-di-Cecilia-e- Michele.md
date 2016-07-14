@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ![01.png]({{site.baseurl}}/images/01.png)
 
@@ -100,10 +100,3 @@ L’importo è ovviamente libero. Ecco qualche idea di ciò che contribuireste a
 **Quota 400 euro:** ci regalate il volo da Sidney a Ayers Rock – la visita alla bellissima isola Michaelmas Cay della barriera corallina.
 
 **Quota 500 euro:** ci regalate una parte dei voli intercontinentali – le notti sotto le stelle a Uluru e l’escursione in 4x4 per gustare il tramonto mozzafiato sul Kings Canyon.
-
-
-
-
-
-
-
