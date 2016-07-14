@@ -19,7 +19,8 @@ categories:
  Volo Venezia – Dubai e Dubai – Melbourne
 - **29 dicembre 2016**
 ![02.jpg]({{site.baseurl}}/images/02.jpg)
-Qui comincerà l’avventura! Un po’ intontiti dal jet lag ma armati di curiosità e scarpe comode, andremo alla scoperta di Melbourne. Lo sapevate che è stata nominata “la città più vivibile del mondo” negli ultimi 5 anni?
+Qui comincerà l’avventura! Un po’ intontiti dal jet lag ma armati di curiosità e scarpe comode, andremo alla scoperta di Melbourne. 
+Lo sapevate che è stata nominata “la città più vivibile del mondo” negli ultimi 5 anni?
  - **30 dicembre 2016 – 2 gennaio 2017**
 ![03.jpg]({{site.baseurl}}/images/03.jpg)
 Ritireremo l’auto a noleggio e inizieremo l’avventura su 4 ruote (con guida a sinistra!) lungo la Great Ocean Road, la scenografica strada costiera lungo il litorale sud-orientale dell’Australia.
