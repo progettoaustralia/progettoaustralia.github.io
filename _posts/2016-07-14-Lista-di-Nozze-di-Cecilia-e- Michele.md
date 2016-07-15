@@ -8,6 +8,7 @@ categories:
 ---
 ![01.png]({{site.baseurl}}/images/01.png)
 
+
 <div class="citazione">
 “Viaggiare è come innamorarsi: il mondo si fa nuovo”<br/>
 <span style="text-align:right">Jan Myrdal</span>
