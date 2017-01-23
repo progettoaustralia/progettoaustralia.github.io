@@ -1,4 +1,4 @@
-## A New Post![_La vita è un viaggio e chi viaggia vive due volte_. (Omar Khayyam)]({{site.baseurl}}/images/New Phototastic Collage.jpg)
+## ![_La vita è un viaggio e chi viaggia vive due volte_. (Omar Khayyam)]({{site.baseurl}}/images/New Phototastic Collage.jpg)
 ##
 
 _Grazie per aver reso tutto ciò possibile..._
