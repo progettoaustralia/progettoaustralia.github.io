@@ -4,8 +4,8 @@ layout: lista
 categories:
   - lista-nozze
 ---
-## ![_La vita è un viaggio e chi viaggia vive due volte_. (Omar Khayyam)]({{site.baseurl}}/images/New Phototastic Collage.jpg)
-##
+![_La vita è un viaggio e chi viaggia vive due volte_. (Omar Khayyam)]({{site.baseurl}}/images/New Phototastic Collage.jpg)
+ 
 <div class="citazione">
 Grazie per aver reso tutto ciò possibile...
 </div>
@@ -70,4 +70,3 @@ Grazie per aver reso tutto ciò possibile...
 - **14/08** Sydney
 		
 - **15/08** Partenza per l’Italia
-
