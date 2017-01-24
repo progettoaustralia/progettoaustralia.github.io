@@ -4,7 +4,10 @@ layout: lista
 categories:
   - lista-nozze
 ---
-![_La vita è un viaggio e chi viaggia vive due volte_. (Omar Khayyam)]({{site.baseurl}}/images/New Phototastic Collage.jpg)
+({{site.baseurl}}/images/New Phototastic Collage.jpg)
+
+_La vita è un viaggio e chi viaggia vive due volte.(Omar Khayyam)_
+
  
 <div class="citazione">
 Grazie per aver reso tutto ciò possibile...
