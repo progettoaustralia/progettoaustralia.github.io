@@ -4,7 +4,7 @@ layout: lista
 categories:
   - lista-nozze
 ---
-({{site.baseurl}}/images/New Phototastic Collage.jpg)
+![Anna e Fabio]({{site.baseurl}}/images/AnnaFabioCollage.jpg)
 
 _La vita è un viaggio e chi viaggia vive due volte.(Omar Khayyam)_
 
