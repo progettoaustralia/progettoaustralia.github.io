@@ -1,12 +1,17 @@
 ---
 published: true
+layout: lista
+categories:
+  - lista-nozze
 ---
 ![588cc911a0e92foto.jpg]({{site.baseurl}}/images/588cc911a0e92foto.jpg)
 
-## A New Post
+ <div class="citazione">
+ Australia, the only place where our Dreamtime can start from.....
+ </div>
 
-> **_Australia, the only place where our Dreamtime can start from....._**
-
-**IBAN: IT67Z0623056210000046592561, C/C Francesco Moccia Teresa Soda**
-
+ 
+ <address>
+ <strong>IBAN</strong>: IT67Z0623056210000046592561, C/C Francesco Moccia Teresa Soda
+</address>
 _Grazie!_
