@@ -66,3 +66,5 @@ categories:
  <address>
  <strong>IBAN</strong>: IT67Z0623056210000046592561 – Causale: Viaggio di Nozze Teresa e Franesco, C/C Francesco Moccia Teresa Soda
 </address> 
+
+> _Grazie di cuore a tutti gli amici e familiari che ci aiuteranno a realizzare il nostro sogno_
