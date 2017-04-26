@@ -7,7 +7,7 @@ published: true
 > _“E non c’è niente di più bello dell’istante che precede il viaggio, l’istante in cui l’orizzonte del domani viene a renderci visita e a raccontarci le sue promesse”
 Milan Kundera_
 
-
+![]({{site.baseurl}}/images/Foto%20ALe%20e%20Ale.jpg)
 
 “Il modo migliore per cercare di capire il mondo è vederlo dal maggior numero possibile di angolazioni”
 Ari Kiev_
