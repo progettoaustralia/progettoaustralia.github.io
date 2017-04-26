@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 **IL NOSTRO SPLENDIDO VIAGGIO DI NOZZE**
@@ -107,6 +107,3 @@ e il sogno realtà diverrà"_
 **IT66J0558401795000000091959 intestato a Martire Bedostri Alessandro / Ghislandi Alessandra**
 
 **GRAZIE A TUTTI VOI!!**
-
-
-
