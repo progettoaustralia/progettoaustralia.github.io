@@ -10,13 +10,14 @@ categories:
 
 <div class="citazione">E non c’è niente di più bello dell’istante che precede il viaggio, l’istante in cui l’orizzonte del domani viene a renderci visita e a raccontarci le sue promesse
 <br/>
-<span style="align:right">Milan Kundera</span>
+<span style="padding-left: 50%">Milan Kundera</span>
 </div>
 
 ![]({{site.baseurl}}/images/Foto%20ALe%20e%20Ale.jpg)
 
 <div class="citazione">Il modo migliore per cercare di capire il mondo è vederlo dal maggior numero possibile di angolazioni
-<span style="align:right">Ari Kiev</span>
+<br/>
+<span style="padding-left: 50%">Ari Kiev</span>
 </div>
 
 ![]({{site.baseurl}}/images/australia%20itinerario.png)
@@ -34,7 +35,7 @@ categories:
 - ![sydney.jpg]({{site.baseurl}}/images/sydney.jpg)
 
 <div class="citazione">Non andare dove il sentiero ti può portare; vai invece dove il sentiero non c’è ancora e lascia dietro di te una traccia”<br/>
- <span style="align:right">Ralph Waldo Emerson</span>
+ <span style="padding-left: 50%">Ralph Waldo Emerson</span>
 </div>
  
 - **21/09** Ayers Rock
@@ -56,7 +57,7 @@ categories:
 
 <div class="citazione">Viaggiare è come innamorarsi: il mondo si fa nuovo…
 <br/>
- <span style="align:right">Jan Myrdal</span>
+ <span style="padding-left: 50%">Jan Myrdal</span>
 </div> 
 - **28/09** Cape Tribulation - Tour notturno della foresta pluviale
 - ![daintree-rainforest-north-queensland.jpg]({{site.baseurl}}/images/daintree-rainforest-north-queensland.jpg)
