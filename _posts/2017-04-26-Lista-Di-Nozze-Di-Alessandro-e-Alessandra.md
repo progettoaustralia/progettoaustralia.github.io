@@ -67,34 +67,46 @@ E crociera sul Yellow Water al tramonto
  
 ![]({{site.baseurl}}/images/coccodrillo.jpg)
 
+**26-27/09** Litchfield National Park
 
+![litchfield.jpg]({{site.baseurl}}/images/litchfield.jpg)
 
+> _“Viaggiare è come innamorarsi: il mondo si fa nuovo…”
+Jan Myrdal_
 
+**28/09** Cape Tribulation - Tour notturno della foresta pluviale
 
-26-27/09 Litchfield National Park
- 
-“Viaggiare è come innamorarsi: il mondo si fa nuovo…”
-Jan Myrdal
-
-28/09 Cape Tribulation - Tour notturno della foresta pluviale
+![daintree-rainforest-north-queensland.jpg]({{site.baseurl}}/images/daintree-rainforest-north-queensland.jpg)
  
 E pernottamento nella foresta
- 
-29/09 Cape Tribulation
- 
-30/09 Hamilton Island
- 
-01/10 Tour sulla barriera corallina
- 
-02/10 Whithaeven Beach
- 
-03-04/10 In volo rientro in Italia
-"Tu sogna e spera fermamente
-dimentica il presente
-e il sogno realtà diverrà"
 
-Dati bancari??
-GRAZIE A TUTTI VOI!!
-Dati bancari??
+![ferntree rainforest.jpg]({{site.baseurl}}/images/ferntree rainforest.jpg)
+
+**29/09** Cape Tribulation
+
+![cairns-beach.jpg]({{site.baseurl}}/images/cairns-beach.jpg)
+
+**30/09** Hamilton Island
+
+![]({{site.baseurl}}/images/hamilton%20island.jpg)
+ 
+**01/10** Tour sulla barriera corallina
+
+![barriera corallina.jpg]({{site.baseurl}}/images/barriera corallina.jpg)
+
+**02/10** Whithaeven Beach
+
+![hamilton-island-australia-3.jpg]({{site.baseurl}}/images/hamilton-island-australia-3.jpg)
+
+**03-04/10** In volo rientro in Italia
+
+> _"Tu sogna e spera fermamente
+dimentica il presente
+e il sogno realtà diverrà"_
+
+**IT66J0558401795000000091959 intestato a Martire Bedostri Alessandro / Ghislandi Alessandra**
+
+**GRAZIE A TUTTI VOI!!**
+
 
 
