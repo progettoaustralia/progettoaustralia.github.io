@@ -9,7 +9,7 @@ categories:
 **IL NOSTRO SPLENDIDO VIAGGIO DI NOZZE**
 
 <div class="citazione">E non c’è niente di più bello dell’istante che precede il viaggio, l’istante in cui l’orizzonte del domani viene a renderci visita e a raccontarci le sue promesse
-
+<br/>
 <span style="align:right">Milan Kundera</span>
 </div>
 
@@ -33,7 +33,7 @@ categories:
 - **18-20/09** Sidney
 - ![sydney.jpg]({{site.baseurl}}/images/sydney.jpg)
 
-<div class="citazione">Non andare dove il sentiero ti può portare; vai invece dove il sentiero non c’è ancora e lascia dietro di te una traccia”
+<div class="citazione">Non andare dove il sentiero ti può portare; vai invece dove il sentiero non c’è ancora e lascia dietro di te una traccia”<br/>
  <span style="align:right">Ralph Waldo Emerson</span>
 </div>
  
@@ -55,6 +55,7 @@ categories:
 - ![litchfield.jpg]({{site.baseurl}}/images/litchfield.jpg)
 
 <div class="citazione">Viaggiare è come innamorarsi: il mondo si fa nuovo…
+<br/>
  <span style="align:right">Jan Myrdal</span>
 </div> 
 - **28/09** Cape Tribulation - Tour notturno della foresta pluviale
