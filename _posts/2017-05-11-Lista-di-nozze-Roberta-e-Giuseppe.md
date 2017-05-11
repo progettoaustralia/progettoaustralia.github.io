@@ -20,7 +20,7 @@ _**Il nostro viaggio**_
 
 **03/10**		Hong Kong
 
-![]({{site.baseurl}}/images/hong-kong%20bg%20image_2.jpg)
+![hong-kong-island-half-day-tour-in-hong-kong-114439.jpg]({{site.baseurl}}/images/hong-kong-island-half-day-tour-in-hong-kong-114439.jpg)
 
 **04/10** 	 	Partenza per  Melbourne
 
