@@ -4,6 +4,14 @@ published: false
 
 ![Foto sposi.jpg]({{site.baseurl}}/images/Foto sposi.jpg)
 
+> **_"L'ODIO NON SERVE A NIENTE ... SOLO L'AMORE CREA". BEATO KOLBE_**
+
+INTESTATARIO : GIUSEPPE MARIA ANTONIO ALBINO
+IBAN: IT67M0616002819000025776C00
+BANCA: BANCA CR FIRENZE S.P.A.
+FIL. 19 - PIAZZA PUCCINI,1-3/R 50144 FIRENZE
+Causale: Viaggio Lista nozze
+
 _**Il nostro viaggio**_
 
 **01/10**		Partenza da Roma
@@ -42,6 +50,7 @@ _**Il nostro viaggio**_
 
 **13/10**		Escursione organizzata in catamarano alla  Barriera corallina esterna
 
+![Florida-Marine-Sanctuary-Coral-Reef-Snorkeling1-300x225.jpg]({{site.baseurl}}/images/Florida-Marine-Sanctuary-Coral-Reef-Snorkeling1-300x225.jpg)
 
 **14/10**		Giornata libera a Port Douglas
 
@@ -50,9 +59,8 @@ _**Il nostro viaggio**_
 **Dal 16/10 
 al 19/10**      Giorni dedicati alla visita della splendida Sydney
 
+![Sydney-skyline.jpg]({{site.baseurl}}/images/Sydney-skyline.jpg)
+
 **19/10**		Partenza per l’Italia
 
-**20/10**		Previsto arrivo in Italia e Fine del viaggio	
-
-
-
+**20/10**		Previsto arrivo in Italia e Fine del viaggio
