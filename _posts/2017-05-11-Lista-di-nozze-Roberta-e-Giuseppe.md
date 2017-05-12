@@ -3,6 +3,8 @@ published: true
 layout: lista
 categories:
   - lista-nozze
+  - itinerario
+  - luna-di-miele
 ---
 
 ![Foto sposi.jpg]({{site.baseurl}}/images/Foto sposi.jpg)
