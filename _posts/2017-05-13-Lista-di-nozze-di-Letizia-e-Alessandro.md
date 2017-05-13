@@ -36,7 +36,7 @@ Proseguimento per  Taupo  e le “Huka Falls” per proseguire per il Tongariro
                 
 **04/01** Giornata da dedicare interamente ad uno dei trekking  piu’ belli della Nuova Zelanda
 
-“ Cross Alpine trekking” di  19km
+“Cross Alpine trekking” di  19km
                 
 **05/01** Partenza per la capitale  Wellington e visita nel pomeriggio di questa bella città
 
@@ -66,9 +66,11 @@ Alla fine del tour partenza per Wanaka per la notte
 
 vicina Queenstown
 
-**11/01** Partenza per la crociera sui fiordi ( 2 gg e 1 notte) in particolare a quello del  			
+**11/01** Partenza per la crociera sui fiordi (2 gg e 1 notte) in particolare a quello del  			
 
 Doubtful Sound dove passerete la notte
+
+
 
 
 	
@@ -80,4 +82,3 @@ Doubtful Sound dove passerete la notte
 **17/01**	Giornata dedicata al Whale watching ( se possibile a Kaikoura) o possibilità di fare swim with dolphin a Kaikoura o anche ad  Akaroa nella vicina Penisola di Banks
 **18/01**	Fine del viaggio e partenza con volo da Christchurch 
 **19/01**	Previsto arrivo a Milano
-
