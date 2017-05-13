@@ -34,6 +34,9 @@ _**Il nostro viaggio**_
 
 ![hong-kong-island-half-day-tour-in-hong-kong-114439.jpg]({{site.baseurl}}/images/hong-kong-island-half-day-tour-in-hong-kong-114439.jpg)
 
+![Mappa Viaggio di nozze Roberta e Giuseppe.png]({{site.baseurl}}/images/Mappa Viaggio di nozze Roberta e Giuseppe.png)
+
+
  -  **04/10** 	 	Partenza per  Melbourne
 
  -  **05/10**		Giornata dedicate alla visita di Melbourne
@@ -49,9 +52,8 @@ _**Il nostro viaggio**_
  -  **08/10**		Proseguimento per Cape Jervis dove ci si imbarca per il traghetto per Kangaroo Island
 
  -  **09/10**		Giornata dedicate alla splendida Isola di Kangaroo Island
-
-
-
+ 
+![]({{site.baseurl}}/images/kangaroo%20island.png)
 
  -  **10/10**		Traghetto di rientro e proseguimento per Adelaide per la notte
 
