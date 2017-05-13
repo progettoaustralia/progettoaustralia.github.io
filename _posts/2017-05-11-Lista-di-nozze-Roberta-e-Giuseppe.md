@@ -50,7 +50,8 @@ _**Il nostro viaggio**_
 
  -  **09/10**		Giornata dedicate alla splendida Isola di Kangaroo Island
 
-![]({{site.baseurl}}/images/kangaroo%20island.png)![kangaroo island.png]({{site.baseurl}}/images/kangaroo island.png)
+
+
 
  -  **10/10**		Traghetto di rientro e proseguimento per Adelaide per la notte
 
