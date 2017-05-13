@@ -28,7 +28,9 @@ Partenza per Rotorua per la serata
                 
 **02/01** Giornata dedicata a Rotorua
 
-Ingresso per il Te Puia  “ Te Ra Day Pass +  Puia Evening Experience ”
+Ingresso per il Te Puia  “Te Ra Day Pass +  Puia Evening Experience”
+
+![rotorua-141702.jpg]({{site.baseurl}}/images/rotorua-141702.jpg)
                 
 **03/01** Proseguimento verso sud per Wai o Tapu e visita al  parco geotermale
 
@@ -70,15 +72,24 @@ vicina Queenstown
 
 Doubtful Sound dove passerete la notte
 
+![Fiordland-Milford-Sound-Mitre-Peak.jpg]({{site.baseurl}}/images/Fiordland-Milford-Sound-Mitre-Peak.jpg)
 
-
-
-	
 **12/01**	Rientro a Queenstown in serata
+
 **13/01**	Proseguimento per Dunedin e Visita della penisola di Otago
-**14/01**	Proseguendo lungo la costa verso nord si passano Moreaki Boulders ed Oamaru si ritorna verso l’interno per arrivare al bellissimo lago Tekapo 
+
+**14/01**	Proseguendo lungo la costa verso nord si passano Moreaki Boulders ed Oamaru si ritorna verso l’interno per arrivare al bellissimo lago Tekapo
+
 **15/01**	Tekapo e Mount Cook
-**16/01**	Partenza per Christchurch 
-**17/01**	Giornata dedicata al Whale watching ( se possibile a Kaikoura) o possibilità di fare swim with dolphin a Kaikoura o anche ad  Akaroa nella vicina Penisola di Banks
+
+![]({{site.baseurl}}/images/Tekapo.jpg)
+
+**16/01**	Partenza per Christchurch
+
+**17/01**	Giornata dedicata al Whale watching (se possibile a Kaikoura) o possibilità di fare swim with dolphin a Kaikoura o anche ad  Akaroa nella vicina Penisola di Banks
+
+![Whale_16_10.jpg]({{site.baseurl}}/images/Whale_16_10.jpg)
+
 **18/01**	Fine del viaggio e partenza con volo da Christchurch 
+
 **19/01**	Previsto arrivo a Milano
