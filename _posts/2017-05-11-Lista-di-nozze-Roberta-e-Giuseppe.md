@@ -43,7 +43,8 @@ _**Il nostro viaggio**_
 
 ![01-melbourne.jpg]({{site.baseurl}}/images/01-melbourne.jpg)
 
- -  **06/10**		Proseguimento con l’auto  per Port Campbell lungo la strada panoramica “ Great Ocean Road”
+ -  **06/10**		Proseguimento con l’auto  per Port Campbell lungo la strada panoramica 
+ “ Great Ocean Road”
 
 ![]({{site.baseurl}}/images/great%20ocean%20road.jpg)
 
