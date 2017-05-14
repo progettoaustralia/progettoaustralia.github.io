@@ -1,5 +1,9 @@
 ---
 published: true
+layout: lista
+categories:
+  - lista-nozze
+  - luna-di-miele
 ---
 ![]({{site.baseurl}}/images/Foto%201%2B2.bmp)
 
