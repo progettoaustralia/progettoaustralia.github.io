@@ -5,7 +5,7 @@ categories:
   - lista-nozze
   - luna-di-miele
 ---
-![]({{site.baseurl}}/images/Foto%201%2B2.bmp)
+![]({{site.baseurl}}/images/copertina.bmp)
 
 <address>
 IBAN: IT76G0311155640000000000640 <br/>
@@ -22,7 +22,7 @@ _**Il nostro viaggio**_
 
 - **30/12** Bay of Island
 
-![]({{site.baseurl}}/images/bay-of-islands-urupukapuka-island.jpg)
+![]({{site.baseurl}}/images/bay%20of%20island.jpg)
 
 - **31/12** Rientro ad Auckland in tempo per festeggiare il primo capodanno al mondo
 
