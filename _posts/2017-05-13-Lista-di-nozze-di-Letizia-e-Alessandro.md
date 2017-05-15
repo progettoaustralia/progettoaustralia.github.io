@@ -5,7 +5,8 @@ categories:
   - lista-nozze
   - luna-di-miele
 ---
-![Letizia e Alessandro]({{site.baseurl}}/images/copertina.bmp)
+![Letizia e Alessandro![Letizia ed Alessandro]({{site.baseurl}}/images/copertina.jpeg)
+]({{site.baseurl}}/images/copertina.bmp)
 
 <address>
 IBAN: IT76G0311155640000000000640 <br/>
@@ -89,7 +90,9 @@ Doubtful Sound dove passerete la notte
 
 - **15/01**	Tekapo e Mount Cook
 
-![]({{site.baseurl}}/images/Tekapo.jpg)
+![Tekapo]({{site.baseurl}}/images/Tekapo.jpg)
+
+
 
 - **16/01**	Partenza per Christchurch
 
