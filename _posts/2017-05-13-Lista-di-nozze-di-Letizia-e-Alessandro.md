@@ -22,9 +22,10 @@ _**Il nostro viaggio**_
 
 - **30/12** Bay of Island
 
-![]({{site.baseurl}}/images/bay%20of%20island.jpg)
+![Bay of Island]({{site.baseurl}}/images/bay_of_island.jpg)
 
 - **31/12** Rientro ad Auckland in tempo per festeggiare il primo capodanno al mondo
+
 
 - **01/01** Proseguimento per Waitomo
 
