@@ -5,7 +5,7 @@ categories:
   - lista-nozze
   - luna-di-miele
 ---
-![Letizia e Alessandro![Letizia ed Alessandro]({{site.baseurl}}/images/copertina.jpeg)
+![Letizia ed Alessandro]({{site.baseurl}}/images/copertina.jpeg)
 
 <address>
 IBAN: IT76G0311155640000000000640 <br/>
