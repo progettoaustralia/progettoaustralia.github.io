@@ -25,8 +25,8 @@ _**Il nostro viaggio**_
 
 - **31/12** Rientro ad Auckland in tempo per festeggiare il primo capodanno al mondo
 - **01/01** Proseguimento per Waitomo
-	Visita alla Waitomo Glowarm Caves
-    Partenza per Rotorua per la serata
+	- Visita alla Waitomo Glowarm Caves
+    - Partenza per Rotorua per la serata
                 
 - **02/01** Giornata dedicata a Rotorua
 	Ingresso per il Te Puia  “Te Ra Day Pass +  Puia Evening Experience”
