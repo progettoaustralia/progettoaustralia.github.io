@@ -35,7 +35,6 @@ _**Il nostro viaggio**_
 	 - Una volta arrivati a Picton proseguirete per Marahau località all’inizio del bellissimo 		Abel Tasman
 	![abel_tasman_national_park1.jpg]({{site.baseurl}}/images/abel_tasman_national_park1.jpg)
 - **07/01** Giornata dedicata all’ Abel Tasman National Park ( trekking e spiagge)
-
 - **08/01** Partenza per il  Nelson Lake National Park per poi proseguire verso Franz Josef passando da Punakaki lungo la costa ovest
 - **09/01** Franz Josef per l’escursione sui ghiacci con l’elicottero  “3 hours Heli Hike ” The Helicopter Line 
 	- Alla fine del tour partenza per Wanaka per la notte
