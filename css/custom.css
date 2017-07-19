@@ -119,6 +119,10 @@
  /* .container {
     max-width: 1000px;
   }*/
+    #galleria{
+        width: 560px;
+        height: 75em; 
+    }
 }
 
 
