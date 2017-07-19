@@ -16,6 +16,10 @@
     padding: 0;
     margin: 0;
 }
+#galleria{
+    width: 260px;
+    height: 75em; 
+}
 
 /* Customize container */
 /*small*/
@@ -23,6 +27,10 @@
  .navbar-collapse{
     float:left!important;
  } 
+        #galleria{
+        width: 560px;
+        height: 75em; 
+    }
  #contact-form{
     padding:20px;
  }
@@ -106,6 +114,10 @@
  /* .container {
     max-width: 960px;
   }*/
+        #galleria{
+        width: 560px;
+        height: 75em; 
+    }
 }
 /*Large*/
 @media (min-width:  1200px) {
