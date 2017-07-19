@@ -17,8 +17,8 @@
     margin: 0;
 }
 #galleria{
-    width: 260px;
-    height: 75em; 
+    width: 24em;
+    height: 110em; 
 }
 
 /* Customize container */
@@ -28,8 +28,8 @@
     float:left!important;
  } 
         #galleria{
-        width: 560px;
-        height: 75em; 
+        width: 32em;
+        height: 105em; 
     }
  #contact-form{
     padding:20px;
@@ -115,8 +115,8 @@
     max-width: 960px;
   }*/
         #galleria{
-        width: 560px;
-        height: 75em; 
+        width: 32em;
+        height: 105em; 
     }
 }
 /*Large*/
