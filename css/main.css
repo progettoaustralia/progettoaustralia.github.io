@@ -324,7 +324,10 @@ a:visited { color: #205caa; }
 
 /* media queries */
 /* ----------------------------------------------------------*/
-
+#galleria{
+ height: 110em;
+  width: 30em;
+}
 
 @media screen and (max-width: 750px) {
 
