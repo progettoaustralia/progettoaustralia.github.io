@@ -7,7 +7,7 @@ categories:
 
 _**“Realizzeremo il nostro viaggio da sogno, anche grazie a voi”**_
 
-
+![Laura e Giuseppe]({{site.baseurl}}/images/lauraEgiuseppe.jpg)
 <address>
   
 IBAN: IT15R0101585030000070164534 <br/>
