@@ -1,5 +1,8 @@
 ---
 published: false
+layout: lista
+categories:
+  - lista-nozze
 ---
 
 _**“Realizzeremo il nostro viaggio da sogno, anche grazie a voi”**_
