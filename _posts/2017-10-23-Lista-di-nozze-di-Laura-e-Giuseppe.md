@@ -29,7 +29,7 @@ CAUSALE: VIAGGIO DI NOZZE LAURA E GIUSEPPE <br/>
 
 - **18-12**		**Kangaroo Island**: giornata libera per visitare questa splendida isola ricca di animali e panorami mozzafiato
 
-![]({{site.baseurl}}/images/AU_kangaroo%20island2.jpg)![AU_kangaroo island2.jpg]({{site.baseurl}}/images/AU_kangaroo island2.jpg)
+![AU_kangaroo island2.jpg]({{site.baseurl}}/images/AU_kangaroo island2.jpg)
 
 - **19-12**		Trasferimento a Victor Harbour
 
