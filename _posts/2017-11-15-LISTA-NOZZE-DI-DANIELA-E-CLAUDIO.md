@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ![listanozze.jpg]({{site.baseurl}}/images/listanozze.jpg)
 
@@ -90,6 +90,3 @@ QUANDO LO SOGNI, QUANDO LO VIVI E QUANDO LO RICORDI"**
 
 
 **Grazie !!!**
-
-
-
