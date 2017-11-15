@@ -1,7 +1,7 @@
 ---
 published: true
 ---
-[lista-di-nozze](lista)![listanozze.jpg]({{site.baseurl}}/images/listanozze.jpg)
+[lista-di-nozze](www.progettoaustralia.it)
 
 **"OGNI VIAGGIO LO VIVI TRE VOLTE:
 QUANDO LO SOGNI, QUANDO LO VIVI E QUANDO LO RICORDI"**
