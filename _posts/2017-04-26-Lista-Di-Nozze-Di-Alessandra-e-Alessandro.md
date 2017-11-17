@@ -78,7 +78,5 @@ categories:
 dimentica il presente
 e il sogno realtà diverrà</div>
 
-<address>
-IT66J0558401795000000091959 intestato a Martire Bedostri Alessandro / Ghislandi Alessandra</address>
 
 **GRAZIE A TUTTI VOI!!**
