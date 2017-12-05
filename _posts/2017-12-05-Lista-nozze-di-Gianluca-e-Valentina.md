@@ -59,6 +59,8 @@ _**“OGNI VIAGGIO LO VIVI 3 VOLTE: QUANDO LO SOGNI, QUANDO LO VIVI E QUANDO LO 
 
 **16/05**		Sydney: giornata libera per la visita della città
 
+![AU_Sydney-skyline.jpg]({{site.baseurl}}/images/AU_Sydney-skyline.jpg)
+
 **17/05**		Giornata libera e cena alla **Sydney Tower**
 
 ![sydney tower dining.png]({{site.baseurl}}/images/sydney tower dining.png)
