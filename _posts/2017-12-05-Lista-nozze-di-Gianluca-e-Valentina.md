@@ -12,13 +12,13 @@ _**“OGNI VIAGGIO LO VIVI 3 VOLTE: QUANDO LO SOGNI, QUANDO LO VIVI E QUANDO LO 
 
 **25/04**	Visita della città di **Melbourne**
 
-![Foto Melbourne.jpg]({{site.baseurl}}/images/Foto%20Melbourne.jpg)
+![AU_Melbourne.jpg]({{site.baseurl}}/images/AU_Melbourne.jpg)
 
 **26/04**	Melbourne
 
-**27/04**	Melbourne–Cowes (130 km)
+**27/04**	Melbourne–Cowes
 
-**28/04**	Cowe–Sorrento + Queenscliff-Port Campbell (240 km). Percorrenza della strada panoramica **“Great Ocean Road”**: lungo la strada visita a Bells Beach a Torquay, Apollo Bay, Cape Otway e i 12 Apostoli.
+**28/04**	Cowe–Sorrento + Queenscliff-Port Campbell (240 km). Percorrenza della strada panoramica **“Great Ocean Road”**: lungo la strada visita a Bells Beach a Torquay, Apollo Bay, Cape Otway e i **12 Apostoli**.
 
 ![AU_great ocean road.jpg]({{site.baseurl}}/images/AU_great ocean road.jpg)
 
@@ -36,7 +36,7 @@ _**“OGNI VIAGGIO LO VIVI 3 VOLTE: QUANDO LO SOGNI, QUANDO LO VIVI E QUANDO LO 
 
 ![AU_adelaide-australia.jpg]({{site.baseurl}}/images/AU_adelaide-australia.jpg)
 
-**04/05**		Volo Adelaide–Alice Spring.
+**04/05**		Volo Adelaide–Alice Spring
 
 **05/05**		In viaggio verso il Kings Canyon 
 
@@ -44,7 +44,7 @@ _**“OGNI VIAGGIO LO VIVI 3 VOLTE: QUANDO LO SOGNI, QUANDO LO VIVI E QUANDO LO 
 
 **06/05**		Trasferimento ad Ayers Rock e visita di **Uluru**
 
-**07/05**		Volo Ayers Rock–Cairns.
+**07/05**		Volo Ayers Rock–Cairns
 
 **08/05**		Escursione a **Cape Tribulation** e foresta pluviale
 
