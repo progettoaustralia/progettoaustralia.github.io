@@ -96,4 +96,3 @@
 IBAN: IT35D0329601601000066969349
 
 Intestato a: Alberto Spaudo
-
