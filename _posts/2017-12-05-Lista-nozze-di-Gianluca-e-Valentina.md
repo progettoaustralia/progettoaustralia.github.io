@@ -1,5 +1,10 @@
 ---
-published: false
+published: true
+layout: lista
+categories:
+  - lista-nozze
+  - itinerario
+  - luna-di-miele
 ---
 ![]({{site.baseurl}}/images/Foto%20Gianluca%20e%20Valentina.jpg)
 
