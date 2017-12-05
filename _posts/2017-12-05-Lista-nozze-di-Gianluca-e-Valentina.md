@@ -6,6 +6,7 @@ published: false
 _**“OGNI VIAGGIO LO VIVI 3 VOLTE: QUANDO LO SOGNI, QUANDO LO VIVI E QUANDO LO RICORDI” (Anonimo)**_
 
 
+
 **23/04**	Volo Italia–Dubai
 
 **24/04**	Volo Dubai–Melbourne
@@ -18,7 +19,7 @@ _**“OGNI VIAGGIO LO VIVI 3 VOLTE: QUANDO LO SOGNI, QUANDO LO VIVI E QUANDO LO 
 
 **27/04**	Melbourne–Cowes
 
-**28/04**	Cowe–Sorrento + Queenscliff-Port Campbell (240 km). Percorrenza della strada panoramica **“Great Ocean Road”**: lungo la strada visita a Bells Beach a Torquay, Apollo Bay, Cape Otway e i **12 Apostoli**.
+**28/04**	Cowe–Sorrento + Queenscliff-Port Campbell. Percorrenza della strada panoramica **“Great Ocean Road”**: lungo la strada visita a Bells Beach a Torquay, Apollo Bay, Cape Otway e i **12 Apostoli**.
 
 ![AU_great ocean road.jpg]({{site.baseurl}}/images/AU_great ocean road.jpg)
 
@@ -28,7 +29,7 @@ _**“OGNI VIAGGIO LO VIVI 3 VOLTE: QUANDO LO SOGNI, QUANDO LO VIVI E QUANDO LO 
 
 **01/05**	Visita di **Kangaroo Island**
 
-![AU_kangaroo island2.jpg]({{site.baseurl}}/images/AU_kangaroo%20island2.jpg)
+![]({{site.baseurl}}/images/AU_kangaroo%20island.jpg)
 
 **02/05**	Kangaroo Island
 
@@ -56,17 +57,15 @@ _**“OGNI VIAGGIO LO VIVI 3 VOLTE: QUANDO LO SOGNI, QUANDO LO VIVI E QUANDO LO 
 
 **15/05**		Volo Rarotonga–Sydney (via Auckland) 
 
-16/05		Sydney: giornata libera per la visita della città
+**16/05**		Sydney: giornata libera per la visita della città
 
+**17/05**		Giornata libera e cena alla **Sydney Tower**
 
-17/05		Giornata libera.
-		Ore 19.30 Cenasulla Sydney Tower 
-Pernottamento Cambridge Hotel (Premium room).
+![sydney tower dining.png]({{site.baseurl}}/images/sydney tower dining.png)
 
-18/05	Giornata libera.
-Pernottamento Cambridge Hotel (Premium room).
+**18/05**	Giornata libera
 
-19/05	Volo Sydney – Milano (via Dubai)
+**19/05**	Volo Sydney– Milano (via Dubai)
 	
 
 
