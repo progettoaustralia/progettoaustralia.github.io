@@ -1,3 +1,10 @@
+---
+published: false
+categories:
+  - lista-nozze
+  - itinerario
+  - luna-di-miele
+---
 ![Foto Alfa Spaudo.jpeg]({{site.baseurl}}/images/Foto Alfa Spaudo.jpeg)
 
 - **07/04**		Volo Milano – Dubai
