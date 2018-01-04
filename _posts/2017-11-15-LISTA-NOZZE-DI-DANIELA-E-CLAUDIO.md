@@ -25,11 +25,11 @@ QUANDO LO SOGNI, QUANDO LO VIVI E QUANDO LO RICORDI</div>
 
 ![12ApostlesGreatOceanRoad.jpg]({{site.baseurl}}/images/12ApostlesGreatOceanRoad.jpg)
 
-- **14/09**	Si vola ad Ayers Rock: visita di **Uluru** al tramonto
+- **14/09**	Si vola ad Ayers Rock
 
 ![]({{site.baseurl}}/images/Uluru.jpg)
 
-- **15/09**	Visita dei **Monti Olgas** e volo per **Adelaide**
+- **15/09**	Visita di **Uluru** all'alba e dei **Monti Olgas** e volo per **Adelaide**
 
 ![]({{site.baseurl}}/images/Olgas-Mountains.jpg)
 
@@ -77,13 +77,12 @@ QUANDO LO SOGNI, QUANDO LO VIVI E QUANDO LO RICORDI</div>
 
 ![au-brisbane.jpg]({{site.baseurl}}/images/au-brisbane.jpg)
 
-- **28/09**  	Brisbane: giornata libera 
+- **28/09**		Volo Brisbane – Tokyo
 
-- **29/09** 	Volo Brisbane – Dubai
+- **29/09**	Tokyo: giornata libera
+![tokyo.jpg]({{site.baseurl}}/images/tokyo.jpg)
 
-- **30/09**   Tappa a Dubai prima di rientrare a casa
-
-![dubai.jpg]({{site.baseurl}}/images/dubai.jpg)
+- **30/09**   Tokyo
 
 - **01/10**	Ed eccoci nuovamente a casa!
 
