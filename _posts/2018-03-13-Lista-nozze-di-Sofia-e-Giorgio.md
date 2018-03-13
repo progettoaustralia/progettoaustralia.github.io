@@ -62,24 +62,21 @@ per affrontare la nostra vita…
 **03ago**		Fiji: il paradiso ci aspetta nell'isola di Matamanoa dove sosteremo qualche giorno
 ![]({{site.baseurl}}/images/matamanoa%20island%20resort.jpeg)
 
-08ago		South Sea Cruises : Matamanoa Isl Resort to Port Denarau
-		(departure 10.45, arrival 12.00)
-		Private Vehicle Transfer: Port Denarau to Nadi Airport
-		VOLO Nadi – Sydney (18.40/21.35)
-	Trasferimento libero (taxi o shuttle) in hotel 
-	Pernottamento presso Cambridge Hotel, premium room
+**08ago**		VOLO NADI-SYDENY
 
-09ago		Sydney: giornata libera 
-	Pernottamento presso Cambridge Hotel, premium room
+**09ago**		Il nostro viaggio non può terminare senza conoscere **Sydney**
 
-10ago		Sydney: giornata libera
-		Pernottamento presso Cambridge Hotel, premium room
+**10ago**		Sydney: giornata libera
 
+**11ago**		E' tempo di tornare a casa...
+				VOLO SYDNEY-DUBAI
 
+**12ago**		VOLO DUBAI-MILANO
 
+Se volete partecipare a rendere speciale il nostro viaggio, potete regalarci uno spicchio di luna di miele:
 
-11ago		trasferimento in aeroporto a propria cura (shuttle o taxi)
-		VOLO Sydney – Dubai (21.10/05.40 del gg dopo) 
+IBAN:	IT71U0347501605000329608368
+Nome istituto: ING BANK N.V.
+Causale: Viaggio di nozze Giorgio e Sofia
 
-12ago		VOLO Dubai – Milano Malpensa (09.45/14.20)
 
