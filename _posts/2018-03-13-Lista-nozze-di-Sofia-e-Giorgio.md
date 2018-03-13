@@ -1,5 +1,10 @@
 ---
 published: true
+categories:
+  - lista-nozze
+  - itinerario
+  - luna-di-miele
+layout: lista
 ---
 **C’era una volta…**
 Ci siamo conosciuti sulle sponde del lago di Molven e li ci siamo innamorati.
