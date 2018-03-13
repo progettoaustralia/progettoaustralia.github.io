@@ -11,6 +11,8 @@ e invece oggi siamo qui per dirvi, che questi dieci anni insieme sono passati in
 e che il “per sempre” che stiamo per affrontare non è per noi una sfida, ma il viaggio più bello mai affrontato!
 Perché ogni bacio ha acceso una nuova fiamma, e ogni attimo passato insieme alimenta il desiderio di viverne mille altri. E ancora una volta vogliamo dirlo a gran voce:
 **“Si, Ci Sposiamo!”**
+**Il nostro “per sempre” è il regalo che ci facciamo l’un l’altra, per affrontare la nostra vita…
+Per sempre, felici e contenti!**
 _**Sofia & Giorgio**_
 
 
@@ -30,6 +32,7 @@ _**Sofia & Giorgio**_
 **25lug**	VOLO MELBOURNE-KINGSCOTE (via Adelaide)
 
 **26lug**	Con un'auto a noleggio andremo alla scoperta di Kangaroo Island, un'isola famosa per i suoi panorami e la quantità di animali che qui vivono
+![kangarooisland_540.jpg]({{site.baseurl}}/images/kangarooisland_540.jpg)
 
 **27lug**		**Kangaroo Island**: giornata libera
 ![]({{site.baseurl}}/images/AU_kangaroo%20island2.jpg)
@@ -42,7 +45,7 @@ Questa sera vivremo una esperienza unica al mondo: cenare sotto le stelle nel de
 ![AU_Field-of-Light-ad-Ayers-Rock-Resort.jpg]({{site.baseurl}}/images/AU_Field-of-Light-ad-Ayers-Rock-Resort.jpg)
 
 **30lug**		Tour organizzato: sveglia presto per godere di **Uluru** alla luce dell'alba e di Kata Tjuta
-![]({{site.baseurl}}/images/Uluru.jpg)![Uluru.jpg]({{site.baseurl}}/images/Uluru.jpg)
+![]({{site.baseurl}}/images/Uluru.jpg)
 
 VOLO AYERS ROCK-CAIRNS
                 
@@ -68,8 +71,7 @@ VOLO AYERS ROCK-CAIRNS
 
 **12ago**		VOLO DUBAI-MILANO
 
-**Il nostro “per sempre” è il regalo che ci facciamo l’un l’altra, per affrontare la nostra vita…
-Per sempre, felici e contenti!**
+
 
 **Se volete partecipare a rendere speciale il nostro viaggio, potete regalarci uno spicchio di luna di miele:**
 
