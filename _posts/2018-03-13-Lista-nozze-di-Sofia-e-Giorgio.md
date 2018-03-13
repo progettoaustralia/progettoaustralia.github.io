@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 **C’era una volta…**
 Ci siamo conosciuti sulle sponde del lago di Molven e li ci siamo innamorati.
@@ -79,5 +79,3 @@ VOLO SYDNEY-DUBAI
 IBAN:	IT71U0347501605000329608368
 Nome istituto: ING BANK N.V.
 Causale: Viaggio di nozze Giorgio e Sofia
-
-
