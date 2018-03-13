@@ -25,10 +25,10 @@ Perché ogni bacio ha acceso una nuova fiamma, e ogni attimo passato insieme ali
 <div class="citazione">
   Il nostro "per sempre" è il regalo che ci facciamo l’un l’altra, per affrontare la nostra vita…
 Per sempre, felici e contenti! <br/>
-  <strong>**Sofia & Giorgio</strong>
+  <strong>Sofia & Giorgio</strong>
 </div>
 
-![Sofia e Giorgio]({{site.baseurl}}/images/liste/sofia%20e%20giorgio.jpeg)
+![Sofia e Giorgio]({{site.baseurl}}/images/sofia%20e%20giorgio.jpeg)
 
 
 - 20lug	VOLO MILANO-DUBAI
