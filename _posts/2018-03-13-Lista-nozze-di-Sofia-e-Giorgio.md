@@ -11,6 +11,7 @@ e invece oggi siamo qui per dirvi, che questi dieci anni insieme sono passati in
 e che il “per sempre” che stiamo per affrontare non è per noi una sfida, ma il viaggio più bello mai affrontato!
 Perché ogni bacio ha acceso una nuova fiamma, e ogni attimo passato insieme alimenta il desiderio di viverne mille altri. E ancora una volta vogliamo dirlo a gran voce:
 **“Si, Ci Sposiamo!”**
+
 **Il nostro “per sempre” è il regalo che ci facciamo l’un l’altra, per affrontare la nostra vita…
 Per sempre, felici e contenti!**
 _**Sofia & Giorgio**_
@@ -57,17 +58,17 @@ VOLO AYERS ROCK-CAIRNS
 **02ago**		VOLO CAIRNS-NADI (via Sydney)
 
 **03ago**		Fiji: il paradiso ci aspetta nell'isola di Matamanoa dove sosteremo qualche giorno
-![]({{site.baseurl}}/images/matamanoa%20island%20resort.jpeg)
+![MATAMANOA.JPEG]({{site.baseurl}}/images/MATAMANOA.JPEG)
 
 **08ago**		VOLO NADI-SYDENY
 
-**09ago**		Il nostro viaggio non può terminare senza conoscere **Sydney**
+**09ago**		Il nostro viaggio non può ancora terminare: **Sydney** , città unica, ci accoglierà con la sua bellezza
 ![]({{site.baseurl}}/images/AU_SYDNEY2.jpg)
 
 **10ago**		Sydney: giornata libera
 
 **11ago**		E' tempo di tornare a casa...
-				VOLO SYDNEY-DUBAI
+VOLO SYDNEY-DUBAI
 
 **12ago**		VOLO DUBAI-MILANO
 
