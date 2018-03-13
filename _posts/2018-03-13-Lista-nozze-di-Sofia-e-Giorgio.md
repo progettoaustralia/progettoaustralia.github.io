@@ -31,60 +31,60 @@ Per sempre, felici e contenti! <br/>
 ![Sofia e Giorgio]({{site.baseurl}}/images/sofia%20e%20giorgio.jpeg)
 
 
-- 20lug	VOLO MILANO-DUBAI
+- **20lug**	VOLO MILANO-DUBAI
 
-- 21lug	VOLO DUBAI-MELBOURNE
+- **21lug**	VOLO DUBAI-MELBOURNE
 
-- 22lug	**Melbourne**: giornata libera per visitare la città
+- **22lug**	**Melbourne**: giornata libera per visitare la città
 ![01-melbourne.jpg]({{site.baseurl}}/images/01-melbourne.jpg)
 
-- 23lug	Tour organizzato: visita al tramonto ai **12 Apostoli** percorrendo la Great Ocean Road
+- **23lug**	Tour organizzato: visita al tramonto ai **12 Apostoli** percorrendo la Great Ocean Road
 ![AU_12apostles-great-ocean-road-walks.jpg]({{site.baseurl}}/images/AU_12apostles-great-ocean-road-walks.jpg)
 
-- 24lug	Tour organizzato: visita a **Phillip Island**
+- **24lug**	Tour organizzato: visita a **Phillip Island**
 ![PHILLIP ISLAND PENGUINS.JPEG]({{site.baseurl}}/images/PHILLIP ISLAND PENGUINS.JPEG)
 
-- 25lug	VOLO MELBOURNE-KINGSCOTE (via Adelaide)
+- **25lug**	VOLO MELBOURNE-KINGSCOTE (via Adelaide)
 
-- 26lug	Con un'auto a noleggio andremo alla scoperta di Kangaroo Island, un'isola famosa per i suoi panorami e la quantità di animali che qui vivono
+- **26lug**	Con un'auto a noleggio andremo alla scoperta di Kangaroo Island, un'isola famosa per i suoi panorami e la quantità di animali che qui vivono
 ![kangarooisland_540.jpg]({{site.baseurl}}/images/kangarooisland_540.jpg)
 
-- 27lug		**Kangaroo Island**: giornata libera
+- **27lug**		**Kangaroo Island**: giornata libera
 ![]({{site.baseurl}}/images/AU_kangaroo%20island2.jpg)
 
-- 28lug		VOLO KINGSCOTE-ADELAIDE
+- **28lug**		VOLO KINGSCOTE-ADELAIDE
 
-- 29lug		VOLO ADELAIDE-AYERS ROCK (via Alice Springs)
+- **29lug**		VOLO ADELAIDE-AYERS ROCK (via Alice Springs)
 
 Questa sera vivremo una esperienza unica al mondo: cenare sotto le stelle nel deserto australiano immersi nel **Field of Light**, l'installazione luminosa dell'artista Bruno Munro.
 ![AU_Field-of-Light-ad-Ayers-Rock-Resort.jpg]({{site.baseurl}}/images/AU_Field-of-Light-ad-Ayers-Rock-Resort.jpg)
 
-- 30lug		Tour organizzato: sveglia presto per godere di **Uluru** alla luce dell'alba e di Kata Tjuta
+- **30lug**		Tour organizzato: sveglia presto per godere di **Uluru** alla luce dell'alba e di Kata Tjuta
 ![]({{site.baseurl}}/images/Uluru.jpg)
 
 VOLO AYERS ROCK-CAIRNS
                 
-- 31lug		Tour organizzato: immergiamoci nella barriera corallina
+- **31lug**		Tour organizzato: immergiamoci nella barriera corallina
 ![]({{site.baseurl}}/images/AU_BARRIERA%20CORALLINA%20MOOD.jpg)
 
-- 01ago		Tour organizzato: oggi andiamo alla volta della foresta pluviale tropicale più antica al mondo e di Cape Tribulation
+- **01ago**		Tour organizzato: oggi andiamo alla volta della foresta pluviale tropicale più antica al mondo e di Cape Tribulation
 
-- 02ago		VOLO CAIRNS-NADI (via Sydney)
+- **02ago**		VOLO CAIRNS-NADI (via Sydney)
 
-- 03ago		Fiji: il paradiso ci aspetta nell'isola di Matamanoa dove sosteremo qualche giorno
+- **03ago**		Fiji: il paradiso ci aspetta nell'isola di Matamanoa dove sosteremo qualche giorno
 ![MATAMANOA.JPEG]({{site.baseurl}}/images/MATAMANOA.JPEG)
 
-- 08ago		VOLO NADI-SYDENY
+- **08ago**		VOLO NADI-SYDENY
 
-- 09ago		Il nostro viaggio non può ancora terminare: **Sydney** , città unica, ci accoglierà con la sua bellezza
+- **09ago**		Il nostro viaggio non può ancora terminare: **Sydney** , città unica, ci accoglierà con la sua bellezza
 ![]({{site.baseurl}}/images/AU_SYDNEY2.jpg)
 
-- 10ago		Sydney: giornata libera
+- **10ago**		Sydney: giornata libera
 
-- 11ago		E' tempo di tornare a casa...
+- **11ago**		E' tempo di tornare a casa...
 VOLO SYDNEY-DUBAI
 
-- 12ago		VOLO DUBAI-MILANO
+- **12ago**		VOLO DUBAI-MILANO
 
 
 **Se volete partecipare a rendere speciale il nostro viaggio, potete regalarci uno spicchio di luna di miele:**
