@@ -33,20 +33,14 @@ per affrontare la nostra vita…
 **22lug**	**Melbourne**: giornata libera per visitare la città
 ![01-melbourne.jpg]({{site.baseurl}}/images/01-melbourne.jpg)
 
-**23lug**		Tour organizzato: visita ai 12 Apostoli al tramonto lungo la Great Ocean Road  			(ipod in italiano)
-		Pernottamento a Melbourne presso Travelodge Sothbank, standard room
+**23lug**	Tour organizzato: visita al tramonto ai **12 Apostoli** percorrendo la Great Ocean Road
+![AU_12apostles-great-ocean-road-walks.jpg]({{site.baseurl}}/images/AU_12apostles-great-ocean-road-walks.jpg)
 
-24lug		Tour organizzato: visita a Phillip Island/tour base (ipod in italiano) 
-		Pernottamento a Melbourne presso Travelodge Sothbank, standard room
+**24lug**	Tour organizzato: visita a **Phillip Island**
 
-25lug		trasferimento in aeroporto a propria cura (shuttle o taxi)
-		VOLO Melbourne – Adelaide (08.40/09.30)
-		VOLO Adelaide - Kingscote (Kangaroo Island) (10.35/11.10)
-		Ritiro auto a noleggio in Aeroporto presso Hertz: Toyota Corolla o similare (inclusivo di: 		kilometraggio illimitato, seconda guida e assicurazione che azzera le franchigie) , 		dalle 11.30
-		Pernottamento a Kingscote presso Aurora Ozone, poolside family room
+**25lug**	VOLO MELBOURNE-KINGSCOTE (via Adelaide)
 
-26lug		Kangaroo Island: giornata libera
-		Pernottamento a Kingscote presso Aurora Ozone, poolside family room
+**26lug**	Con un'auto a noleggio andremo alla scoperta di Kangaroo Island, un'isola famosa per i suoi panorami e la quantità di animali che qui vivono
 
 27lug		Kangaroo Island: giornata libera
 		Pernottamento a Kingscote presso Aurora Ozone, poolside family room
