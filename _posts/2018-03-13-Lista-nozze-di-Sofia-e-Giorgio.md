@@ -42,43 +42,25 @@ per affrontare la nostra vita…
 
 **26lug**	Con un'auto a noleggio andremo alla scoperta di Kangaroo Island, un'isola famosa per i suoi panorami e la quantità di animali che qui vivono
 
-27lug		Kangaroo Island: giornata libera
-		Pernottamento a Kingscote presso Aurora Ozone, poolside family room
+**27lug**		**Kangaroo Island**: giornata libera
 
-28lug		rilascio auto in aeroporto, entro le 11.30
-		VOLO Kingscote – Adelaide (11.35/12.15)
-		trasferimento in hotel a propria cura (shuttle o taxi)
-		Pernottamento ad Adelaide presso Breakfree Adelaide, studio apartment
+**28lug**		VOLO KINGSCOTE-ADELAIDE
 
-29lug		trasferimento in aeroporto a propria cura (shuttle o taxi)
-		VOLO Adelaide – Alice Springs (10.35/12.45)
-		VOLO Alice Springs - Ayers Rock (13.45/14.40)
-		trasferimento in hotel a cura del resort
-Tour organizzato: Field of Light (dinner incluso) – Voyages Resort
-		Pernottamento ad Ayers Rock presso Voyages Outback Pioneer Hotel, standard room
+**29lug**		VOLO ADELAIDE-AYERS ROCK (via Alice Springs)
 
-30lug		Tour organizzato (mezza giornata): Uluru Sunrise & Kata Tjuta (con ipod 				italiano) – AAT KINGS National Park Entry Fee is NOT included and payable to AAT 		Kings direct
-		trasferimento in aeroporto a cura del resort
-		VOLO Ayers Rock – Cairns (15.20/18.20)
-		trasferimento in hotel a propria cura (shuttle o taxi)
-		Pernottamento a Cairns presso Bay Village Tropical Retreat, standard room INCL 			continental breakfast
+				Questa sera vivremo una esperienza unica al mondo: cenare sotto le stelle nel deserto australiano immersi nel **Field of Light**, l'installazione luminosa dell'artista Bruno Munro
 
-31lug		Tour organizzato: Reef Tour Snorkel by Down Under Cruise & Dive (20aud cad di “levy 		tax” da pagare in loco) 
-		Pernottamento a Cairns presso Bay Village Tropical Retreat, standard room INCL 			continental breakfast
-01ago		Tour organizzato: Rainforest by Down Under Cruise & Dive (deluxe 	pack/pranzo 			incluso)
-		Pernottamento a Cairns presso Bay Village Tropical Retreat, standard room INCL 			continental breakfast
-02ago		trasferimento in aeroporto a propria cura (shuttle o taxi)
-	VOLO Cairns – Sydney (07.20/10.15)
-	VOLO Sydney – Nadi (13.00/18.50)
-		Pacific Destinations - Arrival Services
-		Incl Pottery Lei & Exchange of Vouchers
-		Private Vehicle Transfer: Nadi Airport to Hotel
-		Novotel Hotel Nadi, superior room (1 night)
+**30lug**		Tour organizzato: sveglia presto per godere di Uluru alla luce dell'alba e di Kata Tjuta
+				VOLO AYERS ROCK-CAIRNS
+                
+**31lug**		Tour organizzato: immergiamoci nella barriera corallina
 
-03ago		Private Vehicle Transfer: Nadi Airport to Port Denarau
-		SeaFiji (fast 24-water taxi service): Port Denarau to Matamanoa Island 				(departure 9.15, arrival 12.00)
-		Matamanoa Island Resort - Beachfront Bure incl. Full American Breakfast 				(5 nights)
-		Half Board Meal Plan: dinner
+**01ago**		Tour organizzato: oggi andiamo alla volta della foresta pluviale tropicale più antica al mondo e di Cape Tribulation
+
+**02ago**		VOLO CAIRNS-NADI (via Sydney)
+
+**03ago**		Fiji: il paradiso ci aspetta nell'isola di Matamanoa dove sosteremo qualche giorno
+![]({{site.baseurl}}/images/matamanoa%20island%20resort.jpeg)
 
 08ago		South Sea Cruises : Matamanoa Isl Resort to Port Denarau
 		(departure 10.45, arrival 12.00)
