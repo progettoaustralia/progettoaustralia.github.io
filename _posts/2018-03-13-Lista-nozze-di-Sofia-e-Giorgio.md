@@ -28,6 +28,8 @@ Per sempre, felici e contenti! <br/>
   <strong>**Sofia & Giorgio</strong>
 </div>
 
+![Sofia e Giorgio]({{site.baseurl}}/images/liste/sofia%20e%20giorgio.jpeg)
+
 
 - 20lug	VOLO MILANO-DUBAI
 
