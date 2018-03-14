@@ -80,7 +80,7 @@ VOLO AYERS ROCK-CAIRNS
 - **03ago**		Fiji: il paradiso ci aspetta nell'isola di Matamanoa dove sosteremo qualche giorno
 ![matamanoa-island-resort.jpg]({{site.baseurl}}/images/matamanoa-island-resort.jpg)
 
-- **08ago**		VOLO NADI-SYDENY
+- **08ago**		VOLO NADI-SYDNEY
 
 - **09ago**		Il nostro viaggio non può ancora terminare: **Sydney** , città unica, ci accoglierà con la sua bellezza
 ![]({{site.baseurl}}/images/AU_SYDNEY2.jpg)
