@@ -6,19 +6,18 @@ categories:
   - luna-di-miele
 layout: lista
 ---
-_**C’era una volta…**
+_**C’era una volta…**_
 
-Ci siamo conosciuti sulle sponde del lago di Molven e li ci siamo innamorati.
+_Ci siamo conosciuti sulle sponde del lago di Molven e li ci siamo innamorati.
 Come in ogni storia d’amore è nato tutto con un semplice bacio e ancora non avevamo idea di quello che poteva essere;
-ma entrambi volevamo che quella fiammella che ci scaldava il cuore non smettesse di bruciare e allora abbiamo detto:
-**"Si, ci proviamo!"**
+ma entrambi volevamo che quella fiammella che ci scaldava il cuore non smettesse di bruciare e allora abbiamo detto:_
+_**"Si, ci proviamo!"**_
 
-Poteva essere una storia breve, di quelle che lasciano un piacevole ricordo e nulla più,
+_Poteva essere una storia breve, di quelle che lasciano un piacevole ricordo e nulla più,
 e invece oggi siamo qui per dirvi, che questi dieci anni insieme sono passati in un attimo,
 e che il “per sempre” che stiamo per affrontare non è per noi una sfida, ma il viaggio più bello mai affrontato!
-Perché ogni bacio ha acceso una nuova fiamma, e ogni attimo passato insieme alimenta il desiderio di viverne mille altri. E ancora una volta vogliamo dirlo a gran voce:
-**"Si, Ci Sposiamo!"**_
-
+Perché ogni bacio ha acceso una nuova fiamma, e ogni attimo passato insieme alimenta il desiderio di viverne mille altri. E ancora una volta vogliamo dirlo a gran voce:_
+_**"Si, Ci Sposiamo!"**_
 
 <div class="citazione">
   Il nostro "per sempre" è il regalo che ci facciamo l’un l’altra, per affrontare la nostra vita…
