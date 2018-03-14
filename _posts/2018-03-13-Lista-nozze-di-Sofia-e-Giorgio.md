@@ -72,7 +72,7 @@ VOLO AYERS ROCK-CAIRNS
 - **02ago**		VOLO CAIRNS-NADI (via Sydney)
 
 - **03ago**		Fiji: il paradiso ci aspetta nell'isola di Matamanoa dove sosteremo qualche giorno
-![MATAMANOA.JPEG]({{site.baseurl}}/images/MATAMANOA.JPEG)
+![matamanoa-island-resort.jpg]({{site.baseurl}}/images/matamanoa-island-resort.jpg)
 
 - **08ago**		VOLO NADI-SYDENY
 
