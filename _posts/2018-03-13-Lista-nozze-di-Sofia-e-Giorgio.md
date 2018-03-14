@@ -6,7 +6,6 @@ categories:
   - luna-di-miele
 layout: lista
 ---
-<div class="citazione">
 **C’era una volta…**
 
 Ci siamo conosciuti sulle sponde del lago di Molven e li ci siamo innamorati.
@@ -19,7 +18,6 @@ e invece oggi siamo qui per dirvi, che questi dieci anni insieme sono passati in
 e che il “per sempre” che stiamo per affrontare non è per noi una sfida, ma il viaggio più bello mai affrontato!
 Perché ogni bacio ha acceso una nuova fiamma, e ogni attimo passato insieme alimenta il desiderio di viverne mille altri. E ancora una volta vogliamo dirlo a gran voce:
 **"Si, Ci Sposiamo!"**
-</div>
 
 <div class="citazione">
   Il nostro "per sempre" è il regalo che ci facciamo l’un l’altra, per affrontare la nostra vita…
