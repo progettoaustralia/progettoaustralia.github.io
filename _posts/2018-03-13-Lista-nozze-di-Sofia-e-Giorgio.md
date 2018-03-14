@@ -46,11 +46,10 @@ Per sempre, felici e contenti! <br/>
 
 - **25lug**	VOLO MELBOURNE-KINGSCOTE (via Adelaide)
 
-- **26lug**	Con un'auto a noleggio andremo alla scoperta di Kangaroo Island, un'isola famosa per i suoi panorami e la quantità di animali che qui vivono
+- **26lug**	Con un'auto a noleggio andremo alla scoperta di **Kangaroo Island**, un'isola famosa per i suoi panorami e la quantità di animali che qui vivono
 ![kangarooisland_540.jpg]({{site.baseurl}}/images/kangarooisland_540.jpg)
 
-- **27lug**		**Kangaroo Island**: giornata libera
-![]({{site.baseurl}}/images/AU_kangaroo%20island2.jpg)
+- **27lug**		Kangaroo Island: giornata libera
 
 - **28lug**		VOLO KINGSCOTE-ADELAIDE
 
