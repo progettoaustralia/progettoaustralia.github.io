@@ -7,18 +7,18 @@ categories:
 layout: lista
 ---
 
-_C’era una volta…_
+C’era una volta…
 
-_Ci siamo conosciuti sulle sponde del lago di Molven e li ci siamo innamorati.
+Ci siamo conosciuti sulle sponde del lago di Molven e li ci siamo innamorati.
 Come in ogni storia d’amore è nato tutto con un semplice bacio e ancora non avevamo idea di quello che poteva essere;
 ma entrambi volevamo che quella fiammella che ci scaldava il cuore non smettesse di bruciare e allora abbiamo detto:
-"Si, ci proviamo!"_
+"Si, ci proviamo!"
 
-_Poteva essere una storia breve, di quelle che lasciano un piacevole ricordo e nulla più,
+Poteva essere una storia breve, di quelle che lasciano un piacevole ricordo e nulla più,
 e invece oggi siamo qui per dirvi, che questi dieci anni insieme sono passati in un attimo,
 e che il “per sempre” che stiamo per affrontare non è per noi una sfida, ma il viaggio più bello mai affrontato!
 Perché ogni bacio ha acceso una nuova fiamma, e ogni attimo passato insieme alimenta il desiderio di viverne mille altri. E ancora una volta vogliamo dirlo a gran voce:
-"Si, Ci Sposiamo!"_
+"Si, Ci Sposiamo!"
 
 
 <div class="citazione">
