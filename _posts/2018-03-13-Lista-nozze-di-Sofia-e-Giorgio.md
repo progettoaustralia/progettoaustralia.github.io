@@ -7,7 +7,9 @@ categories:
 layout: lista
 ---
 
+<div class="citazione">
 C’era una volta…
+  </div>
 
 Ci siamo conosciuti sulle sponde del lago di Molven e li ci siamo innamorati.
 Come in ogni storia d’amore è nato tutto con un semplice bacio e ancora non avevamo idea di quello che poteva essere;
@@ -18,8 +20,10 @@ Poteva essere una storia breve, di quelle che lasciano un piacevole ricordo e nu
 e invece oggi siamo qui per dirvi, che questi dieci anni insieme sono passati in un attimo,
 e che il “per sempre” che stiamo per affrontare non è per noi una sfida, ma il viaggio più bello mai affrontato!
 Perché ogni bacio ha acceso una nuova fiamma, e ogni attimo passato insieme alimenta il desiderio di viverne mille altri. E ancora una volta vogliamo dirlo a gran voce:
-"Si, Ci Sposiamo!"
 
+<div class="citazione">
+"Si, Ci Sposiamo!"
+</div>
 
 <div class="citazione">
   Il nostro "per sempre" è il regalo che ci facciamo l’un l’altra, per affrontare la nostra vita…
