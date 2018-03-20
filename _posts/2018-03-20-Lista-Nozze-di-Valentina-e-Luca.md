@@ -1,3 +1,9 @@
+---
+published: false
+categories:
+  - lista-nozze
+  - itinerario
+---
 ![LISTA NOZZE _ FOTO SPOSI.JPG]({{site.baseurl}}/images/LISTA NOZZE _ FOTO SPOSI.JPG)
 
 _“Ogni viaggio lo vivi tre volte: quando lo sogni, quando lo vivi e quando lo ricordi."
