@@ -1,7 +1,7 @@
 ![LISTA NOZZE _ FOTO SPOSI.JPG]({{site.baseurl}}/images/LISTA NOZZE _ FOTO SPOSI.JPG)
 
-“Ogni viaggio lo vivi tre volte: quando lo sogni, quando lo vivi e quando lo ricordi."
-Grazie a tutti
+_“Ogni viaggio lo vivi tre volte: quando lo sogni, quando lo vivi e quando lo ricordi."
+Grazie a tutti_
 
 ![LISTA NOZZE _ itinerario sposi.JPG]({{site.baseurl}}/images/LISTA NOZZE _ itinerario sposi.JPG)
 
