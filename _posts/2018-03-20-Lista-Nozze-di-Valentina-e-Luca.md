@@ -7,7 +7,7 @@ categories:
 ![LISTA NOZZE _ FOTO SPOSI.JPG]({{site.baseurl}}/images/LISTA NOZZE _ FOTO SPOSI.JPG)
 
 _“Ogni viaggio lo vivi tre volte: quando lo sogni, quando lo vivi e quando lo ricordi."
-Grazie a tutti_
+Grazie a tutti._
 
 ![LISTA NOZZE _ itinerario sposi.JPG]({{site.baseurl}}/images/LISTA NOZZE _ itinerario sposi.JPG)
 
@@ -25,7 +25,7 @@ Grazie a tutti_
 **13/09** Tour organizzato alla **Great Ocean Road**
 ![12ApostlesGreatOceanRoad.jpg]({{site.baseurl}}/images/12ApostlesGreatOceanRoad.jpg)
 
-**14/09** Tour organizzato presso **Phillips Island** e la parata dei pinguini
+**14/09** Tour organizzato presso **Phillip Island** e la parata dei pinguini
 ![]({{site.baseurl}}/images/PHILLIP%20ISLAND%20PENGUINS.JPEG)
 
 **15/09** Volo Melbourne – Adelaide e visita della città
@@ -40,7 +40,7 @@ Grazie a tutti_
 
 **19/09** Minicrociera in baia
 
-**20/09** Tour organizzato alle **Blue Montains**
+**20/09** Tour organizzato alle **Blue Mountains**
 ![]({{site.baseurl}}/images/AU_Blue%20mountains.jpg)![AU_Blue mountains.jpg]({{site.baseurl}}/images/AU_Blue mountains.jpg)
 
 **21/09** Volo Sydney – Ayers Rock e **cena Sound of Silence**
@@ -52,7 +52,7 @@ un pass per Fields of Lights
 Volo Ayers Rock – Cairns
 ![Uluru.jpg]({{site.baseurl}}/images/Uluru.jpg)
 
-**24/09** Tour organizzato presso**Cape Tribulation** e Daintree Forest
+**24/09** Tour organizzato presso **Cape Tribulation** e Daintree Forest
 ![]({{site.baseurl}}/images/AU_CAPE%20TRIBULATION.jpg)
 
 **25/09** Tour organizzato presso la **barriera corallina**
@@ -66,6 +66,7 @@ Volo Ayers Rock – Cairns
 Volo Brisbane - Dubai
 
 **30/09** Volo Dubai - Milano
+
 
 Intestatario: Villa Luca e Corgiolu Valentina
 IBAN: IT07L0301503200000003542794
