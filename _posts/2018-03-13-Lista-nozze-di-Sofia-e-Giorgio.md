@@ -37,6 +37,7 @@ Per sempre, felici e contenti! <br/>
 
 ![Sofia e Giorgio]({{site.baseurl}}/images/sofia%20e%20giorgio.jpeg)
 
+![marchesi mappa.jpeg]({{site.baseurl}}/images/marchesi mappa.jpeg)
 
 - **20lug**	VOLO MILANO-DUBAI
 
