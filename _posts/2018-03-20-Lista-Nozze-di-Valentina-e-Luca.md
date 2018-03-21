@@ -11,9 +11,18 @@ Grazie a tutti._
 
 ![LISTA NOZZE _ itinerario sposi.JPG]({{site.baseurl}}/images/LISTA NOZZE _ itinerario sposi.JPG)
 
+**RECAPITI:**
+
+**Intestatario**: Villa Luca e Corgiolu Valentina
+
+**IBAN**: IT07L0301503200000003542794
+
+**Banca**: FINECO
+
+**CAUSALE**: Viaggio di nozze - vostro nome
+
 
 **TAPPE DEL VIAGGIO:**
-
 
 **10/09** Volo Milano – Dubai
 
@@ -41,7 +50,7 @@ Grazie a tutti._
 **19/09** Minicrociera in baia
 
 **20/09** Tour organizzato alle **Blue Mountains**
-![]({{site.baseurl}}/images/AU_Blue%20mountains.jpg)![AU_Blue mountains.jpg]({{site.baseurl}}/images/AU_Blue mountains.jpg)
+![]({{site.baseurl}}/images/AU_Blue%20mountains.jpg)
 
 **21/09** Volo Sydney – Ayers Rock e **cena Sound of Silence**
 
@@ -62,13 +71,7 @@ Volo Ayers Rock – Cairns
 
 **27/09** e **28/09** Relax sull’isola
 
-**29/09** Volo Hamilton – Brisbane
+**29/09** Volo Hamilton – Brisbane.
 Volo Brisbane - Dubai
 
 **30/09** Volo Dubai - Milano
-
-
-Intestatario: Villa Luca e Corgiolu Valentina
-IBAN: IT07L0301503200000003542794
-Banca: FINECO
-CAUSALE: Viaggio di nozze - vostro nome
