@@ -11,6 +11,7 @@ Grazie a tutti._
 
 ![LISTA NOZZE _ itinerario sposi.JPG]({{site.baseurl}}/images/LISTA NOZZE _ itinerario sposi.JPG)
 
+
 **RECAPITI:**
 
 **Intestatario**: Villa Luca e Corgiolu Valentina
@@ -19,7 +20,8 @@ Grazie a tutti._
 
 **Banca**: FINECO
 
-**CAUSALE**: Viaggio di nozze - vostro nome
+**Causale**: Viaggio di nozze - vostro nome
+
 
 
 **TAPPE DEL VIAGGIO:**
