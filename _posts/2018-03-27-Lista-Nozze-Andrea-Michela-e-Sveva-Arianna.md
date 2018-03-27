@@ -1,3 +1,10 @@
+---
+published: false
+categories:
+  - lista-nozze
+  - itinerario
+  - luna-di-miele
+---
 []({{site.baseurl}}/images/Foto%20Alfa%20Spaudo.jpeg)
 
 
