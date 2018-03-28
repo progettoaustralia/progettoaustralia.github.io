@@ -1,27 +1,30 @@
 ---
 published: true
+layout: lista
 categories:
   - lista-nozze
   - itinerario
 ---
 ![LISTA NOZZE _ FOTO SPOSI.JPG]({{site.baseurl}}/images/LISTA NOZZE _ FOTO SPOSI.JPG)
 
-_“Ogni viaggio lo vivi tre volte: quando lo sogni, quando lo vivi e quando lo ricordi."
-Grazie a tutti._
+<div class="citazione">
+  Ogni viaggio lo vivi tre volte: quando lo sogni, quando lo vivi e quando lo ricordi.
+  <span style="text-align:right">Grazie a tutti</span>
+  </div>
 
 ![LISTA NOZZE _ itinerario sposi.JPG]({{site.baseurl}}/images/LISTA NOZZE _ itinerario sposi.JPG)
 
 
 **RECAPITI:**
+<address>
+  <strong>Intestatario</strong>: Villa Luca e Corgiolu Valentina <br/>
 
-**Intestatario**: Villa Luca e Corgiolu Valentina
+<strong>IBAN</strong>: IT07L0301503200000003542794 <br/>
 
-**IBAN**: IT07L0301503200000003542794
+<strong>Banca</strong>: FINECO <br/>
 
-**Banca**: FINECO
-
-**Causale**: Viaggio di nozze - vostro nome
-
+<strong>Causale</strong>: Viaggio di nozze - vostro nome <br/>
+</address>
 
 
 **TAPPE DEL VIAGGIO:**
