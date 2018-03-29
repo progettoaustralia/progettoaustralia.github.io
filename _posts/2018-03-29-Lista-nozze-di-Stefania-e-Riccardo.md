@@ -1,9 +1,16 @@
 ---
 published: false
+categories:
+  - lista-nozze
+  - itinerario
+  - luna-di-miele
+layout: lista
 ---
 ![]({{site.baseurl}}/images/stefania%20e%20riccardo.jpeg)
 
+<div class="citazione">
 _I viaggi sono i viaggiatori._
+</div>
 
 _**04/08**	Volo Milano – Dubai
 
@@ -61,7 +68,7 @@ _**27/08**	Volo Dubai – Milano
 
 
 <address>
-<strong>INTESTATARIO:</strong> RICCARDO TORRACCA:<br/> 
-<strong>IBAN:</strong> IT10S0200885220000100496601<br/> 
-<strong>BANCA:</strong>UNICREDIT BANCA SPA – BARANZATE<br/> 
+<strong>INTESTATARIO:</strong> RICCARDO TORRACCA:<br/>
+<strong>IBAN:</strong> IT10S0200885220000100496601<br/>
+<strong>BANCA:</strong>UNICREDIT BANCA SPA – BARANZATE<br/>
 </address>
