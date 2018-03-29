@@ -6,7 +6,7 @@ categories:
   - luna-di-miele
 layout: lista
 ---
-![stefania&riccard.JPG]({{site.baseurl}}/images/stefania&riccard.JPG)
+![]({{site.baseurl}}/images/stefania%26riccard.JPG)
 
 <div class="citazione">
 _I viaggi sono i viaggiatori._
