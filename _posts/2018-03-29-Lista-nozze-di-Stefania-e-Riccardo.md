@@ -7,9 +7,8 @@ categories:
 layout: lista
 ---
 ![]({{site.baseurl}}/images/stefania%26riccard.JPG)
-
 <div class="citazione">
-_I viaggi sono i viaggiatori._
+I viaggi sono i viaggiatori.
 </div>
 
 **04/08**	Volo Milano – Dubai
