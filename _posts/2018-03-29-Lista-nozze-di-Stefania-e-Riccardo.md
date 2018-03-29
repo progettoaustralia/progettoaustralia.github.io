@@ -1,3 +1,6 @@
+---
+published: false
+---
 ![]({{site.baseurl}}/images/stefania%20e%20riccardo.jpeg)
 
 _I viaggi sono i viaggiatori._
@@ -58,7 +61,7 @@ _**27/08**	Volo Dubai – Milano
 
 
 <address>
-IBAN di RICCARDO TORRACCA:<br/> 
-IT10S0200885220000100496601<br/> 
-UNICREDIT BANCA SPA – BARANZATE<br/> 
+<strong>INTESTATARIO:</strong> RICCARDO TORRACCA:<br/> 
+<strong>IBAN:</strong> IT10S0200885220000100496601<br/> 
+<strong>BANCA:</strong>UNICREDIT BANCA SPA – BARANZATE<br/> 
 </address>
