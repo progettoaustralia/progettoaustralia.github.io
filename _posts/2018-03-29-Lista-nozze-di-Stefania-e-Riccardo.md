@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 categories:
   - lista-nozze
   - itinerario
