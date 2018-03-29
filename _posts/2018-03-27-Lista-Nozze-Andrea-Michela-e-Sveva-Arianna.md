@@ -6,8 +6,7 @@ categories:
   - itinerario
   - luna-di-miele
 ---
-[]({{site.baseurl}}/images/Foto%20Alfa%20Spaudo.jpeg)
-
+![ANDREA & MICHELA & SVEVA ARIANNA.JPEG]({{site.baseurl}}/images/ANDREA & MICHELA & SVEVA ARIANNA.JPEG)
 
 <div class="citazione">
   Il mondo è un libro e quelli che non viaggiano ne leggono solo una pagina. <br/>
