@@ -1,23 +1,17 @@
 ---
 layout: lista
-categories: 
-  - "lista-nozze"
+categories:
+  - lista-nozze
   - viaggio
 published: true
-title: "Nozze Ilaria & Lorenzo (Linda & Mia)"
+title: Nozze Ilaria & Lorenzo (Linda & Mia)
 ---
 
 
 
 ![2135613IMG-20150929-WA0000.jpg]({{site.baseurl}}/images/2135613IMG-20150929-WA0000.jpg)
 
-_Grazie a tutti di cuore!_
 
-<address>
-BANCA: FINECO<br/>
-IBAN: IT58Q0301503200000003370352<br/>
-CAUSALE: Viaggio di nozze<br/>
-</address>
  
  
 - **21/12** Partenza da Milano Linate 
