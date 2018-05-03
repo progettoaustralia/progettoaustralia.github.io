@@ -54,28 +54,4 @@ Al Daintree N.P. ci godremo la foresta tropicale più antica del mondo, con la p
 Torneremo in Italia. Grazie a ognuno di voi per rendere possibile questo meraviglioso viaggio!
 
 
-Se volete regalarci un pezzetto di questa avventura, potete fare un bonifico intestato a:
 
-<address>
-Redolfi Michele e Dona’ Cecilia<br/>
-IBAN: IT45Q0301503200000003501827<br/>
-Causale: Viaggio di Nozze Michele e Cecilia<br/>
-</address>
-
-L’importo è ovviamente libero. Ecco qualche idea di ciò che contribuireste a regalarci.
-
-**Quota 25 euro:** ci regalate l’ingresso al Daintree National Park – due cocktail di benvenuto per combattere il jetlag – il giro in traghetto nella baia di Sydney.
-
-**Quota 50 euro:** ci regalate la prima cena a Sydney – la casetta in mezzo al verde e ai canguri di Kangaroo Island.
-
-**Quota 75 euro:**ci regalate la colazione all’alba nel Red Center – il primo pieno di benzina per iniziare la nostra avventura in 4x4 – la visita all’installazione ”Field of Light” nel Red Center.
-
-**Quota 100 euro:** ci regalate la cena di capodanno che passeremo in una località sperduta della Great Ocean Road – una cena di pesce affacciati sul lungomare di Cairns – un buon numero di cocktail per consolarci quando il viaggio starà per finire.
-
-**Quota 200 euro:** ci regalate l’immersione tra i pesci e i coralli della barriera corallina – due giorni a Kangaroo Island per farci fare amicizia con gli animaletti del posto.
-
-**Quota 300 euro:** ci regalate le notti nella casetta in mezzo alla foresta di Cape Tribulation – l’auto a noleggio per non dover fare l'autostop sulla Great Ocean Road.
-
-**Quota 400 euro:** ci regalate il volo da Sidney a Ayers Rock – la visita alla bellissima isola Michaelmas Cay della barriera corallina.
-
-**Quota 500 euro:** ci regalate una parte dei voli intercontinentali – le notti sotto le stelle a Uluru e l’escursione in 4x4 per gustare il tramonto mozzafiato sul Kings Canyon.
