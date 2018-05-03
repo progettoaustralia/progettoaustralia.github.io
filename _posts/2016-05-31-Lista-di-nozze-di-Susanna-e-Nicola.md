@@ -1,21 +1,15 @@
 ---
 published: true
 layout: lista
-categories: 
-  - "lista-nozze"
+categories:
+  - lista-nozze
   - australia
-  - "luna-di-miele"
+  - luna-di-miele
 ---
 ## Lista di nozze di Susanna & Nicola
 
 ![29609131310278710209487397451873842112901951567094n-1-.jpg]({{site.baseurl}}/images/29609131310278710209487397451873842112901951567094n-1-.jpg)
 
-<address>
-Banca Widiba S.p.A <br/>
-IBAN: IT13V0344214239000016090891<br/>
-BIC/SWIFT: WIDIITMM<br/>
-INTESTATO A:De Luca Nicola,Baldi Susanna
-</address>
 
 <div class="citazione">Voi siete il regalo più bello! Per chi lo desidera è possibile partecipare alla nostra lista nozze
 </div>
