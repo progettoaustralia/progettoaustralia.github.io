@@ -1,7 +1,7 @@
 ---
 layout: lista
-categories: 
-  - "lista-nozze"
+categories:
+  - lista-nozze
   - australia
   - itinerario
 published: true
@@ -107,8 +107,4 @@ published: true
 - **05/10** Volo Sydney – Milano
 - **06/10** Arrivo a Milano
 
-<address>
-CAUSALE: Viaggio di nozze Davide e Cristina <br/>
-IBAN: IT09 R082 1432 8800 0000 0009 219
-</address>
- GRAZIE!
+
