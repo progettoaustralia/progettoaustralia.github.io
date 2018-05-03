@@ -1,7 +1,7 @@
 ---
 layout: lista
-categories: 
-  - "lista-nozze"
+categories:
+  - lista-nozze
   - australia
 published: true
 ---
@@ -12,14 +12,7 @@ published: true
 
 ![Slide1.PNG]({{site.baseurl}}/images/Slide1.PNG)
 
-<address>
-IBAN: IT04V0301503200000002527105 <br/>
-Codice SWIFT: UNCRITMM<br/>
-Intestatario: Emanuele Rossotti <br/>
-Causale: Viaggio di Nozze<br/>
-</address>
 
-Grazie a tutti!
 
  
 - **01/10** Partenza con volo da Londra
