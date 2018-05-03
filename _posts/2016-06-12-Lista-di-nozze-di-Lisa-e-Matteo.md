@@ -16,19 +16,6 @@ categories:
 _Grazie a tutti voi per regalarci il nostro **SOGNO*..._
 
 
-<address>
-INTESTATARIO	Lisa Martello <br/>
-IBAN	IT18E0306234210000001291697 <br/>
-ABI	03062 <br/>
-CAB	34210 <br/>
-CIN	E <br/>
-BBAN	E0306234210000001291697 <br/>
-BIC/SWIFT	MEDBITMM <br/>
-BANCA	Banca Mediolanum S.p.A. <br/>
-INDIRIZZO BANCA	Via Francesco Sforza <br/>
-20080 Basiglio - Milano 3 (MI)
-</address>
-
 - **01/08** Venezia – Dubai
 - **02/08** Dubai - Melbourne
 Ritiro macchina a noleggio
