@@ -11,7 +11,7 @@ categories:
 <div class="citazione">
   Il mondo è un libro e quelli che non viaggiano ne leggono solo una pagina. <br/>
   <span stype="text-align:right">(Agostino d’Ippona)</span>
-  </div>
+</div>
 
 
 - **30/08**	Volo Dusseldorf-Abu Dhabi
