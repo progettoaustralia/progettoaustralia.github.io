@@ -1,4 +1,5 @@
 ![]({{site.baseurl}}/images/elena%20e%20piero.jpeg)
+
 <div class="citazione">
 “Ci sono strade che non sono fatte per essere percorse da soli”
 </div> 
