@@ -1,3 +1,11 @@
+---
+published: false
+layout: lista
+categories:
+  - lista-nozze
+  - itinerario
+  - luna-di-miele
+---
 ![]({{site.baseurl}}/images/elena%20e%20piero.jpeg)
 
 <div class="citazione">
