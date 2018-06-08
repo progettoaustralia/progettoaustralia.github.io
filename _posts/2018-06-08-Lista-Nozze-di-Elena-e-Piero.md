@@ -38,7 +38,7 @@ categories:
 Volo Ayers Rock-Sydney.
 
 **22/01**	**Sydney**: giornata libera per visitare la città.
-![Foto Sydney.jpg]({{site.baseurl}}/images/Foto%20Sydney.jpg)
+![AU_Sydney-skyline.jpg]({{site.baseurl}}/images/AU_Sydney-skyline.jpg)
 
 **23/01**	Sydney: giornata libera per visitare la città.
 
