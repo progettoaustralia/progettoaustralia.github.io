@@ -47,7 +47,7 @@ Volo Ayers Rock-Sydney.
 -**29/01**	Volo Dubai – Roma.
             
 <address>
-**Intestazione** ELENA D'AGOSTINO o PIERO VINCI<br/>
-**IBAN** IT13J0347501605CC0011767909<br/>
-**BIC** INGBITD1<br/>
+<strong>Intestazione</strong> ELENA D'AGOSTINO o PIERO VINCI<br/>
+<strong>IBAN</strong> IT13J0347501605CC0011767909<br/>
+<strong>BIC</strong> INGBITD1<br/>
 </address>
