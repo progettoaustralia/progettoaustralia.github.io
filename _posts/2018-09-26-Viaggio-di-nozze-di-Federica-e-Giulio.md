@@ -42,11 +42,13 @@ published: false
 
 **15-01** Volo Hamilton Island-Brisbane
 
-**16-01** Tour organizzato visita di Fraser Island 2gg/1notte
+**16-01** **Tour organizzato visita di Fraser Island 2gg/1notte**
+![FRASER ISLAND.jpg]({{site.baseurl}}/images/FRASER ISLAND.jpg)
 
 **17-01** Rientro dal tour e pernottamento a Brisbane
 
-**18-01** Volo Brisbane-Melbourne
+**18-01** Volo Brisbane-**Melbourne**
+![MELBOURNE.jpg]({{site.baseurl}}/images/MELBOURNE.jpg)
 
 **19-01** Giornata libera
 
