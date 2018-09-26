@@ -3,8 +3,9 @@ published: false
 ---
 ![ANNA E DARIO.jpg]({{site.baseurl}}/images/ANNA E DARIO.jpg)
 
-_“Il mondo è davvero pieno di pericoli, e vi sono molti posti oscuri; ma si trovano ancora delle cose belle, e nonostante l'amore sia ovunque mescolato al dolore, esso cresce forse più forte”_
-
+<div class="citazione">
+“Il mondo è davvero pieno di pericoli, e vi sono molti posti oscuri; ma si trovano ancora delle cose belle, e nonostante l'amore sia ovunque mescolato al dolore, esso cresce forse più forte”
+</div>
 
 **09/12**       Volo Milano–Tokyo
 
@@ -68,7 +69,13 @@ _“Il mondo è davvero pieno di pericoli, e vi sono molti posti oscuri; ma si t
 
 **05/01**       Volo Noumea–Tokyo. Volo Tokyo–Milano
 
-IT 62 Y 07072 66420 000000410516
-Banca: Emilbanca
-intestato: ASTI DARIO LAZZARETTI ANNA
+
+_"Grazie di cuore per la vostra partecipazione!"_
+
+<address>
+IT 62 Y 07072 66420 000000410516 <br/>
+Banca: Emilbanca <br/>
+intestato: ASTI DARIO LAZZARETTI ANNA <br/>
+CAUSALE: Viaggio di Nozze
+</address>
 
