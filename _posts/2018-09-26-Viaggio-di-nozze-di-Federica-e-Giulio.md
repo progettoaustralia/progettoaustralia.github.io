@@ -3,15 +3,15 @@ published: false
 ---
 ![federicagiulio.JPG]({{site.baseurl}}/images/federicagiulio.JPG)
 
-30-12 Volo Roma-Dubai
+**30-12** Volo Roma-Dubai
 
-31-12 Volo Dubai-Adelaide. Ritiro auto a noleggio all’aeroporto 
+**31-12** Volo Dubai-Adelaide. Ritiro auto a noleggio all’aeroporto 
 
-01-01 Adelaide-Cape Jervis. Traghetto per Kangaroo Island
+**01-01** Adelaide-Cape Jervis. Traghetto per Kangaroo Island
 
-02-01 Kangaroo Island
+**02-01** Kangaroo Island
 
-03-01 Kangaroo Island
+**03-01** Kangaroo Island
 
 04-01 Traghetto da Kangaroo Island. Consegna auto a noleggio all’aeroporto. Volo Adelaide-Sydney
 
