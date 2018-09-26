@@ -1,5 +1,10 @@
 ---
 published: true
+layout: lista
+categories:
+  - lista-nozze
+  - itinerario
+  - luna-di-miele
 ---
 ![federicagiulio.JPG]({{site.baseurl}}/images/federicagiulio.JPG)
 
