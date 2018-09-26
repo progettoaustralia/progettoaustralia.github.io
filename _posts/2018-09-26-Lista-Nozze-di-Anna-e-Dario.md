@@ -19,6 +19,7 @@ _“Il mondo è davvero pieno di pericoli, e vi sono molti posti oscuri; ma si t
 **14/12**       Isola dei Pini: giornata relax         
 
 **15/12**       Isola dei Pini: giornata relax
+![isola dei pini.jpg]({{site.baseurl}}/images/isola dei pini.jpg)
 
 **16/12**       Volo Isola dei Pini – Noumea. Ritiro auto a noleggio e partenza per Bourail
 
@@ -29,14 +30,17 @@ _“Il mondo è davvero pieno di pericoli, e vi sono molti posti oscuri; ma si t
 **19/12**       Volo Noumea–Auckland
 
 **20/12**       Auckland: giornata libera per visitare la città
+![auckland.jpg]({{site.baseurl}}/images/auckland.jpg)
 
 **21/12**       Partenza in auto per Waitomo
 
 **22/12**       Partenza in auto per Rotorua con tappa a Matamata e cena al villaggio  Mahori
+![maori village.jpg]({{site.baseurl}}/images/maori village.jpg)
 
 **23/12**       Rotorua e parco geotermale di Te Puia. Partenza in auto per Tongariro con tappe a Huka Falls e Lake Taupo
 
 **24/12**       Escursioni e Trekking al Tongariro National Park
+![trekking tongariro national park.jpg]({{site.baseurl}}/images/trekking tongariro national park.jpg)
 
 **25/12**       Partenza in auto per Wellington
 
@@ -45,6 +49,7 @@ _“Il mondo è davvero pieno di pericoli, e vi sono molti posti oscuri; ma si t
 **27/12**       Traghetto Wellington – Picton. Proseguimento in auto per Marahau 
 
 **28/12**       Abel Tasman National Park (trekking e spiagge)
+![abel tasman national park.jpg]({{site.baseurl}}/images/abel tasman national park.jpg)
 
 **29/12**       Partenza in auto per Kaikoura. Crociera di avvistamento balene
 
@@ -55,9 +60,15 @@ _“Il mondo è davvero pieno di pericoli, e vi sono molti posti oscuri; ma si t
 **01/01**       Queenstown: giornata libera per visitare la città
 
 **02/01**       Partenza in auto per Te Anau. Crociera in giornata a Milford Sound
+![milford sound.jpg]({{site.baseurl}}/images/milford sound.jpg)
 
 **03/01**       Partenza in auto per Queenstown
 
 **04/01**       Volo Queenstown–Auckland. Volo Auckland–Noumea
 
 **05/01**       Volo Noumea–Tokyo. Volo Tokyo–Milano
+
+IT 62 Y 07072 66420 000000410516
+Banca: Emilbanca
+intestato: ASTI DARIO LAZZARETTI ANNA
+
