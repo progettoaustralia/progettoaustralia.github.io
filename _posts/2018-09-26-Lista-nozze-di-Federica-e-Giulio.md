@@ -70,6 +70,7 @@ categories:
 _"Grazie di cuore per la vostra partecipazione!"_
 
 <address>
+INTESTAZIONE: Giulio Benestare
 IBAN: IT18P0103016305000000959141
 CAUSALE: Viaggio di Nozze
 </address>
