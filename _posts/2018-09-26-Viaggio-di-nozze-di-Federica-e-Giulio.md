@@ -9,29 +9,34 @@ published: false
 
 **01-01** Adelaide-Cape Jervis. Traghetto per Kangaroo Island
 
-**02-01** Kangaroo Island
+**02-01** **Kangaroo Island**
+![KANGAROO ISLAND.jpg]({{site.baseurl}}/images/KANGAROO ISLAND.jpg)
 
 **03-01** Kangaroo Island
 
 **04-01** Traghetto da Kangaroo Island. Consegna auto a noleggio all’aeroporto. Volo Adelaide-Sydney
 
-**05-01** Minicrociera nella baia di Sydney + pranzo
+**05-01** Minicrociera nella **baia di Sydney** + pranzo
+![BAIA SYDNEY.jpg]({{site.baseurl}}/images/BAIA SYDNEY.jpg)
 
 **06-01** Giornata libera
 
 **07-01** Giornata libera
 
-**08-01** Volo Sydney – Ayers Rock. Ritiro auto a noleggio all’aeroporto. Visita libera dei Monti Olgas al tramonto
+**08-01** Volo Sydney – Ayers Rock. Ritiro auto a noleggio all’aeroporto. Visita libera dei **Monti Olgas** al tramonto
+![MONTI OLGAS.jpg]({{site.baseurl}}/images/MONTI OLGAS.jpg)
 
-**09-01** Visita libera di Uluru all’alba. Cena sound of Silence
+**09-01** Visita libera di Uluru all’alba. **Cena sound of Silence**
 
 **10-01** Consegna auto a noleggio all’aeroporto. Volo Ayers Rock-Cairns
 
-**11-01** Tour a Cape Tribulation + Daintree Forest
+**11-01** **Tour a Cape Tribulation + Daintree Forest**
+![CAPE TRIBULATION.jpg]({{site.baseurl}}/images/CAPE TRIBULATION.jpg)
 
 **10-01** Volo Cairns-Hamilton Island
 
-**13-01** Tour organizzato sulla barriera corallina
+**13-01** **Tour organizzato sulla barriera corallina**
+![REEF.jpg]({{site.baseurl}}/images/REEF.jpg)
 
 **14-01** Tour organizzato visita della Whithaven Beach
 
