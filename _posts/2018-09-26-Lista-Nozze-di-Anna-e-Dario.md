@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ![ANNA E DARIO.jpg]({{site.baseurl}}/images/ANNA E DARIO.jpg)
 
