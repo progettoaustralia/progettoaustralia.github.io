@@ -13,48 +13,52 @@ published: false
 
 **03-01** Kangaroo Island
 
-04-01 Traghetto da Kangaroo Island. Consegna auto a noleggio all’aeroporto. Volo Adelaide-Sydney
+**04-01** Traghetto da Kangaroo Island. Consegna auto a noleggio all’aeroporto. Volo Adelaide-Sydney
 
-05-01 Minicrociera nella baia di Sydney + pranzo
+**05-01** Minicrociera nella baia di Sydney + pranzo
 
-06-01 Giornata libera
+**06-01** Giornata libera
 
-07-01 Giornata libera
+**07-01** Giornata libera
 
-08-01 Volo Sydney – Ayers Rock. Ritiro auto a noleggio all’aeroporto. Visita libera dei Monti Olgas al tramonto
+**08-01** Volo Sydney – Ayers Rock. Ritiro auto a noleggio all’aeroporto. Visita libera dei Monti Olgas al tramonto
 
-09-01 Visita libera di Uluru all’alba. Cena sound of Silence
+**09-01** Visita libera di Uluru all’alba. Cena sound of Silence
 
-10-01 Consegna auto a noleggio all’aeroporto. Volo Ayers Rock-Cairns
+**10-01** Consegna auto a noleggio all’aeroporto. Volo Ayers Rock-Cairns
 
-11-01 Tour a Cape Tribulation + Daintree Forest
+**11-01** Tour a Cape Tribulation + Daintree Forest
 
-12-01 Volo Cairns-Hamilton Island
+**10-01** Volo Cairns-Hamilton Island
 
-13-01 Tour organizzato sulla barriera corallina
+**13-01** Tour organizzato sulla barriera corallina
 
-14-01 Tour organizzato visita della Whithaven Beach
+**14-01** Tour organizzato visita della Whithaven Beach
 
-15-01 Volo Hamilton Island-Brisbane
+**15-01** Volo Hamilton Island-Brisbane
 
-16-01 Tour organizzato visita di Fraser Island 2gg/1notte
+**16-01** Tour organizzato visita di Fraser Island 2gg/1notte
 
-17-01 Rientro dal tour e pernottamento a Brisbane
+**17-01** Rientro dal tour e pernottamento a Brisbane
 
-18-01 Volo Brisbane-Melbourne
+**18-01** Volo Brisbane-Melbourne
 
-19-01 Giornata libera
+**19-01** Giornata libera
 
-20-01 Giornata libera
+**20-01** Giornata libera
 
-21-01 Giornata libera
+**21-01** Giornata libera
 
-22-01 Giornata libera
+**22-01** Giornata libera
 
-23-01 Volo Melbourne- Dubai
+**23-01** Volo Melbourne- Dubai
 
-24-01 Volo Dubai-Roma
-		
+**24-01** Volo Dubai-Roma
 
+_"Grazie di cuore per la vostra partecipazione!"_
 
+<address>
+IBAN: IT18P0103016305000000959141
+CAUSALE: Viaggio di Nozze
+</address>
 
