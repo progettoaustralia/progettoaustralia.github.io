@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ![federicagiulio.JPG]({{site.baseurl}}/images/federicagiulio.JPG)
 
