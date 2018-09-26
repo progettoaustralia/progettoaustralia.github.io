@@ -1,5 +1,10 @@
 ---
 published: true
+layout: lista
+categories:
+  - lista-nozze
+  - itinerario
+  - luna-di-miele
 ---
 ![ANNA E DARIO.jpg]({{site.baseurl}}/images/ANNA E DARIO.jpg)
 
