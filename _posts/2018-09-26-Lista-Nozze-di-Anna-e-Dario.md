@@ -15,9 +15,9 @@ categories:
 _"Grazie di cuore per la vostra partecipazione!"_
 
 <address>
-IT 62 Y 07072 66420 000000410516 <br/>
-Banca: Emilbanca <br/>
-intestato: ASTI DARIO LAZZARETTI ANNA <br/>
+IBAN: IT 62 Y 07072 66420 000000410516 <br/>
+BANCA: Emilbanca <br/>
+INTESTAZIONE: ASTI DARIO LAZZARETTI ANNA <br/>
 CAUSALE: Viaggio di Nozze
 </address>
 
