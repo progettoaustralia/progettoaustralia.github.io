@@ -8,7 +8,9 @@ categories:
 ---
 ![federicagiulio.JPG]({{site.baseurl}}/images/federicagiulio.JPG)
 
+<div class="citazione">
 “Ogni viaggio lo vivi tre volte: quando lo sogni, quando lo vivi e quando lo ricordi” 
+</div>
 
 **30-12** Volo Roma-Dubai
 
