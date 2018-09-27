@@ -8,6 +8,8 @@ categories:
 ---
 ![federicagiulio.JPG]({{site.baseurl}}/images/federicagiulio.JPG)
 
+“Ogni viaggio lo vivi tre volte: quando lo sogni, quando lo vivi e quando lo ricordi” 
+
 **30-12** Volo Roma-Dubai
 
 **31-12** Volo Dubai-Adelaide. Ritiro auto a noleggio all’aeroporto 
