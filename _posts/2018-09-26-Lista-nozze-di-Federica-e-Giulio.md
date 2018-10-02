@@ -28,7 +28,7 @@ categories:
 **05-01** Minicrociera nella **baia di Sydney** + pranzo
 ![BAIA SYDNEY.jpg]({{site.baseurl}}/images/BAIA SYDNEY.jpg)
 
-**06-01** Giornata libera
+**06-01** Giornata libera per visitare la città
 
 **07-01** Giornata libera
 
@@ -48,6 +48,7 @@ categories:
 ![REEF.jpg]({{site.baseurl}}/images/REEF.jpg)
 
 **14-01** Tour organizzato visita della Whithaven Beach
+![whiteheav.jpg]({{site.baseurl}}/images/whiteheav.jpg)
 
 **15-01** Volo Hamilton Island-Brisbane
 
@@ -59,11 +60,13 @@ categories:
 **18-01** Volo Brisbane-**Melbourne**
 ![MELBOURNE.jpg]({{site.baseurl}}/images/MELBOURNE.jpg)
 
-**19-01** Giornata libera
+**19-01** Giornata dedicata agli **Australian Open** di tennis
+![australiaopen.png]({{site.baseurl}}/images/australiaopen.png)
 
-**20-01** Giornata libera
+**20-01** Tour in giornata alla Great Ocean Road e visita ai **12 Apostoli**
+![12apostoles.jpg]({{site.baseurl}}/images/12apostoles.jpg)
 
-**21-01** Giornata libera
+**21-01** Giornata libera per visitare la città
 
 **22-01** Giornata libera
 
@@ -74,7 +77,7 @@ categories:
 _"Grazie di cuore per la vostra partecipazione!"_
 
 <address>
-INTESTAZIONE: Giulio Benestare
-IBAN: IT18P0103016305000000959141
+INTESTAZIONE: Federica Loiacono
+IBAN: IT42F0200832974001234927057
 CAUSALE: Viaggio di Nozze
 </address>
