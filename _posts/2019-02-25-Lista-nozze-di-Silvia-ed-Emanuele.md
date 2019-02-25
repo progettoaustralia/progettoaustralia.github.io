@@ -75,9 +75,10 @@ published: true
 
 **23/06** Volo Dubai – Roma 
                         
+_"Grazie di cuore per la vostra partecipazione!"_
 
 <address>
-conto corrente Fineco<br/>
-Intestazione: BRUNO SILVIA E MATONI EMANUELE<br/>
-IBAN: IT53L0301503200000005758901<br/>
+conto corrente Fineco
+Intestazione: BRUNO SILVIA E MATONI EMANUELE
+IBAN: IT53L0301503200000005758901
 </address>
