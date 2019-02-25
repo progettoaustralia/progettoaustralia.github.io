@@ -1,5 +1,9 @@
 ---
 published: true
+layout: lista
+categories:
+  - lista-nozze
+
 ---
 
 ![SILIVIA ED EMANUELE.jpeg]({{site.baseurl}}/images/SILIVIA ED EMANUELE.jpeg)
