@@ -3,13 +3,13 @@ published: true
 layout: lista
 categories:
   - lista-nozze
-
 ---
 
 ![SILIVIA ED EMANUELE.jpeg]({{site.baseurl}}/images/SILIVIA ED EMANUELE.jpeg)
 
 <div class="citazione">
-“Ho scoperto che non esiste un modo migliore per scoprire se ti piace una persona che viaggiandoci insieme (Mark Twain)”
+“Ho scoperto che non esiste un modo migliore per scoprire se ti piace una persona che viaggiandoci insieme
+(Mark Twain)”
 </div>
 
 **27/05** Volo Roma – Dubai 
@@ -37,7 +37,7 @@ categories:
 **05/06** Volo per Kangaroo Island, noleggio auto e giro dell’isola
 
 **06/06** **Kangaroo Island**: giornata libera per visita isola
-![]({{site.baseurl}}/images/AU_kangaroo%20island_PANORAMA.jpg)
+![KANGAROO.jpg]({{site.baseurl}}/images/KANGAROO.jpg)
 
 **07/06** Kangaroo Island: giornata libera per visita isola
                         
@@ -82,7 +82,7 @@ categories:
 _"Grazie di cuore per la vostra partecipazione!"_
 
 <address>
-conto corrente Fineco
-Intestazione: BRUNO SILVIA E MATONI EMANUELE
-IBAN: IT53L0301503200000005758901
+conto corrente Fineco<br/>
+Intestazione: BRUNO SILVIA E MATONI EMANUELE<br/>
+IBAN: IT53L0301503200000005758901<br/>
 </address>
