@@ -8,8 +8,9 @@ categories:
 ![SILIVIA ED EMANUELE.jpeg]({{site.baseurl}}/images/SILIVIA ED EMANUELE.jpeg)
 
 <div class="citazione">
-“Ho scoperto che non esiste un modo migliore per scoprire se ti piace una persona che viaggiandoci insieme
-(Mark Twain)”
+“Ho scoperto che non esiste un modo migliore per scoprire se ti piace una persona<br/>
+che viaggiandoci insieme"<br/>
+(Mark Twain)
 </div>
 
 **27/05** Volo Roma – Dubai 
