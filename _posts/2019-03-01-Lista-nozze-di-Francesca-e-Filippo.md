@@ -8,8 +8,8 @@ categories:
 ---
 ![foto x LIsta Nozze.JPEG]({{site.baseurl}}/images/foto x LIsta Nozze.JPEG)
 <div class="citazione">
-_"Un viaggio di mille miglia
-comincia sempre con il primo passo"_
+"Un viaggio di mille miglia
+comincia sempre con il primo passo"
 (Lao Tzu)
 </div>
 
@@ -20,10 +20,10 @@ comincia sempre con il primo passo"_
 **05/08** **Melbourne**: giornata libera
 ![01-melbourne.jpg]({{site.baseurl}}/images/01-melbourne.jpg)
 
-**06/08** Noleggio auto e proseguimento per **Phillip island** per visita alla **Parata dei Pinguini**
+**06/08** Noleggio auto e proseguimento per **Phillip island** per visita in autonomia alla **Parata dei Pinguini**
 ![PENGUINS PARADE.jpg]({{site.baseurl}}/images/PENGUINS%20PARADE.jpg)
 
-**07/08** Trasferimento per Port Campbell. Lungo la strada visita ai **12 Apostoli**
+**07/08** Trasferimento per Port Campbell. Lungo la strada visita in autonomia ai **12 Apostoli**
 ![12apostoles.jpg]({{site.baseurl}}/images/12apostoles.jpg)
 
 **08/08** Rientro a Melbourne
@@ -40,7 +40,7 @@ comincia sempre con il primo passo"_
 
 **13/08** Noleggio auto e trasferimento per Cape Tribulation
 
-**14/08** Visita a **Cape Tribulation** e rientro a Cairns
+**14/08** Visita in autonomia a **Cape Tribulation** e rientro a Cairns
 ![AU_CAPE TRIBULATION.jpg]({{site.baseurl}}/images/AU_CAPE%20TRIBULATION.jpg)
 
 **15/08** Volo Cairns/Ayers Rock.
