@@ -20,25 +20,19 @@ comincia sempre con il primo passo"_
 
 **10/08** Tour organizzato : **Utimate Whitsunday Whitehaven beach**
 
-**11/08**	Volo Hamiton Cairns
+**11/08** Volo Hamiton Cairns
 
-	12/08		Tour Barriera corallina ; full day Barriera Corallina pranzo incluso				
-13/08	Ritiro auto in citta 
-Cairns – Cape Tribulation 140km 
+**12/08** Tour organizzato alla **barriera corallina**	
 
+**13/08** Noleggio auto e trasferimento per Cape Tribulation
 
+**14/08** Visita a **Cape Tribulation** e rientro a Cairns
 
+**15/08** Volo Cairns Ayers Rock. Visita in autonomia dei **monti Olgas** e a seguire tour organizzato a **Uluru**
 
-	14/08		Cape Tribulation Cairns  140km
-	15/08		 Rilascio auto in aeroporto
-Volo Cairns Ayers Rock  
-Ritiro auto in aeroporto, 
-Visita In autonomia dei monti Olgas 
-Alle 14.30 tour sunset di Uluru, Seit  Pick up dal Vostro Hotel 
-con guida e aperitivo al tramonto
-16/08	 Ayers Rock – Kings Canyon 300 km ca
-                	Kings Canyon Resort ,
-17/08		 Kings Canyon Alice Spring 400 km ca strada normale
+**16/08** Trasferimento per **Kings Canyon** con auto a noleggio
+
+**17/08** Trasferimento per Alice Spring 400 km ca strada normale
 	18/08		Volo Alice Spring Sydney  					
 	19/08		Sydey ; giornate libere
 20/08		Sydney
