@@ -16,21 +16,22 @@ comincia sempre con il primo passo"_
 ![01-melbourne.jpg]({{site.baseurl}}/images/01-melbourne.jpg)
 
 **06/08** Noleggio auto e proseguimento per **Phillip island** per visita alla **Parata dei Pinguini**
+![PENGUINS PARADE.jpg]({{site.baseurl}}/images/PENGUINS%20PARADE.jpg)
 
 **07/08** Trasferimento per Port Campbell. Lungo la strada visita ai **12 Apostoli**
-![12apostles-great-ocean-road-walks.jpg]({{site.baseurl}}/images/12apostles-great-ocean-road-walks.jpg)
+![12apostoles.jpg]({{site.baseurl}}/images/12apostoles.jpg)
 
 **08/08** Rientro a Melbourne
 
 **09/08** Volo Melbourne/Hamilton Island
 
 **10/08** Tour organizzato : **Utimate Whitsunday Whitehaven beach**
-![AU_Whitehaven Beach.jpg]({{site.baseurl}}/images/AU_Whitehaven%20Beach.jpg)
+![AU_hamilton-island-australia-3.jpg]({{site.baseurl}}/images/AU_hamilton-island-australia-3.jpg)
 
 **11/08** Volo Hamiton Island/Cairns
 
 **12/08** Tour organizzato alla **barriera corallina**	
-![AU_BARRIERA CORALLINA 2.jpg]({{site.baseurl}}/images/AU_BARRIERA%20CORALLINA%202.jpg)
+![]({{site.baseurl}}/images/AU_barriera%20corallina.jpg)
 
 **13/08** Noleggio auto e trasferimento per Cape Tribulation
 
@@ -39,7 +40,7 @@ comincia sempre con il primo passo"_
 
 **15/08** Volo Cairns/Ayers Rock.
 Visita in autonomia dei **monti Olgas** e a seguire tour organizzato a **Uluru**
-![Ayers-Rock01.jpg]({{site.baseurl}}/images/Ayers-Rock01.jpg)
+![AU_ULURU.jpg]({{site.baseurl}}/images/AU_ULURU.jpg)
 
 **16/08** Trasferimento per **Kings Canyon** con auto a noleggio
 
@@ -54,7 +55,7 @@ Visita in autonomia dei **monti Olgas** e a seguire tour organizzato a **Uluru**
 
 **21/08** Volo Sydney Nadi e trasferimento al resort sull'**isola di Matamanoa**
 
-**22/08** Matamanoa  Island Resort
+**22/08** Matamanoa Island Resort
 ![matamanoa-island-resort.jpg]({{site.baseurl}}/images/matamanoa-island-resort.jpg)
 
 **23/08** Matamanoa  Island Resort
