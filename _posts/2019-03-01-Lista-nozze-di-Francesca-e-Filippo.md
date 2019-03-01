@@ -1,5 +1,10 @@
 ---
 published: true
+layout: lista
+categories:
+  - lista-nozze
+  - itinerario
+  - luna-di-miele
 ---
 ![foto x LIsta Nozze.JPEG]({{site.baseurl}}/images/foto x LIsta Nozze.JPEG)
 <div class="citazione">
