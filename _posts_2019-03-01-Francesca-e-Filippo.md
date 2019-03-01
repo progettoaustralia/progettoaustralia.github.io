@@ -67,7 +67,6 @@ Visita in autonomia dei **monti Olgas** e a seguire tour organizzato a **Uluru**
 
 **27/08** Volo Dubai/Milano
 			 
-  			
 
 <address>
 Banca: Banco di credito cooperativo<br/>
