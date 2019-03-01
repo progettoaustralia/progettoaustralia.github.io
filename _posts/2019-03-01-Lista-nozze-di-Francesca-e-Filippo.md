@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ![foto x LIsta Nozze.JPEG]({{site.baseurl}}/images/foto x LIsta Nozze.JPEG)
 <div class="citazione">
