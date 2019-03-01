@@ -30,7 +30,7 @@ comincia sempre con il primo passo"
 
 **09/08** Volo Melbourne/Hamilton Island
 
-**10/08** Tour organizzato : **Utimate Whitsunday Whitehaven beach**
+**10/08** Tour organizzato: **Utimate Whitsunday Whitehaven beach**
 ![AU_hamilton-island-australia-3.jpg]({{site.baseurl}}/images/AU_hamilton-island-australia-3.jpg)
 
 **11/08** Volo Hamiton Island/Cairns
