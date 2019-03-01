@@ -1,8 +1,9 @@
 ![foto x LIsta Nozze.JPEG]({{site.baseurl}}/images/foto x LIsta Nozze.JPEG)
+<div class="citazione">
 _"Un viaggio di mille miglia
 comincia sempre con il primo passo"_
 (Lao Tzu)
-
+</div>
 
 **03/08** Volo Milano/Dubai
 
@@ -56,13 +57,12 @@ Visita in autonomia dei **monti Olgas** e a seguire tour organizzato a **Uluru**
 **27/08** Volo Dubai/Milano
 			 
   			
-- 
-Banca:
-Banco di credito cooperativo 
-Intestatari :
-Fanelli Francesca 
-Fortunato Filippo
-ban: IT 52 T 08869 53150 000000016829 
+
+<address>
+Banca: Banco di credito cooperativo<br/>
+Intestatari: Fanelli Francesca  Fortunato Filippo<br/>
+Iban: IT 52 T 08869 53150 000000016829<br/>
+</address>
 
 
 
