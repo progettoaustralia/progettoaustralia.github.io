@@ -56,7 +56,7 @@ Visita in autonomia dei **monti Olgas** e a seguire tour organizzato a **Uluru**
 
 **20/08** Sydney
 
-**21/08** Volo Sydney Nadi e trasferimento al resort sull'**isola di Matamanoa**
+**21/08** Volo Sydney/Nadi e trasferimento al resort sull'**isola di Matamanoa**
 
 **22/08** Matamanoa Island Resort
 ![matamanoa-island-resort.jpg]({{site.baseurl}}/images/matamanoa-island-resort.jpg)
