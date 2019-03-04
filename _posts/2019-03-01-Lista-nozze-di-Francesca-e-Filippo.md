@@ -8,9 +8,7 @@ categories:
 ---
 ![foto x LIsta Nozze.JPEG]({{site.baseurl}}/images/foto x LIsta Nozze.JPEG)
 <div class="citazione">
-"Un viaggio di mille miglia
-comincia sempre con il primo passo"
-(Lao Tzu)
+"Un viaggio di mille miglia comincia sempre con il primo passo" (Lao Tzu)
 </div>
 
 **03/08** Volo Milano/Dubai
@@ -72,7 +70,7 @@ Visita in autonomia dei **monti Olgas** e a seguire tour organizzato a **Uluru**
 **26/08** Volo Nadi/Adelaide/Dubai
 
 **27/08** Volo Dubai/Milano
-			 
+	 
 
 <address>
 Banca: Banco di credito cooperativo<br/>
