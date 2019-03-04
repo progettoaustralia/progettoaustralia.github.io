@@ -35,7 +35,7 @@ comincia sempre con il primo passo"
 
 **11/08** Volo Hamiton Island/Cairns
 
-**12/08** Tour organizzato alla **barriera corallina**	
+**12/08** Tour organizzato alla **barriera corallina**
 ![]({{site.baseurl}}/images/AU_barriera%20corallina.jpg)
 
 **13/08** Noleggio auto e trasferimento per Cape Tribulation
@@ -51,7 +51,7 @@ Visita in autonomia dei **monti Olgas** e a seguire tour organizzato a **Uluru**
 
 **17/08** Trasferimento per **Alice Springs**
 
-**18/08** Volo Alice Spring/Sydney  					
+**18/08** Volo Alice Spring/Sydney
 
 **19/08** **Sydney**: visita alla città
 ![Sydney-skyline.jpg]({{site.baseurl}}/images/Sydney-skyline.jpg)
