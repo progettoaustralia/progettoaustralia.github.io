@@ -11,11 +11,9 @@ categories:
 "Un viaggio di mille miglia comincia sempre con il primo passo" (Lao Tzu)
 </div>
 
-**03/08** Volo Milano/Dubai
+03/08 Volo Milano/Melbourne
 
-**04/08** Volo Dubai/Melbourne
-
-**05/08** **Melbourne**: giornata libera
+05/08 Melbourne
 ![01-melbourne.jpg]({{site.baseurl}}/images/01-melbourne.jpg)
 
 **06/08** Noleggio auto e proseguimento per **Phillip island** per visita in autonomia alla **Parata dei Pinguini**
