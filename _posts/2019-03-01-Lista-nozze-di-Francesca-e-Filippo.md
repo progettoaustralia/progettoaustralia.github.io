@@ -38,7 +38,6 @@ categories:
 
 **16/08** Kings Canyon
 ![]({{site.baseurl}}/images/AU_kings-canyon-australia-6.jpg)
-![AU_kings-canyon-australia-6.jpg]({{site.baseurl}}/images/AU_kings-canyon-australia-6.jpg)
 
 **17/08** Alice Springs
 
