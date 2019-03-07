@@ -17,7 +17,7 @@ categories:
 ![01-melbourne.jpg]({{site.baseurl}}/images/01-melbourne.jpg)
 
 **06/08** Phillip island
-![PENGUINS PARADE.jpg]({{site.baseurl}}/images/PENGUINS%20PARADE.jpg)
+![]({{site.baseurl}}/images/PENGUINS%20PARADE.jpg)
 
 **07/08** Great Ocean Road
 ![12apostoles.jpg]({{site.baseurl}}/images/12apostoles.jpg)
