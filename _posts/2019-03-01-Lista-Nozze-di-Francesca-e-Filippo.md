@@ -8,65 +8,41 @@ comincia sempre con il primo passo"_
 (Lao Tzu)
 </div>
 
-**03/08** Volo Milano/Dubai
+**03/08** Voli Milano/Melbourne
 
-**04/08** Volo Dubai/Melbourne
-
-**05/08** **Melbourne**: giornata libera
+**05/08** **Melbourne**
 ![01-melbourne.jpg]({{site.baseurl}}/images/01-melbourne.jpg)
 
-**06/08** Noleggio auto e proseguimento per **Phillip island** per visita alla **Parata dei Pinguini**
+**06/08** **Phillip island**
 ![PENGUINS PARADE.jpg]({{site.baseurl}}/images/PENGUINS%20PARADE.jpg)
 
-**07/08** Trasferimento per Port Campbell. Lungo la strada visita ai **12 Apostoli**
+**07/08** **Great Ocean Road**
 ![12apostoles.jpg]({{site.baseurl}}/images/12apostoles.jpg)
 
-**08/08** Rientro a Melbourne
+**09/08** **Hamilton Island**
 
-**09/08** Volo Melbourne/Hamilton Island
-
-**10/08** Tour organizzato : **Utimate Whitsunday Whitehaven beach**
+**10/08** **Whitsunday Whitehaven beach**
 ![AU_hamilton-island-australia-3.jpg]({{site.baseurl}}/images/AU_hamilton-island-australia-3.jpg)
 
-**11/08** Volo Hamiton Island/Cairns
+**11/08** **Cairns**
 
-**12/08** Tour organizzato alla **barriera corallina**	
-![]({{site.baseurl}}/images/AU_barriera%20corallina.jpg)
+**13/08** **Cape Tribulation**
 
-**13/08** Noleggio auto e trasferimento per Cape Tribulation
-
-**14/08** Visita a **Cape Tribulation** e rientro a Cairns
-![AU_CAPE TRIBULATION.jpg]({{site.baseurl}}/images/AU_CAPE%20TRIBULATION.jpg)
-
-**15/08** Volo Cairns/Ayers Rock.
-Visita in autonomia dei **monti Olgas** e a seguire tour organizzato a **Uluru**
+**15/08** **Ayers Rock**
 ![AU_ULURU.jpg]({{site.baseurl}}/images/AU_ULURU.jpg)
 
-**16/08** Trasferimento per **Kings Canyon** con auto a noleggio
+**16/08** **Kings Canyon**
+![]({{site.baseurl}}/images/AU_kings-canyon-australia-6.jpg)![AU_kings-canyon-australia-6.jpg]({{site.baseurl}}/images/AU_kings-canyon-australia-6.jpg)
 
-**17/08** Trasferimento per **Alice Springs**
+**17/08** **Alice Springs**
 
-**18/08** Volo Alice Spring/Sydney  					
-
-**19/08** **Sydney**: visita alla città
+**19/08** **Sydney**
 ![Sydney-skyline.jpg]({{site.baseurl}}/images/Sydney-skyline.jpg)
 
-**20/08** Sydney
-
-**21/08** Volo Sydney Nadi e trasferimento al resort sull'**isola di Matamanoa**
-
-**22/08** Matamanoa Island Resort
+**21/08** **Isola di Matamanoa-Fiji**
 ![matamanoa-island-resort.jpg]({{site.baseurl}}/images/matamanoa-island-resort.jpg)
 
-**23/08** Matamanoa  Island Resort
-
-**24/08** Matamanoa  Island Resort
-
-**25/08** Matamanoa  Island Resort
-
-**26/08** Volo Nadi/Adelaide/Dubai
-
-**27/08** Volo Dubai/Milano
+**26/08** Voli Adelaide/Milano
 			 
 
 <address>
