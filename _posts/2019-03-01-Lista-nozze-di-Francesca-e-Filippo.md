@@ -47,7 +47,7 @@ categories:
 **21/08** Isola di Matamanoa-Fiji
 ![matamanoa-island-resort.jpg]({{site.baseurl}}/images/matamanoa-island-resort.jpg)
 
-**26/08** Voli Adelaide/Milano
+**26/08** Volo Adelaide/Milano
 	 
 
 <address>
