@@ -28,18 +28,17 @@ categories:
 ![AU_hamilton-island-australia-3.jpg]({{site.baseurl}}/images/AU_hamilton-island-australia-3.jpg)
 
 **11/08** Cairns
-[]({{site.baseurl}}/images/AU_barriera%20corallina.jpg)
+![]({{site.baseurl}}/images/AU_barriera%20corallina.jpg)
 
-**13/08** Noleggio auto e trasferimento per Cape Tribulation
-
-**14/08** Visita in autonomia a **Cape Tribulation** e rientro a Cairns
+**13/08** Cape Tribulation
 ![AU_CAPE TRIBULATION.jpg]({{site.baseurl}}/images/AU_CAPE%20TRIBULATION.jpg)
 
-**15/08** Volo Cairns/Ayers Rock.
-Visita in autonomia dei **monti Olgas** e a seguire tour organizzato a **Uluru**
+**15/08** Ayers Rock
 ![AU_ULURU.jpg]({{site.baseurl}}/images/AU_ULURU.jpg)
 
-**16/08** Trasferimento per **Kings Canyon** con auto a noleggio
+**16/08** Kings Canyon
+![]({{site.baseurl}}/images/AU_kings-canyon-australia-6.jpg)
+![AU_kings-canyon-australia-6.jpg]({{site.baseurl}}/images/AU_kings-canyon-australia-6.jpg)
 
 **17/08** Trasferimento per **Alice Springs**
 
