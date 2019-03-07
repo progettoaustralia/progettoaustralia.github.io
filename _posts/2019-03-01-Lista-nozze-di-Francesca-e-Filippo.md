@@ -40,29 +40,15 @@ categories:
 ![]({{site.baseurl}}/images/AU_kings-canyon-australia-6.jpg)
 ![AU_kings-canyon-australia-6.jpg]({{site.baseurl}}/images/AU_kings-canyon-australia-6.jpg)
 
-**17/08** Trasferimento per **Alice Springs**
+**17/08** Alice Springs
 
-**18/08** Volo Alice Spring/Sydney
-
-**19/08** **Sydney**: visita alla città
+**19/08** Sydney
 ![Sydney-skyline.jpg]({{site.baseurl}}/images/Sydney-skyline.jpg)
 
-**20/08** Sydney
-
-**21/08** Volo Sydney/Nadi e trasferimento al resort sull'**isola di Matamanoa**
-
-**22/08** Matamanoa Island Resort
+**21/08** Isola di Matamanoa-Fiji
 ![matamanoa-island-resort.jpg]({{site.baseurl}}/images/matamanoa-island-resort.jpg)
 
-**23/08** Matamanoa  Island Resort
-
-**24/08** Matamanoa  Island Resort
-
-**25/08** Matamanoa  Island Resort
-
-**26/08** Volo Nadi/Adelaide/Dubai
-
-**27/08** Volo Dubai/Milano
+**26/08** Voli Adelaide/Milano
 	 
 
 <address>
