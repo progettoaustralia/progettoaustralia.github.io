@@ -11,28 +11,24 @@ categories:
 "Un viaggio di mille miglia comincia sempre con il primo passo" (Lao Tzu)
 </div>
 
-03/08 Volo Milano/Melbourne
+**03/08** Volo Milano/Melbourne
 
-05/08 Melbourne
+**05/08** Melbourne
 ![01-melbourne.jpg]({{site.baseurl}}/images/01-melbourne.jpg)
 
-**06/08** Noleggio auto e proseguimento per **Phillip island** per visita in autonomia alla **Parata dei Pinguini**
+**06/08** Phillip island
 ![PENGUINS PARADE.jpg]({{site.baseurl}}/images/PENGUINS%20PARADE.jpg)
 
-**07/08** Trasferimento per Port Campbell. Lungo la strada visita in autonomia ai **12 Apostoli**
+**07/08** Great Ocean Road
 ![12apostoles.jpg]({{site.baseurl}}/images/12apostoles.jpg)
 
-**08/08** Rientro a Melbourne
+**09/08** Hamilton Island
 
-**09/08** Volo Melbourne/Hamilton Island
-
-**10/08** Tour organizzato: **Utimate Whitsunday Whitehaven beach**
+**10/08** Whitsunday Whitehaven beach
 ![AU_hamilton-island-australia-3.jpg]({{site.baseurl}}/images/AU_hamilton-island-australia-3.jpg)
 
-**11/08** Volo Hamiton Island/Cairns
-
-**12/08** Tour organizzato alla **barriera corallina**
-![]({{site.baseurl}}/images/AU_barriera%20corallina.jpg)
+**11/08** Cairns
+[]({{site.baseurl}}/images/AU_barriera%20corallina.jpg)
 
 **13/08** Noleggio auto e trasferimento per Cape Tribulation
 
