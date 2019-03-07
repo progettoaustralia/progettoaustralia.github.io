@@ -28,7 +28,7 @@ categories:
 ![AU_hamilton-island-australia-3.jpg]({{site.baseurl}}/images/AU_hamilton-island-australia-3.jpg)
 
 **11/08** Cairns
-![]({{site.baseurl}}/images/AU_barriera%20corallina.jpg)
+![]({{site.baseurl}}/images/AU_BARRIERA%20CORALLINA%20MOOD.jpg)
 
 **13/08** Cape Tribulation
 ![AU_CAPE TRIBULATION.jpg]({{site.baseurl}}/images/AU_CAPE%20TRIBULATION.jpg)
