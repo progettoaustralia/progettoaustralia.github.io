@@ -16,7 +16,7 @@ categories:
 **05/08** Melbourne
 ![01-melbourne.jpg]({{site.baseurl}}/images/01-melbourne.jpg)
 
-**06/08** Phillip island
+**06/08** Phillip Island
 ![]({{site.baseurl}}/images/PENGUINS%20PARADE.jpg)
 
 **07/08** Great Ocean Road
@@ -51,7 +51,7 @@ categories:
 	 
 
 <address>
-Banca: Banco di credito cooperativo<br/>
+Banca: Banca di credito cooperativo<br/>
 Intestatari: Fanelli Francesca  Fortunato Filippo<br/>
 Iban: IT 52 T 08869 53150 000000016829<br/>
 </address>
