@@ -1,5 +1,5 @@
 ---
-published: true
+published: false
 layout: lista
 categories:
   - lista-nozze
