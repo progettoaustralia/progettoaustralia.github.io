@@ -1,5 +1,10 @@
 ---
-published: false
+published: true
+layout: lista
+categories:
+  - lista-nozze
+  - itinerario
+  - luna-di-miele
 ---
 ![danila giuseppe.jpg]({{site.baseurl}}/images/danila giuseppe.jpg)
 
@@ -68,4 +73,3 @@ Trasferimento organizzato al Matamanoa Island Resort, Mamanuca Islands
 **03/10** Volo Nadi-Sydney-Dubai 
 
 **04/10** Volo Dubai-Roma
-
