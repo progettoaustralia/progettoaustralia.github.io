@@ -73,3 +73,5 @@ Trasferimento organizzato al Matamanoa Island Resort, Mamanuca Islands
 **03/10** Volo Nadi-Sydney-Dubai 
 
 **04/10** Volo Dubai-Roma
+
+CAMPIONE DANILA : IT71U0200817102000103051051
