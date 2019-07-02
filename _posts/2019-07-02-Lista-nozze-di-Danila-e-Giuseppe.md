@@ -19,16 +19,16 @@ _“Un Viaggio è sempre una scoperta, prima di luoghi nuovi è la scoperta di c
 **11/09** Ritiro auto e partenza per **Great Ocean Road**
 ![12ApostlesGreatOceanRoad.jpg]({{site.baseurl}}/images/12ApostlesGreatOceanRoad.jpg)
 
-**12/09** Robe
+**12/09** **Robe**
                                 
-**13/09** Victor Harbour
+**13/09** **Victor Harbour**
 
 **14/09** Traghetto per Kangaroo Island
 
 **15/09** Visita **Kangaroo Island**
 ![AU_kangaroo island.jpg]({{site.baseurl}}/images/AU_kangaroo%20island.jpg)
 
-**16/09** Mc Laren Vale (zona vinicola) nei dintorni di Adelaide
+**16/09** **Mc Laren Vale** (zona vinicola) nei dintorni di Adelaide
 
 **17/09** **Adelaide**: visita della città
 ![AU_adelaide-australia.jpg]({{site.baseurl}}/images/AU_adelaide-australia.jpg)
@@ -39,7 +39,7 @@ Aperitivo nel deserto al **Field of Lights**
 **19/09** Tour in giornata al **Kings Canyon**
 ![Kings Canyon_Garden of Eden_Voyages.jpg]({{site.baseurl}}/images/Kings%20Canyon_Garden%20of%20Eden_Voyages.jpg)
                 
-**20/09** Tour di mezza giornata “Alba ad Ayers Rock e visita ai Monti Olgas”.
+**20/09** Tour di mezza giornata “Alba ad Ayers Rock e visita ai **Monti Olgas**”.
 Volo Ayers Rock-Cairns 
 
 **21/09** Tour in giornata sulla **Grande Barriera Corallina**
