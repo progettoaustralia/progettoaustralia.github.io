@@ -75,6 +75,6 @@ Trasferimento organizzato al Matamanoa Island Resort, Mamanuca Islands
 **04/10** Volo Dubai-Roma
 
 <address>
-Intestatario: CAMPIONE DANILA<br/>
-Iban: IT 71U 02008 17102 00010 30510 51<br/>
+**Intestatario: CAMPIONE DANILA**<br/>
+**Iban: IT 71U 02008 17102 00010 30510 51**<br/>
 </address>
