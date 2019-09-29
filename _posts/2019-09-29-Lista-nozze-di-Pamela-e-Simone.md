@@ -9,9 +9,7 @@ categories:
 ![]({{site.baseurl}}/images/pamela%20e%20simone.jpg)
 
 
-<div class="citazione">
-“Il Meglio Deve Ancora Venire”
-</div>
+_“Il Meglio Deve Ancora Venire”_
 
 **29/10** Partenza da Cagliari
 
@@ -59,7 +57,6 @@ categories:
 
 
 <address>
-CC INTESTATO A: SIMONE MASCIA<br/>
+Intestatario: SIMONE MASCIA<br/>
 IBAN: IT55G3608105138252010052017<br/>
 </address>
-  
