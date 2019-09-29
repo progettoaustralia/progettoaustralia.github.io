@@ -45,7 +45,7 @@ _“Il Meglio Deve Ancora Venire”_
 **11/11** Volo da Sydney ad Hamilton Island - **Isole Whitsundays**
 ![AU_Whitehaven Beach.jpg]({{site.baseurl}}/images/AU_Whitehaven%20Beach.jpg)
 
-**12/11** Giornata libera per relax e snorkellng
+**12/11** Giornata libera per relax e snorkeling
 
 **13/11** Crociera in giornata alla Whitehaven Beach
 
